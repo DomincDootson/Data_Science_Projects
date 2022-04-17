@@ -16,9 +16,9 @@ class Recipe_Book():
 		source = requests.get(page_url).text
 		soup = BeautifulSoup(source, "lxml")
 
-		#recipe_urls = [recipe['href'] for recipe in soup.find_all("a", class_ = "u-faux-block-link__overlay js-headline-text")]
+		recipe_urls = [recipe['href'] for recipe in soup.find_all("a", class_ = "u-faux-block-link__overlay js-headline-text")]
 		#self.recipes = [Recipe(url) for url in recipe_urls]
-		#print(recipe_urls)
+		print(recipe_urls)
 
 		self.get_next_page(soup, first_page)
 
