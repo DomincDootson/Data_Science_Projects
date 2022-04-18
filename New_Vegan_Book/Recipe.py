@@ -6,27 +6,34 @@ class Recipe(object):
 	
 	## Web Scraping and Init ##
 	## --------------------- ##
-	def __init__(self, web_address):
-		source = requests.get(web_address).text
-		soup = BeautifulSoup(source, "lxml")
+	def __init__(self, address, is_Web_Address = True):
+		if is_Web_Address:	
+			if "weekly-meal-plan" in address:
+				self.title = "DONT USE"
+				return None
+			if "https://www.theguardian.com/lifeandstyle/2018/jan/27/meera-sodhas-vegan-swede-laksa-recipe" in address:
+				self.title = "DONT USE"
+				return None
 
-		self.get_title(soup)
-		self.get_date(soup) 
+			source = requests.get(address).text
+			soup = BeautifulSoup(source, "lxml")
 
-		holding = soup.find_all('p', class_ = 'dcr-3jlghf')
+			self.get_title(soup)
+			self.get_date(soup) 
 
-		self.get_preamble(holding)		
-		self.get_info(holding)
-		self.get_ingredients_and_steps(holding)
+			holding = soup.find_all('p', class_ = 'dcr-3jlghf')
 
+			self.get_preamble(holding)		
+			self.get_info(holding)
+			self.get_ingredients_and_steps(holding)
 
+			
+			#self.image_filepath = "Recipe_Pictures/" +self.title.replace(" ", "_") + ".png"
+			#self.get_image(soup)
+		else:
+			self.read_recipe_card(address)
 
-		'''
-		self.image_filepath = "Recipe_Pictures/" +self.title.replace(" ", "_") + ".png"
-		self.get_image(soup)'''
-
-
-
+		print(self.title)
 
 	def get_title(self, soup):
 		self.title = soup.find('h2').text
@@ -36,7 +43,6 @@ class Recipe(object):
 			self.date = soup.find('summary', class_ = 'dcr-12fpzem').text
 		if (soup.find('div', class_ = 'dcr-km9fgb') != None):	
 			self.date = soup.find('div', class_ = 'dcr-km9fgb').text
-		print(self.date)
 	
 	def get_preamble(self, soup): 
 		self.preamble = ""
@@ -46,12 +52,18 @@ class Recipe(object):
 			else:
 				del soup[:i] # Passing a list is really passing a pointer
 				break
+		self.preamble = self.preamble[:-1] # For formatting reasons, we don't want the file '\n' char
+
+	
+	def initialise_info(self):
+		self.info = {"Prep" : None, "Cook" : None, "Chill": None, "Rest" : None, "Soak" : None, "Serves" : None, "Makes" : None}
 
 
 	def get_info(self, soup): 
-		self.info = {"Prep" : None, "Cook" : None, "Serves" : None, "Chill": None}
-		have_we_got_info, text = False, soup[0].text
+		self.initialise_info()
+		text = soup[0].text
 		positions_of_key_words = []
+
 		for key in self.info:
 			positions_of_key_words.append(text.find(key))
 			have_we_got_info = True
@@ -72,29 +84,29 @@ class Recipe(object):
 				if key in text[pair[0]:pair[1]]:
 					self.info[key] = text[pair[0]:pair[1]].replace(key, "").strip()
 			
-		if have_we_got_info:
+		if not self.is_info_empty():
 			del soup[0]
 
 
 	def get_image(self, soup):
 		image_url = soup.find('img', class_ = "dcr-1989ovb")['src']
-		print(image_url)
 		
 		r = requests.get(image_url, stream = True)
-
 		r.raw.decode_content = True
 		with open(self.image_filepath,'wb') as f:
 			shutil.copyfileobj(r.raw, f)
 		
 	def get_ingredients_and_steps(self, soups):
 		self.ingredients, self.steps = [], []
-
 		for soup in soups:
 			if "<strong>" in str(soup): # Each group of ingredience will contain a <strong> tag
 				strings = str(soup).split("<br/>")
 				self.ingredients.append([self.remove_html_tags(string) for string in strings][:])
 			else:
 				self.steps.append(self.remove_html_tags(str(soup)))
+
+		if self.steps[-1] == '\n':
+			self.steps.remove(-1)
 
 	def remove_html_tags(self, string):
 		split_string, string =  [char for char in string], '' # you don't need to split it 
@@ -117,45 +129,108 @@ class Recipe(object):
 		else:
 			return True
 
-
-
 	## Recipe Card Reading & Writing ##
 	## ----------------------------- ##
 
 	def list_of_preamble(self):
 		return [self.title, self.preamble, self.date]
 
+	def is_info_empty(self):
+		is_empty = True
+		for key in self.info:
+			if self.info[key] != None:
+				is_empty = False
+				pass 
+		return is_empty
+
+	def recipe_card_filename(self):
+		return "Recipe_Cards/" + self.title.replace(" ", "_") + ".txt"
+
 	def save_recipe_card(self, file_path = 'testing.txt'):
 		if file_path == 'testing.txt':
-			file_path = "Recipe_Cards/" + self.title.replace(" ", "_") + ".txt"
+			file_path = self.recipe_card_filename()
 
 		with open(file_path, 'w') as f:
 			f.writelines('\n\n'.join(self.list_of_preamble()))
 			f.write('\n\n')
 
-			for key in self.info:
-				if self.info[key] != None:
-					f.writelines(key + ": " + self.info[key] + '\n')
-			f.writelines('\n')
-
+			if (not self.is_info_empty()):
+				for key in self.info:
+					if self.info[key] != None:
+						f.writelines(key + ": " + self.info[key] + '\n')
+				f.writelines('\n')
+				
 			if len(self.ingredients) == 1: # For the ingrdience and the step we will seperate each element with a '|'
 				f.writelines('\n'.join(self.ingredients[0]))
 				f.write('\n\n')
 			else:
-				f.writelines('\n\n'.join(['\n'.join(part) for part in self.ingredients])) # Different parts of ingredience will be seperated by '||'
+				f.writelines('\n\n'.join(['\n'.join(part) for part in self.ingredients])) 
 				f.write('\n\n')
 
+			f.writelines("Steps\n")
 			f.writelines('\n'.join(self.steps))
 			f.close()
 
 	def read_recipe_card(self, file_path):
 		with open(file_path, 'r') as f:
-			self.title, self.preamble, self.date, self.prep, self.cook, self.serves = f.readline().replace('\n', ""), f.readline().replace('\n', ""), f.readline().replace('\n', ""), f.readline().replace('\n', ""), f.readline().replace('\n', ""), f.readline().replace('\n', "")
+			self.read_title(f)
+			self.read_preamble(f)
+			self.read_date(f)
+			line = self.read_info(f)
+			self.read_ingredients(f, line)
+			self.read_steps(f)
+			f.close()
 
-			self.ingredients = [part.split('|') for part in (f.readline().replace('\n', "")).split('||')]
-			self.steps = (f.readline().replace('\n', "")).split('|')
+	def read_title(self, file):
+		self.title = file.readline().replace('\n', "")
+		file.readline()
 
+	def read_preamble(self, file):
+		line, self.preamble = file.readline(), ""
+		while line != '\n':
+			self.preamble += line
+			line = file.readline()
+		self.preamble = self.preamble[:-1]
 
-recipe = Recipe("https://www.theguardian.com/lifeandstyle/2017/aug/05/samphire-potato-chickpea-chaat-recipe-vegan-meera-sodha")
-#recipe = Recipe("https://www.theguardian.com/food/2022/mar/19/ixta-belfrages-vegan-recipe-for-curried-caramelised-onion-galette")
-recipe.save_recipe_card()
+	def read_date(self, file):
+		self.date = file.readline().replace('\n', "")
+		file.readline()
+
+	def read_info(self, file):
+		self.initialise_info()
+		line = file.readline()
+		if not ':' in line:
+			return line
+
+		while line != '\n' or (':' in line): # We need the second conditional for those recipes that don't have info
+			position_of_colon = line.find(':')
+			self.info[line[:position_of_colon]] = line[position_of_colon+2:].replace('\n', "")
+
+			line = file.readline()
+		
+		return file.readline()
+
+	def read_ingredients(self, file, line):
+		self.ingredients = []
+
+		while line != "Steps\n":
+			sub_list = []
+			while line != '\n':
+				sub_list.append(line.replace('\n',""))
+				line = file.readline()
+			
+			(self.ingredients).append(sub_list)
+			line = file.readline()
+
+	def read_steps(self, file):
+		self.steps, line = [], file.readline()
+		while line[-1] == '\n':
+			(self.steps).append(line)
+			line = file.readline()
+			if len(line) == 0:
+				break # if a final line is added at the end of the recipe
+			
+		(self.steps).append(line)
+
+		self.steps = [step.replace('\n',"") for step in self.steps]
+
