@@ -1,0 +1,252 @@
+\contentsline {chapter}{\numberline {1}January}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Sweetcorn chowder with smoky chipotle oil}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Lemon tart}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Miso and coconut winter greens}{5}{section.1.3}
+\contentsline {section}{\numberline {1.4}Leftover Christmas mixed fruit garibaldis}{7}{section.1.4}
+\contentsline {section}{\numberline {1.5}Kiri hodi with butternut squash}{9}{section.1.5}
+\contentsline {section}{\numberline {1.6}Gujarati whole mung dal with sambharo}{11}{section.1.6}
+\contentsline {section}{\numberline {1.7}Haggis kheema and tattie rotis}{13}{section.1.7}
+\contentsline {section}{\numberline {1.8}Hoppin\IeC {\textquoteright } John}{16}{section.1.8}
+\contentsline {section}{\numberline {1.9}Apple pudding cake}{18}{section.1.9}
+\contentsline {section}{\numberline {1.10}Spiced beetroot with 60-minute injera}{20}{section.1.10}
+\contentsline {section}{\numberline {1.11}Most popular}{22}{section.1.11}
+\contentsline {section}{\numberline {1.12}Masala baked beans on toast with green chutney}{24}{section.1.12}
+\contentsline {section}{\numberline {1.13}Tofu katsu sando with celeriac and apple slaw}{26}{section.1.13}
+\contentsline {section}{\numberline {1.14}Cauliflower and sweet potato tacos with coriander chilli salsa}{28}{section.1.14}
+\contentsline {section}{\numberline {1.15}Tiger roll sushi}{30}{section.1.15}
+\contentsline {section}{\numberline {1.16}Salted miso brownies (pictured above)}{32}{section.1.16}
+\contentsline {section}{\numberline {1.17}Tofu akuri (pictured above)}{34}{section.1.17}
+\contentsline {section}{\numberline {1.18}Roast red cabbage and tamarind rasam (pictured above)}{36}{section.1.18}
+\contentsline {section}{\numberline {1.19}Ben ben noodles}{38}{section.1.19}
+\contentsline {section}{\numberline {1.20}Most popular}{40}{section.1.20}
+\contentsline {section}{\numberline {1.21}Sweet potato and aubergine massaman curry}{42}{section.1.21}
+\contentsline {section}{\numberline {1.22}Aloo paratha with quick lemon pickle}{44}{section.1.22}
+\contentsline {chapter}{\numberline {2}February}{47}{chapter.2}
+\contentsline {section}{\numberline {2.1}Tagliatelle with charred red pepper sauce and salsa verde}{47}{section.2.1}
+\contentsline {section}{\numberline {2.2}Oyster mushrooms with tomato chipotle butter sauce and creamy polenta}{50}{section.2.2}
+\contentsline {section}{\numberline {2.3}Sticky rice-stuffed aubergines}{53}{section.2.3}
+\contentsline {section}{\numberline {2.4}Creamy saffron orzo with roast butternut and scotch bonnet}{56}{section.2.4}
+\contentsline {section}{\numberline {2.5}Rhubarb and pistachio tart}{59}{section.2.5}
+\contentsline {section}{\numberline {2.6}Hasselback celeriac with miso and red onion}{61}{section.2.6}
+\contentsline {section}{\numberline {2.7}Spring onion pancakes with sesame sauce}{64}{section.2.7}
+\contentsline {section}{\numberline {2.8}Maham\IeC {\textquoteright }s dal}{66}{section.2.8}
+\contentsline {section}{\numberline {2.9}Chocolate chip cookies}{68}{section.2.9}
+\contentsline {section}{\numberline {2.10}Miso mushrooms on toast}{70}{section.2.10}
+\contentsline {section}{\numberline {2.11}Rose harissa chickpea stew with burnt chard}{72}{section.2.11}
+\contentsline {section}{\numberline {2.12}Soba noodle soup with caramelised cabbage and pickles}{74}{section.2.12}
+\contentsline {section}{\numberline {2.13}Pistachio, chilli and lemon spaghetti}{76}{section.2.13}
+\contentsline {section}{\numberline {2.14}Potato, aubergine and spinach curry}{78}{section.2.14}
+\contentsline {section}{\numberline {2.15}Aubergine fesenjan}{80}{section.2.15}
+\contentsline {section}{\numberline {2.16}Iraqi white bean stew (fasoulia)}{82}{section.2.16}
+\contentsline {section}{\numberline {2.17}Wild rice kitchari with baked yoghurt and chilli seeds}{84}{section.2.17}
+\contentsline {section}{\numberline {2.18}Blood orange and polenta cakes}{86}{section.2.18}
+\contentsline {section}{\numberline {2.19}Kimchi pancakes with spinach salad}{88}{section.2.19}
+\contentsline {section}{\numberline {2.20}Gujarati potato and cabbage curry}{90}{section.2.20}
+\contentsline {chapter}{\numberline {3}March}{93}{chapter.3}
+\contentsline {section}{\numberline {3.1}Creamy butter bean gratin with roast tomatoes and salsa fresca}{93}{section.3.1}
+\contentsline {section}{\numberline {3.2}Curried caramelised onion galette}{96}{section.3.2}
+\contentsline {section}{\numberline {3.3}Cassava, coconut and passion fruit cake}{99}{section.3.3}
+\contentsline {section}{\numberline {3.4}Tomato and blood orange salad with ginger tahini sauce}{101}{section.3.4}
+\contentsline {section}{\numberline {3.5}Oat, spice and currant cookies}{103}{section.3.5}
+\contentsline {section}{\numberline {3.6}Swede and mushroom tacos with peanut salsa}{105}{section.3.6}
+\contentsline {section}{\numberline {3.7}Aubergine donburi}{107}{section.3.7}
+\contentsline {section}{\numberline {3.8}Whole broccoli and zhoug spaghetti}{109}{section.3.8}
+\contentsline {section}{\numberline {3.9}Portobello mushroom and hoisin sauce pancakes}{111}{section.3.9}
+\contentsline {section}{\numberline {3.10}Butternut squash and sweetcorn erriseri}{113}{section.3.10}
+\contentsline {section}{\numberline {3.11}Polenta with balsamic fried radicchio, mushrooms and sage}{115}{section.3.11}
+\contentsline {section}{\numberline {3.12}Broccoli, fennel and chickpea stew}{117}{section.3.12}
+\contentsline {section}{\numberline {3.13}Puy lentil and roast vegetable salad}{119}{section.3.13}
+\contentsline {section}{\numberline {3.14}Burnt garlic, cavolo nero and black bean noodles}{121}{section.3.14}
+\contentsline {section}{\numberline {3.15}Creole rice with burnt peppers}{123}{section.3.15}
+\contentsline {section}{\numberline {3.16}Basbousa with orange and rose syrup}{125}{section.3.16}
+\contentsline {section}{\numberline {3.17}Katsu curry with panko aubergines and pickled radishes}{127}{section.3.17}
+\contentsline {section}{\numberline {3.18}Jamaican Easter buns}{130}{section.3.18}
+\contentsline {section}{\numberline {3.19}Butternut squash coconut fry with seed and peel chutney}{132}{section.3.19}
+\contentsline {section}{\numberline {3.20}Peanut butter and purple sprouting broccoli pad thai}{134}{section.3.20}
+\contentsline {section}{\numberline {3.21}Leek, mushroom, kale and pea subji}{136}{section.3.21}
+\contentsline {chapter}{\numberline {4}April}{139}{chapter.4}
+\contentsline {section}{\numberline {4.1}Rigatoni with crema di rucola}{139}{section.4.1}
+\contentsline {section}{\numberline {4.2}Chocolate and tahini cream tart}{142}{section.4.2}
+\contentsline {section}{\numberline {4.3}Miso \IeC {\textquotedblleft }caesar\IeC {\textquotedblright } salad with sesame-maple croutons}{145}{section.4.3}
+\contentsline {section}{\numberline {4.4}Spinach and butter bean stew with toasted pine nuts}{148}{section.4.4}
+\contentsline {section}{\numberline {4.5}Mango and coconut yoghurt curry}{150}{section.4.5}
+\contentsline {section}{\numberline {4.6}Farinata with balsamic onions and asparagus}{152}{section.4.6}
+\contentsline {section}{\numberline {4.7}Leek, almond and herb tabbouleh}{154}{section.4.7}
+\contentsline {section}{\numberline {4.8}Asparagus and cashew thoran}{156}{section.4.8}
+\contentsline {section}{\numberline {4.9}Rojak salad with avocado, tofu and tamarind}{158}{section.4.9}
+\contentsline {section}{\numberline {4.10}Tofu with tomatoes, sweet soy and greens}{160}{section.4.10}
+\contentsline {section}{\numberline {4.11}Ethiopian Easter bread with fennel and orange}{162}{section.4.11}
+\contentsline {section}{\numberline {4.12}Caramelised onion ramen}{164}{section.4.12}
+\contentsline {section}{\numberline {4.13}White miso and tofu ramen with chilli garlic asparagus}{166}{section.4.13}
+\contentsline {section}{\numberline {4.14}Jackfruit tacos with fried corn and hot cashew sauce}{168}{section.4.14}
+\contentsline {section}{\numberline {4.15}Chocolate, date and coffee cake}{171}{section.4.15}
+\contentsline {section}{\numberline {4.16}Spring vegetable bun cha with tofu and soy-pickled cabbage}{173}{section.4.16}
+\contentsline {chapter}{\numberline {5}May}{177}{chapter.5}
+\contentsline {section}{\numberline {5.1}Spaghetti with roast almond and tomato pesto}{177}{section.5.1}
+\contentsline {section}{\numberline {5.2}Walnut-stuffed aubergines}{179}{section.5.2}
+\contentsline {section}{\numberline {5.3}Granny Jean\IeC {\textquoteright }s date slices}{181}{section.5.3}
+\contentsline {section}{\numberline {5.4}Tofu and mushroom bulgogi}{183}{section.5.4}
+\contentsline {section}{\numberline {5.5}Green tea rice with sake vegetables}{185}{section.5.5}
+\contentsline {section}{\numberline {5.6}No-cook salad with tomatoes, chickpeas and rose harissa}{187}{section.5.6}
+\contentsline {section}{\numberline {5.7}Sticky Assam malt loaf}{189}{section.5.7}
+\contentsline {section}{\numberline {5.8}Potato, coconut and peanut tikkis with pea chutney}{191}{section.5.8}
+\contentsline {section}{\numberline {5.9}Cauliflower, beetroot and asparagus salad with mustard-miso dressing}{193}{section.5.9}
+\contentsline {section}{\numberline {5.10}Chocolate, olive oil and passion fruit cake}{195}{section.5.10}
+\contentsline {section}{\numberline {5.11}Pondicherry toast}{197}{section.5.11}
+\contentsline {section}{\numberline {5.12}Banana bread with toasted coconut}{199}{section.5.12}
+\contentsline {section}{\numberline {5.13}Vegetarian chilli burger with garlic \IeC {\textquoteleft }mayo\IeC {\textquoteright }}{201}{section.5.13}
+\contentsline {section}{\numberline {5.14}Aubergine larb with sticky rice and shallot and peanut salad}{204}{section.5.14}
+\contentsline {section}{\numberline {5.15}Green pea, black-eyed bean and chickpea usal}{206}{section.5.15}
+\contentsline {chapter}{\numberline {6}June}{209}{chapter.6}
+\contentsline {section}{\numberline {6.1}Dry-fried beans with minced tofu}{209}{section.6.1}
+\contentsline {section}{\numberline {6.2}Courgette, pea and asparagus soup}{211}{section.6.2}
+\contentsline {section}{\numberline {6.3}Potato salad with tamarind, coconut and cashews}{213}{section.6.3}
+\contentsline {section}{\numberline {6.4}Fennel and dill dal}{215}{section.6.4}
+\contentsline {section}{\numberline {6.5}Cold sesame noodles with smacked courgette}{217}{section.6.5}
+\contentsline {section}{\numberline {6.6}Summer galette with new potatoes, rocket and artichokes}{219}{section.6.6}
+\contentsline {section}{\numberline {6.7}Cereal milk ice-cream sandwiches}{221}{section.6.7}
+\contentsline {section}{\numberline {6.8}Crispy fried rice with cucumber, peanut and herb salad}{223}{section.6.8}
+\contentsline {section}{\numberline {6.9}Mango sticky rice}{225}{section.6.9}
+\contentsline {section}{\numberline {6.10}Charred broccoli and bean soba noodle salad}{227}{section.6.10}
+\contentsline {section}{\numberline {6.11}Bread salad with kale, pine nuts and roasted lemon}{229}{section.6.11}
+\contentsline {section}{\numberline {6.12}Baked pasta with miso, sweet potato and spinach}{231}{section.6.12}
+\contentsline {section}{\numberline {6.13}Tofu banh mi}{233}{section.6.13}
+\contentsline {section}{\numberline {6.14}Jersey royal and green bean istoo with tamarind shallots}{235}{section.6.14}
+\contentsline {section}{\numberline {6.15}Salted date caramel slices}{237}{section.6.15}
+\contentsline {section}{\numberline {6.16}Wild rice, chickpea and aubergine salad with a tamarind and \IeC {\textquoteleft }yoghurt\IeC {\textquoteright } dressing}{239}{section.6.16}
+\contentsline {section}{\numberline {6.17}Tomato, pistachio and saffron tart}{241}{section.6.17}
+\contentsline {section}{\numberline {6.18}Asparagus, fennel and pea pilau}{243}{section.6.18}
+\contentsline {chapter}{\numberline {7}July}{245}{chapter.7}
+\contentsline {section}{\numberline {7.1}Blueberry cake with elderflower cream}{245}{section.7.1}
+\contentsline {section}{\numberline {7.2}Sweet potato, spring onion and miso salad}{248}{section.7.2}
+\contentsline {section}{\numberline {7.3}Tomato and turmeric kitchari}{250}{section.7.3}
+\contentsline {section}{\numberline {7.4}10-clove garlic focaccia}{252}{section.7.4}
+\contentsline {section}{\numberline {7.5}Sweet potato yaki mochi with black sesame sauce}{254}{section.7.5}
+\contentsline {section}{\numberline {7.6}Crushed borlotti beans with chopped salad and tahini}{256}{section.7.6}
+\contentsline {section}{\numberline {7.7}Butter beans in salsa verde}{258}{section.7.7}
+\contentsline {section}{\numberline {7.8}Sri Lankan cucumber and cashew curry}{260}{section.7.8}
+\contentsline {section}{\numberline {7.9}Summer succotash}{262}{section.7.9}
+\contentsline {section}{\numberline {7.10}Avocado, coconut and matcha ice-cream}{264}{section.7.10}
+\contentsline {section}{\numberline {7.11}Aubergine, green bean, tofu and Thai holy basil stir-fry}{266}{section.7.11}
+\contentsline {section}{\numberline {7.12}Buckwheat dosa with coconut chutney and greens}{268}{section.7.12}
+\contentsline {section}{\numberline {7.13}Thai-style tomato and courgette salad with peanut crumbs}{270}{section.7.13}
+\contentsline {section}{\numberline {7.14}Sunken plum, spelt and ginger cake}{272}{section.7.14}
+\contentsline {section}{\numberline {7.15}Clay pot noodles with beetroot, walnut and smoked tofu}{274}{section.7.15}
+\contentsline {section}{\numberline {7.16}Tomato farro with summer greens and fresh oregano}{276}{section.7.16}
+\contentsline {section}{\numberline {7.17}Caramelised fennel and carrot salad with mung beans and herbs}{278}{section.7.17}
+\contentsline {section}{\numberline {7.18}Sri Lankan beetroot curry and green bean mallum}{280}{section.7.18}
+\contentsline {section}{\numberline {7.19}Maharastrian tamarind and spinach dal}{282}{section.7.19}
+\contentsline {section}{\numberline {7.20}New potato, chard and coconut\IeC {\nobreakspace }curry}{284}{section.7.20}
+\contentsline {chapter}{\numberline {8}August}{287}{chapter.8}
+\contentsline {section}{\numberline {8.1}No-churn cherry and marzipan ice-cream}{287}{section.8.1}
+\contentsline {section}{\numberline {8.2}Fennel and courgette pistou soup}{289}{section.8.2}
+\contentsline {section}{\numberline {8.3}Sweetcorn, chipotle and avocado black rice salad}{291}{section.8.3}
+\contentsline {section}{\numberline {8.4}Onion and potato bhaji burgers}{293}{section.8.4}
+\contentsline {section}{\numberline {8.5}Ugandan rolex}{295}{section.8.5}
+\contentsline {section}{\numberline {8.6}Hugh\IeC {\textquoteright }s oven-baked caponata}{297}{section.8.6}
+\contentsline {section}{\numberline {8.7}One-pot tomato, lemongrass and coconut soba noodles}{299}{section.8.7}
+\contentsline {section}{\numberline {8.8}Strawberry and peach hand pies}{301}{section.8.8}
+\contentsline {section}{\numberline {8.9}Aubergine koftas in tomato and spinach sauce}{303}{section.8.9}
+\contentsline {section}{\numberline {8.10}Mushroom XO sauce with noodles}{305}{section.8.10}
+\contentsline {section}{\numberline {8.11}Barbecue beans and corn fritters}{307}{section.8.11}
+\contentsline {section}{\numberline {8.12}Simple courgette and chickpea dal}{310}{section.8.12}
+\contentsline {section}{\numberline {8.13}Lebanese green beans and vermicelli rice}{312}{section.8.13}
+\contentsline {section}{\numberline {8.14}Chipotle tomatoes with butter beans and quinoa}{314}{section.8.14}
+\contentsline {section}{\numberline {8.15}Burmese mango, peanut and lime salad (Tayat thi toke)}{316}{section.8.15}
+\contentsline {section}{\numberline {8.16}Mum\IeC {\textquoteright }s failsafe ratatouille}{318}{section.8.16}
+\contentsline {section}{\numberline {8.17}Piccalilli spiced rice}{320}{section.8.17}
+\contentsline {section}{\numberline {8.18}Forbidden rice salad with blistered Tenderstem and miso dressing}{322}{section.8.18}
+\contentsline {section}{\numberline {8.19}Sweet potato momos}{324}{section.8.19}
+\contentsline {section}{\numberline {8.20}Tomato curry}{326}{section.8.20}
+\contentsline {section}{\numberline {8.21}Chargrilled summer vegetables with dhana-jeera dressing}{328}{section.8.21}
+\contentsline {section}{\numberline {8.22}Samphire, potato and chickpea chaat}{330}{section.8.22}
+\contentsline {chapter}{\numberline {9}September}{333}{chapter.9}
+\contentsline {section}{\numberline {9.1}Black rice congee}{333}{section.9.1}
+\contentsline {section}{\numberline {9.2}Braised squash and borlotti beans with tomatoes and sage}{335}{section.9.2}
+\contentsline {section}{\numberline {9.3}Tahini banana bread}{337}{section.9.3}
+\contentsline {section}{\numberline {9.4}Satay sauce roast aubergine}{339}{section.9.4}
+\contentsline {section}{\numberline {9.5}Toasted hazelnut baci}{341}{section.9.5}
+\contentsline {section}{\numberline {9.6}Slow-cooked marrow and tomato borani}{343}{section.9.6}
+\contentsline {section}{\numberline {9.7}Shaoxing and soy braised tofu with pak choi}{345}{section.9.7}
+\contentsline {section}{\numberline {9.8}Chilli cornbread with Tenderstem broccoli}{347}{section.9.8}
+\contentsline {section}{\numberline {9.9}Celeriac risotto with sage, caper and lemon oil}{349}{section.9.9}
+\contentsline {section}{\numberline {9.10}Wild mushroom miso broth}{351}{section.9.10}
+\contentsline {section}{\numberline {9.11}Pistachio and cherry croissants}{353}{section.9.11}
+\contentsline {section}{\numberline {9.12}Roast fennel, sun-dried tomato and spelt salad}{355}{section.9.12}
+\contentsline {section}{\numberline {9.13}Ribollita with celeriac and kale}{357}{section.9.13}
+\contentsline {section}{\numberline {9.14}Squash and courgette salad with pitta, pomegranate and tahini}{359}{section.9.14}
+\contentsline {section}{\numberline {9.15}Leeks, saffron and haricot beans}{361}{section.9.15}
+\contentsline {section}{\numberline {9.16}Gorditas with drunken beans, pickles and avocado cream}{363}{section.9.16}
+\contentsline {section}{\numberline {9.17}Aubergine pollichattu}{366}{section.9.17}
+\contentsline {section}{\numberline {9.18}Mouth-numbing noodles with chilli oil and red cabbage}{368}{section.9.18}
+\contentsline {section}{\numberline {9.19}Bunny chow}{370}{section.9.19}
+\contentsline {section}{\numberline {9.20}Courgette and mint g\IeC {\"o}zleme}{372}{section.9.20}
+\contentsline {section}{\numberline {9.21}Coconut rice with aubergines and pickled cucumber }{374}{section.9.21}
+\contentsline {chapter}{\numberline {10}October}{377}{chapter.10}
+\contentsline {section}{\numberline {10.1}Soy-pickled pumpkin maze gohan}{377}{section.10.1}
+\contentsline {section}{\numberline {10.2}Chocolate scones with quick fig jam}{379}{section.10.2}
+\contentsline {section}{\numberline {10.3}Cavolo nero with spelt and walnuts}{381}{section.10.3}
+\contentsline {section}{\numberline {10.4}Celeriac, leek and miso dumplings}{383}{section.10.4}
+\contentsline {section}{\numberline {10.5}Mushroom and tempeh rendang}{385}{section.10.5}
+\contentsline {section}{\numberline {10.6}Hot-and-sour noodles with pak choi}{387}{section.10.6}
+\contentsline {section}{\numberline {10.7}Banana pancakes with maple and tahini yoghurt}{389}{section.10.7}
+\contentsline {section}{\numberline {10.8}Leek, white cabbage and spinach pie}{391}{section.10.8}
+\contentsline {section}{\numberline {10.9}Baked carrot falafel with pickled onions}{393}{section.10.9}
+\contentsline {section}{\numberline {10.10}Oven-baked veggie chilli with butternut squash}{395}{section.10.10}
+\contentsline {section}{\numberline {10.11}Coconut yoghurt flatbreads with garlic pepper mushrooms}{397}{section.10.11}
+\contentsline {section}{\numberline {10.12}Gujarati tomato and sev curry}{399}{section.10.12}
+\contentsline {section}{\numberline {10.13}Blondies with peanut butter, jam and chocolate}{401}{section.10.13}
+\contentsline {section}{\numberline {10.14}Tenderstem broccoli, tofu and kimchi stew}{403}{section.10.14}
+\contentsline {section}{\numberline {10.15}Mushroom mapo tofu}{405}{section.10.15}
+\contentsline {section}{\numberline {10.16}Courgette, cashew and coconut subji}{407}{section.10.16}
+\contentsline {section}{\numberline {10.17}Chocolate and date mousse with rosewater blackberries}{409}{section.10.17}
+\contentsline {section}{\numberline {10.18}Cauliflower korma with blackened raisins (pictured above)}{411}{section.10.18}
+\contentsline {section}{\numberline {10.19}Autumn pilau with squash, cavolo nero and smoked garlic }{413}{section.10.19}
+\contentsline {section}{\numberline {10.20}Chilli tofu}{415}{section.10.20}
+\contentsline {section}{\numberline {10.21}Mushroom bao}{417}{section.10.21}
+\contentsline {section}{\numberline {10.22}Aubergine, black-eyed bean and dill curry}{419}{section.10.22}
+\contentsline {chapter}{\numberline {11}November}{421}{chapter.11}
+\contentsline {section}{\numberline {11.1}Red cabbage, apple and pomegranate salad}{421}{section.11.1}
+\contentsline {section}{\numberline {11.2}The Christmas pumpkin}{423}{section.11.2}
+\contentsline {section}{\numberline {11.3}Jewelled florentines}{425}{section.11.3}
+\contentsline {section}{\numberline {11.4}Tofu and coconut curry with turmeric and Thai basil}{427}{section.11.4}
+\contentsline {section}{\numberline {11.5}Persian herb, lime and kidney bean stew}{429}{section.11.5}
+\contentsline {section}{\numberline {11.6}Thai red curry with aubergines, rainbow chard and tofu}{431}{section.11.6}
+\contentsline {section}{\numberline {11.7}Spiced chocolate coins}{433}{section.11.7}
+\contentsline {section}{\numberline {11.8}Kadhi with fried chickpeas}{435}{section.11.8}
+\contentsline {section}{\numberline {11.9}Shiitake rice with chilli pecan oil}{437}{section.11.9}
+\contentsline {section}{\numberline {11.10}Nam jim aubergine salad with wild rice}{439}{section.11.10}
+\contentsline {section}{\numberline {11.11}Parsnip and potato gnocchi with gochujang and hazelnuts}{441}{section.11.11}
+\contentsline {section}{\numberline {11.12}Leek, potato and cashew nut curry}{443}{section.11.12}
+\contentsline {section}{\numberline {11.13}Mee goreng with carrot, red cabbage and tofu}{445}{section.11.13}
+\contentsline {section}{\numberline {11.14}Bhabi\IeC {\textquoteright }s potato masala toasties}{447}{section.11.14}
+\contentsline {section}{\numberline {11.15}Smoked tofu, mushroom and almond kheema}{449}{section.11.15}
+\contentsline {section}{\numberline {11.16}Mum\IeC {\textquoteright }s beetroot and ginger soup}{451}{section.11.16}
+\contentsline {section}{\numberline {11.17}Mixed vegetable Thai green curry}{453}{section.11.17}
+\contentsline {section}{\numberline {11.18}Yorkshire parkin with a whisky caramel sauce}{455}{section.11.18}
+\contentsline {section}{\numberline {11.19}Pineapple love cake}{458}{section.11.19}
+\contentsline {section}{\numberline {11.20}Parsnip and carrot mulligatawny}{460}{section.11.20}
+\contentsline {section}{\numberline {11.21}Celeriac, tofu and crispy kale gado gado}{462}{section.11.21}
+\contentsline {section}{\numberline {11.22}Chickpea, chard and sunflower seed egusi with polenta dumplings}{464}{section.11.22}
+\contentsline {chapter}{\numberline {12}December}{467}{chapter.12}
+\contentsline {section}{\numberline {12.1}Leftover roast veg and harissa spiral pie}{467}{section.12.1}
+\contentsline {section}{\numberline {12.2}Thai yellow curry with green beans and potatoes}{469}{section.12.2}
+\contentsline {section}{\numberline {12.3}Indonesian-style salted peanut and chocolate pancakes}{471}{section.12.3}
+\contentsline {section}{\numberline {12.4}Root vegetable and sprout pachadi}{473}{section.12.4}
+\contentsline {section}{\numberline {12.5}Fried tofu with tomato sambal and spinach}{475}{section.12.5}
+\contentsline {section}{\numberline {12.6}Fiona Beckett\IeC {\textquoteright }s drinks match}{477}{section.12.6}
+\contentsline {section}{\numberline {12.7}Fiona Beckett\IeC {\textquoteright }s drinks match}{479}{section.12.7}
+\contentsline {section}{\numberline {12.8}Drunken noodles with radicchio, Tenderstem and tofu}{481}{section.12.8}
+\contentsline {section}{\numberline {12.9}Achari brussels sprout curry}{483}{section.12.9}
+\contentsline {section}{\numberline {12.10}Chocolate panforte}{485}{section.12.10}
+\contentsline {section}{\numberline {12.11}Kimchi and tofu dumplings with dipping sauce}{487}{section.12.11}
+\contentsline {section}{\numberline {12.12}Koshari}{489}{section.12.12}
+\contentsline {section}{\numberline {12.13}Leftover roast vegetable chaat}{491}{section.12.13}
+\contentsline {section}{\numberline {12.14}Pear, chocolate and almond galette}{493}{section.12.14}
+\contentsline {section}{\numberline {12.15}Whole pumpkin and walnut biryani}{495}{section.12.15}
+\contentsline {section}{\numberline {12.16}Udon noodles with red cabbage and cauliflower}{497}{section.12.16}
+\contentsline {section}{\numberline {12.17}Shiitake pho with crispy leeks }{499}{section.12.17}
+\contentsline {section}{\numberline {12.18}Festive pilau with beetroot, cauliflower and coriander chutney}{501}{section.12.18}
+\contentsline {section}{\numberline {12.19}Christmas veg Penang curry}{503}{section.12.19}
+\contentsline {section}{\numberline {12.20}Pickled squash, sage and cannellini beans on crisp rye}{505}{section.12.20}
+\contentsline {section}{\numberline {12.21}Butternut squash and black bean mole with lime-pickled onions}{511}{section.12.21}

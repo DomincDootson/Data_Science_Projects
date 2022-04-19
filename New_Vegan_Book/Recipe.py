@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import shutil
 import requests
+from datetime import datetime
 
 class Recipe(object):
 	
@@ -19,30 +20,30 @@ class Recipe(object):
 			soup = BeautifulSoup(source, "lxml")
 
 			self.get_title(soup)
-			self.get_date(soup) 
+			'''self.get_date(soup) 
 
 			holding = soup.find_all('p', class_ = 'dcr-3jlghf')
 
 			self.get_preamble(holding)		
 			self.get_info(holding)
-			self.get_ingredients_and_steps(holding)
+			self.get_ingredients_and_steps(holding)''' 
 
-			
-			#self.image_filepath = "Recipe_Pictures/" +self.title.replace(" ", "_") + ".png"
-			#self.get_image(soup)
+			self.get_image(soup)
 		else:
 			self.read_recipe_card(address)
 
-		print(self.title)
+		
 
 	def get_title(self, soup):
 		self.title = soup.find('h2').text
+		print(self.title)
 
 	def get_date(self, soup):
 		if soup.find('summary', class_ = 'dcr-12fpzem') != None:
 			self.date = soup.find('summary', class_ = 'dcr-12fpzem').text
 		if (soup.find('div', class_ = 'dcr-km9fgb') != None):	
 			self.date = soup.find('div', class_ = 'dcr-km9fgb').text
+		self.convert_str_2_datetime()
 	
 	def get_preamble(self, soup): 
 		self.preamble = ""
@@ -56,7 +57,7 @@ class Recipe(object):
 
 	
 	def initialise_info(self):
-		self.info = {"Prep" : None, "Cook" : None, "Chill": None, "Rest" : None, "Soak" : None, "Serves" : None, "Makes" : None}
+		self.info = {"Prep" : None, "Cook" : None, "Chill": None, "Rest" : None, "Soak" : None, "Proving" : None, "Freeze" : None, "Serves" : None, "Makes" : None}
 
 
 	def get_info(self, soup): 
@@ -87,13 +88,18 @@ class Recipe(object):
 		if not self.is_info_empty():
 			del soup[0]
 
+	def image_filepath(self):
+		string = "Recipe_Pictures/" +self.title.replace(" ", "_") + ".png"
+		string = string.replace("'", '')
+		return string.replace('"','')
+
 
 	def get_image(self, soup):
 		image_url = soup.find('img', class_ = "dcr-1989ovb")['src']
 		
 		r = requests.get(image_url, stream = True)
 		r.raw.decode_content = True
-		with open(self.image_filepath,'wb') as f:
+		with open(self.image_filepath(),'wb') as f:
 			shutil.copyfileobj(r.raw, f)
 		
 	def get_ingredients_and_steps(self, soups):
@@ -129,11 +135,21 @@ class Recipe(object):
 		else:
 			return True
 
+
+	## Datetime formatting ##
+	## ------------------- ## 
+
+	def convert_str_2_datetime(self):
+		self.date = datetime.strptime(self.date, '%a %d %b %Y %H.%M %Z')	
+
+	def string_from_datetime(self):
+		return datetime.strftime(self.date, '%a %d %b %Y %H.%M %Z') + "GMT"
+
 	## Recipe Card Reading & Writing ##
 	## ----------------------------- ##
 
 	def list_of_preamble(self):
-		return [self.title, self.preamble, self.date]
+		return [self.title, self.preamble, self.string_from_datetime()]
 
 	def is_info_empty(self):
 		is_empty = True
@@ -183,6 +199,7 @@ class Recipe(object):
 
 	def read_title(self, file):
 		self.title = file.readline().replace('\n', "")
+		print(self.title)
 		file.readline()
 
 	def read_preamble(self, file):
@@ -194,6 +211,7 @@ class Recipe(object):
 
 	def read_date(self, file):
 		self.date = file.readline().replace('\n', "")
+		self.convert_str_2_datetime()
 		file.readline()
 
 	def read_info(self, file):
@@ -234,3 +252,72 @@ class Recipe(object):
 
 		self.steps = [step.replace('\n',"") for step in self.steps]
 
+
+	## Recipe tex String ##
+	## ----------------- ##
+
+	def get_recipe_tex_string(self, include_fig = True):
+		tex_string = self.get_tex_title()
+
+		if include_fig:
+			tex_string += self.get_tex_image()
+
+		tex_string += self.get_tex_preamble() + self.get_tex_info() + self.get_tex_ingredients() + self.get_tex_steps() + "\\newpage\n\n"
+		return tex_string
+
+	def get_tex_title(self):
+		return f"\\section{{{self.title}}}\n" 
+
+
+	def get_tex_image(self):
+		string = "\\begin{figure}\n"
+		string += "\\centering"
+		string += rf"\includegraphics[width=10cm,height=10cm,keepaspectratio]{{{self.image_filepath()}}}" + '\n'
+		string += "\end{figure}\n"
+		return string
+
+	def get_tex_preamble(self):
+		string = self.preamble.replace('\n', '\\\\ \n')
+		return f"\\emph{{{string}}}\\\\\\\\ \n"
+
+	def get_tex_info(self):
+		string = ""
+		for key in self.info:
+			if self.info[key] != None:
+				string += f"\\textbf{{{key}}}: " + self.info[key] +'\n' # Use {{}} (double) in f string to output single {}
+		return string
+
+	def get_tex_ingredients(self):
+		string = "\\subsection*{Ingredients}\n"
+		for subset in self.ingredients:
+			string += "\\begin{itemize}\n"
+			for ingredient in subset:
+				string += f"\\item {ingredient}\n"
+			string += "\\end{itemize}\n\n"
+
+		return self.replace_unicode_with_tex(string)
+
+
+	def get_tex_steps(self):
+		"\\subsection*{Steps}"
+		string = "\\subsection*{Steps}\n\\begin{enumerate}\n"
+		for step in self.steps:
+			if len(step) != 0:
+				string += f"\\item {step}\n"
+
+		string += "\\end{enumerate}\n"
+		return self.replace_unicode_with_tex(string)
+
+	def replace_unicode_with_tex(self, string): # there are some characters that latex doesn't like this, replace them with things it does like
+		to_replace = {"½" : r"$\frac{1}{4}$", 
+		"¼" : r"$\frac{1}{4}$", "¾" : r"$\frac{3}{4}$", 
+		"⅓" : r"$\frac{1}{3}$", "⅔" : r"$\frac{2}{3}$", 
+		"⅛" : r"$\frac{1}{8}$",
+		"%" : r"\%"}
+		
+
+		for key in to_replace:
+			if key in string:
+				string =string.replace(key, to_replace[key])
+		
+		return string

@@ -1,0 +1,4551 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.11)  19 APR 2022 17:09
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**New_Vegan_Cookbook.tex
+(./New_Vegan_Cookbook.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/pmboxdraw.sty
+Package: pmboxdraw 2016/05/16 v1.2 Poor man's box drawing characters (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+)
+Now handling font encoding pmboxdraw ...
+... processing UTF-8 mapping file for font encoding pmboxdraw
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/pmboxdrawenc.dfu
+File: pmboxdrawenc.dfu 2016/05/16 v1.2 UTF-8 support for box drawing characters
+
+   defining Unicode char U+2500 (decimal 9472)
+   defining Unicode char U+2501 (decimal 9473)
+   defining Unicode char U+2502 (decimal 9474)
+   defining Unicode char U+2503 (decimal 9475)
+   defining Unicode char U+250C (decimal 9484)
+   defining Unicode char U+250D (decimal 9485)
+   defining Unicode char U+250E (decimal 9486)
+   defining Unicode char U+250F (decimal 9487)
+   defining Unicode char U+2510 (decimal 9488)
+   defining Unicode char U+2511 (decimal 9489)
+   defining Unicode char U+2512 (decimal 9490)
+   defining Unicode char U+2513 (decimal 9491)
+   defining Unicode char U+2514 (decimal 9492)
+   defining Unicode char U+2515 (decimal 9493)
+   defining Unicode char U+2516 (decimal 9494)
+   defining Unicode char U+2517 (decimal 9495)
+   defining Unicode char U+2518 (decimal 9496)
+   defining Unicode char U+2519 (decimal 9497)
+   defining Unicode char U+251A (decimal 9498)
+   defining Unicode char U+251B (decimal 9499)
+   defining Unicode char U+251C (decimal 9500)
+   defining Unicode char U+251D (decimal 9501)
+   defining Unicode char U+251E (decimal 9502)
+   defining Unicode char U+251F (decimal 9503)
+   defining Unicode char U+2520 (decimal 9504)
+   defining Unicode char U+2521 (decimal 9505)
+   defining Unicode char U+2522 (decimal 9506)
+   defining Unicode char U+2523 (decimal 9507)
+   defining Unicode char U+2524 (decimal 9508)
+   defining Unicode char U+252C (decimal 9516)
+   defining Unicode char U+252D (decimal 9517)
+   defining Unicode char U+252E (decimal 9518)
+   defining Unicode char U+252F (decimal 9519)
+   defining Unicode char U+2530 (decimal 9520)
+   defining Unicode char U+2531 (decimal 9521)
+   defining Unicode char U+2532 (decimal 9522)
+   defining Unicode char U+2533 (decimal 9523)
+   defining Unicode char U+2534 (decimal 9524)
+   defining Unicode char U+2535 (decimal 9525)
+   defining Unicode char U+2536 (decimal 9526)
+   defining Unicode char U+2537 (decimal 9527)
+   defining Unicode char U+2538 (decimal 9528)
+   defining Unicode char U+2539 (decimal 9529)
+   defining Unicode char U+253A (decimal 9530)
+   defining Unicode char U+253B (decimal 9531)
+   defining Unicode char U+253C (decimal 9532)
+   defining Unicode char U+253D (decimal 9533)
+   defining Unicode char U+253E (decimal 9534)
+   defining Unicode char U+253F (decimal 9535)
+   defining Unicode char U+2540 (decimal 9536)
+   defining Unicode char U+2541 (decimal 9537)
+   defining Unicode char U+2542 (decimal 9538)
+   defining Unicode char U+2543 (decimal 9539)
+   defining Unicode char U+2544 (decimal 9540)
+   defining Unicode char U+2545 (decimal 9541)
+   defining Unicode char U+2546 (decimal 9542)
+   defining Unicode char U+2547 (decimal 9543)
+   defining Unicode char U+2548 (decimal 9544)
+   defining Unicode char U+2549 (decimal 9545)
+   defining Unicode char U+254A (decimal 9546)
+   defining Unicode char U+254B (decimal 9547)
+   defining Unicode char U+2550 (decimal 9552)
+   defining Unicode char U+2551 (decimal 9553)
+   defining Unicode char U+2552 (decimal 9554)
+   defining Unicode char U+2553 (decimal 9555)
+   defining Unicode char U+2554 (decimal 9556)
+   defining Unicode char U+2555 (decimal 9557)
+   defining Unicode char U+2556 (decimal 9558)
+   defining Unicode char U+2557 (decimal 9559)
+   defining Unicode char U+2558 (decimal 9560)
+   defining Unicode char U+2559 (decimal 9561)
+   defining Unicode char U+255A (decimal 9562)
+   defining Unicode char U+255B (decimal 9563)
+   defining Unicode char U+255C (decimal 9564)
+   defining Unicode char U+255D (decimal 9565)
+   defining Unicode char U+255E (decimal 9566)
+   defining Unicode char U+255F (decimal 9567)
+   defining Unicode char U+2560 (decimal 9568)
+   defining Unicode char U+2561 (decimal 9569)
+   defining Unicode char U+2562 (decimal 9570)
+   defining Unicode char U+2563 (decimal 9571)
+   defining Unicode char U+2564 (decimal 9572)
+   defining Unicode char U+2565 (decimal 9573)
+   defining Unicode char U+2566 (decimal 9574)
+   defining Unicode char U+2567 (decimal 9575)
+   defining Unicode char U+2568 (decimal 9576)
+   defining Unicode char U+2569 (decimal 9577)
+   defining Unicode char U+256A (decimal 9578)
+   defining Unicode char U+256B (decimal 9579)
+   defining Unicode char U+256C (decimal 9580)
+   defining Unicode char U+2574 (decimal 9588)
+   defining Unicode char U+2575 (decimal 9589)
+   defining Unicode char U+2576 (decimal 9590)
+   defining Unicode char U+2577 (decimal 9591)
+   defining Unicode char U+2578 (decimal 9592)
+   defining Unicode char U+2579 (decimal 9593)
+   defining Unicode char U+257A (decimal 9594)
+   defining Unicode char U+257B (decimal 9595)
+   defining Unicode char U+257C (decimal 9596)
+   defining Unicode char U+257D (decimal 9597)
+   defining Unicode char U+257E (decimal 9598)
+   defining Unicode char U+257F (decimal 9599)
+   defining Unicode char U+2580 (decimal 9600)
+   defining Unicode char U+2581 (decimal 9601)
+   defining Unicode char U+2582 (decimal 9602)
+   defining Unicode char U+2583 (decimal 9603)
+   defining Unicode char U+2584 (decimal 9604)
+   defining Unicode char U+2585 (decimal 9605)
+   defining Unicode char U+2586 (decimal 9606)
+   defining Unicode char U+2587 (decimal 9607)
+   defining Unicode char U+2588 (decimal 9608)
+   defining Unicode char U+2589 (decimal 9609)
+   defining Unicode char U+258A (decimal 9610)
+   defining Unicode char U+258B (decimal 9611)
+   defining Unicode char U+258C (decimal 9612)
+   defining Unicode char U+258D (decimal 9613)
+   defining Unicode char U+258E (decimal 9614)
+   defining Unicode char U+258F (decimal 9615)
+   defining Unicode char U+2590 (decimal 9616)
+   defining Unicode char U+2591 (decimal 9617)
+   defining Unicode char U+2592 (decimal 9618)
+   defining Unicode char U+2593 (decimal 9619)
+   defining Unicode char U+2594 (decimal 9620)
+   defining Unicode char U+2595 (decimal 9621)
+   defining Unicode char U+2596 (decimal 9622)
+   defining Unicode char U+2597 (decimal 9623)
+   defining Unicode char U+2598 (decimal 9624)
+   defining Unicode char U+2599 (decimal 9625)
+   defining Unicode char U+259A (decimal 9626)
+   defining Unicode char U+259B (decimal 9627)
+   defining Unicode char U+259C (decimal 9628)
+   defining Unicode char U+259D (decimal 9629)
+   defining Unicode char U+259E (decimal 9630)
+   defining Unicode char U+259F (decimal 9631)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+))
+\pmbd@W=\dimen103
+\pmbd@H=\dimen104
+\pmbd@L=\dimen105
+\pmbd@Thin=\dimen106
+\pmbd@Thick=\dimen107
+\pmbd@Sep=\dimen108
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/03/24 v5.7 Page Geometry
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen109
+\Gm@wd@mp=\dimen110
+\Gm@odd@mp=\dimen111
+\Gm@even@mp=\dimen112
+\Gm@layoutwidth=\dimen113
+\Gm@layoutheight=\dimen114
+\Gm@layouthoffset=\dimen115
+\Gm@layoutvoffset=\dimen116
+\Gm@dimlist=\toks17
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen117
+\Hy@linkcounter=\count92
+\Hy@pagecounter=\count93
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count94
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count95
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen118
+\Fld@menulength=\count96
+\Field@Width=\dimen119
+\Fld@charsize=\dimen120
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count97
+\c@Item=\count98
+\c@Hfootnote=\count99
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count100
+\c@bookmark@seq@number=\count101
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box26
+\beforetitleunit=\skip44
+\aftertitleunit=\skip45
+\ttl@plus=\dimen123
+\ttl@minus=\dimen124
+\ttl@toksa=\toks18
+\titlewidth=\dimen125
+\titlewidthlast=\dimen126
+\titlewidthfirst=\dimen127
+)
+(./New_Vegan_Cookbook.aux)
+\openout1 = `New_Vegan_Cookbook.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for pmboxdraw/pmboxdraw/m/n on input line
+ 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(65.55515pt, 433.62pt, 98.33273pt)
+* v-part:(T,H,B)=(106.75473pt, 578.15999pt, 160.13213pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=433.62pt
+* \textheight=578.15999pt
+* \oddsidemargin=-6.71484pt
+* \evensidemargin=26.06274pt
+* \topmargin=4.41725pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box27
+Package hyperref Info: Link coloring OFF on input line 14.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count102
+)
+LaTeX Info: Redefining \ref on input line 14.
+LaTeX Info: Redefining \pageref on input line 14.
+LaTeX Info: Redefining \nameref on input line 14.
+
+(./New_Vegan_Cookbook.out) (./New_Vegan_Cookbook.out)
+\@outlinefile=\write3
+\openout3 = `New_Vegan_Cookbook.out'.
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen128
+\scratchbox=\box28
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen129
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks20
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 17.
+
+
+LaTeX Warning: No \author given.
+
+[1
+
+
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 18--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--25
+
+ []
+
+[2] (./New_Vegan_Cookbook.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+ [3
+
+] [4] [5] [6] [7])
+\tf@toc=\write4
+\openout4 = `New_Vegan_Cookbook.toc'.
+
+ [8]
+Chapter 1.
+<Recipe_Pictures/Sweetcorn_chowder_with_smoky_chipotle_oil.png, id=1313, 933.48
+75pt x 1096.095pt>
+File: Recipe_Pictures/Sweetcorn_chowder_with_smoky_chipotle_oil.png Graphic fil
+e (type png)
+<use Recipe_Pictures/Sweetcorn_chowder_with_smoky_chipotle_oil.png>
+Package pdftex.def Info: Recipe_Pictures/Sweetcorn_chowder_with_smoky_chipotle_
+oil.png  used on input line 32.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--39
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 41.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
+ [1
+
+
+] [2 <./Recipe_Pictures/Sweetcorn_chowder_with_smoky_chipotle_oil.png>]
+<Recipe_Pictures/Lemon_tart.png, id=1329, 933.4875pt x 1098.1025pt>
+File: Recipe_Pictures/Lemon_tart.png Graphic file (type png)
+<use Recipe_Pictures/Lemon_tart.png>
+Package pdftex.def Info: Recipe_Pictures/Lemon_tart.png  used on input line 66.
+
+(pdftex.def)             Requested size: 241.87488pt x 284.52808pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--74
+
+ []
+
+[3 <./Recipe_Pictures/Lemon_tart.png>] [4]
+<Recipe_Pictures/Miso_and_coconut_winter_greens.png, id=1344, 933.4875pt x 1098
+.1025pt>
+File: Recipe_Pictures/Miso_and_coconut_winter_greens.png Graphic file (type png
+)
+<use Recipe_Pictures/Miso_and_coconut_winter_greens.png>
+Package pdftex.def Info: Recipe_Pictures/Miso_and_coconut_winter_greens.png  us
+ed on input line 105.
+(pdftex.def)             Requested size: 241.87488pt x 284.52808pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--112
+
+ []
+
+[5 <./Recipe_Pictures/Miso_and_coconut_winter_greens.png>] [6]
+<Recipe_Pictures/Leftover_Christmas_mixed_fruit_garibaldis.png, id=1358, 933.48
+75pt x 1096.095pt>
+File: Recipe_Pictures/Leftover_Christmas_mixed_fruit_garibaldis.png Graphic fil
+e (type png)
+<use Recipe_Pictures/Leftover_Christmas_mixed_fruit_garibaldis.png>
+Package pdftex.def Info: Recipe_Pictures/Leftover_Christmas_mixed_fruit_garibal
+dis.png  used on input line 142.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--150
+
+ []
+
+[7 <./Recipe_Pictures/Leftover_Christmas_mixed_fruit_garibaldis.png>] [8]
+<Recipe_Pictures/Kiri_hodi_with_butternut_squash.png, id=1372, 933.4875pt x 109
+6.095pt>
+File: Recipe_Pictures/Kiri_hodi_with_butternut_squash.png Graphic file (type pn
+g)
+<use Recipe_Pictures/Kiri_hodi_with_butternut_squash.png>
+Package pdftex.def Info: Recipe_Pictures/Kiri_hodi_with_butternut_squash.png  u
+sed on input line 181.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--188
+
+ []
+
+[9 <./Recipe_Pictures/Kiri_hodi_with_butternut_squash.png>] [10]
+<Recipe_Pictures/Gujarati_whole_mung_dal_with_sambharo.png, id=1385, 933.4875pt
+ x 1170.3725pt>
+File: Recipe_Pictures/Gujarati_whole_mung_dal_with_sambharo.png Graphic file (t
+ype png)
+<use Recipe_Pictures/Gujarati_whole_mung_dal_with_sambharo.png>
+Package pdftex.def Info: Recipe_Pictures/Gujarati_whole_mung_dal_with_sambharo.
+png  used on input line 218.
+(pdftex.def)             Requested size: 226.93307pt x 284.5204pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--225
+
+ []
+
+[11 <./Recipe_Pictures/Gujarati_whole_mung_dal_with_sambharo.png>] [12]
+<Recipe_Pictures/Haggis_kheema_and_tattie_rotis.png, id=1398, 933.4875pt x 1100
+.11pt>
+File: Recipe_Pictures/Haggis_kheema_and_tattie_rotis.png Graphic file (type png
+)
+<use Recipe_Pictures/Haggis_kheema_and_tattie_rotis.png>
+Package pdftex.def Info: Recipe_Pictures/Haggis_kheema_and_tattie_rotis.png  us
+ed on input line 263.
+(pdftex.def)             Requested size: 241.43332pt x 284.52788pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--270
+
+ []
+
+[13 <./Recipe_Pictures/Haggis_kheema_and_tattie_rotis.png>] [14] [15]
+<Recipe_Pictures/Hoppin_John.png, id=1416, 933.4875pt x 1096.095pt>
+File: Recipe_Pictures/Hoppin_John.png Graphic file (type png)
+<use Recipe_Pictures/Hoppin_John.png>
+Package pdftex.def Info: Recipe_Pictures/Hoppin_John.png  used on input line 30
+9.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--316
+
+ []
+
+[16 <./Recipe_Pictures/Hoppin_John.png>] [17]
+<Recipe_Pictures/Apple_pudding_cake.png, id=1429, 933.4875pt x 1096.095pt>
+File: Recipe_Pictures/Apple_pudding_cake.png Graphic file (type png)
+<use Recipe_Pictures/Apple_pudding_cake.png>
+Package pdftex.def Info: Recipe_Pictures/Apple_pudding_cake.png  used on input 
+line 343.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--349
+
+ []
+
+[18 <./Recipe_Pictures/Apple_pudding_cake.png>] [19]
+<Recipe_Pictures/Spiced_beetroot_with_60-minute_injera.png, id=1442, 933.4875pt
+ x 1154.3125pt>
+File: Recipe_Pictures/Spiced_beetroot_with_60-minute_injera.png Graphic file (t
+ype png)
+<use Recipe_Pictures/Spiced_beetroot_with_60-minute_injera.png>
+Package pdftex.def Info: Recipe_Pictures/Spiced_beetroot_with_60-minute_injera.
+png  used on input line 386.
+(pdftex.def)             Requested size: 230.09521pt x 284.52634pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--394
+
+ []
+
+[20 <./Recipe_Pictures/Spiced_beetroot_with_60-minute_injera.png>] [21]
+<Recipe_Pictures/Most_popular.png, id=1455, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Most_popular.png Graphic file (type png)
+<use Recipe_Pictures/Most_popular.png>
+Package pdftex.def Info: Recipe_Pictures/Most_popular.png  used on input line 4
+31.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--438
+
+ []
+
+[22 <./Recipe_Pictures/Most_popular.png>] [23]
+<Recipe_Pictures/Masala_baked_beans_on_toast_with_green_chutney.png, id=1471, 9
+33.4875pt x 933.4875pt>
+File: Recipe_Pictures/Masala_baked_beans_on_toast_with_green_chutney.png Graphi
+c file (type png)
+<use Recipe_Pictures/Masala_baked_beans_on_toast_with_green_chutney.png>
+Package pdftex.def Info: Recipe_Pictures/Masala_baked_beans_on_toast_with_green
+_chutney.png  used on input line 467.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--476
+
+ []
+
+[24 <./Recipe_Pictures/Masala_baked_beans_on_toast_with_green_chutney.png>]
+[25]
+<Recipe_Pictures/Tofu_katsu_sando_with_celeriac_and_apple_slaw.png, id=1483, 93
+3.4875pt x 1007.765pt>
+File: Recipe_Pictures/Tofu_katsu_sando_with_celeriac_and_apple_slaw.png Graphic
+ file (type png)
+<use Recipe_Pictures/Tofu_katsu_sando_with_celeriac_and_apple_slaw.png>
+Package pdftex.def Info: Recipe_Pictures/Tofu_katsu_sando_with_celeriac_and_app
+le_slaw.png  used on input line 517.
+(pdftex.def)             Requested size: 263.55403pt x 284.525pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--526
+
+ []
+
+[26 <./Recipe_Pictures/Tofu_katsu_sando_with_celeriac_and_apple_slaw.png>]
+[27]
+<Recipe_Pictures/Cauliflower_and_sweet_potato_tacos_with_coriander_chilli_salsa
+.png, id=1496, 933.4875pt x 967.615pt>
+File: Recipe_Pictures/Cauliflower_and_sweet_potato_tacos_with_coriander_chilli_
+salsa.png Graphic file (type png)
+<use Recipe_Pictures/Cauliflower_and_sweet_potato_tacos_with_coriander_chilli_s
+alsa.png>
+Package pdftex.def Info: Recipe_Pictures/Cauliflower_and_sweet_potato_tacos_wit
+h_coriander_chilli_salsa.png  used on input line 553.
+(pdftex.def)             Requested size: 274.4933pt x 284.52855pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 556--560
+
+ []
+
+[28 <./Recipe_Pictures/Cauliflower_and_sweet_potato_tacos_with_coriander_chilli
+_salsa.png>] [29]
+<Recipe_Pictures/Tiger_roll_sushi.png, id=1511, 933.4875pt x 939.51pt>
+File: Recipe_Pictures/Tiger_roll_sushi.png Graphic file (type png)
+<use Recipe_Pictures/Tiger_roll_sushi.png>
+Package pdftex.def Info: Recipe_Pictures/Tiger_roll_sushi.png  used on input li
+ne 600.
+(pdftex.def)             Requested size: 282.69777pt x 284.52162pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--609
+
+ []
+
+[30 <./Recipe_Pictures/Tiger_roll_sushi.png>] [31]
+<Recipe_Pictures/Salted_miso_brownies_(pictured_above).png, id=1526, 933.4875pt
+ x 935.495pt>
+File: Recipe_Pictures/Salted_miso_brownies_(pictured_above).png Graphic file (t
+ype png)
+<use Recipe_Pictures/Salted_miso_brownies_(pictured_above).png>
+Package pdftex.def Info: Recipe_Pictures/Salted_miso_brownies_(pictured_above).
+png  used on input line 638.
+(pdftex.def)             Requested size: 283.92274pt x 284.53333pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 641--645
+
+ []
+
+[32 <./Recipe_Pictures/Salted_miso_brownies_(pictured_above).png>] [33]
+<Recipe_Pictures/Tofu_akuri_(pictured_above).png, id=1538, 933.4875pt x 1096.09
+5pt>
+File: Recipe_Pictures/Tofu_akuri_(pictured_above).png Graphic file (type png)
+<use Recipe_Pictures/Tofu_akuri_(pictured_above).png>
+Package pdftex.def Info: Recipe_Pictures/Tofu_akuri_(pictured_above).png  used 
+on input line 666.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 668--669
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 668--669
+
+ []
+
+[34 <./Recipe_Pictures/Tofu_akuri_(pictured_above).png>] [35]
+Overfull \hbox (1.65118pt too wide) in paragraph at lines 703--703
+|[]\OT1/cmr/bx/n/14.4 Roast red cab-bage and tamarind rasam (pic-tured above)| 
+
+ []
+
+<Recipe_Pictures/Roast_red_cabbage_and_tamarind_rasam_(pictured_above).png, id=
+1551, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Roast_red_cabbage_and_tamarind_rasam_(pictured_above).png
+ Graphic file (type png)
+<use Recipe_Pictures/Roast_red_cabbage_and_tamarind_rasam_(pictured_above).png>
+
+Package pdftex.def Info: Recipe_Pictures/Roast_red_cabbage_and_tamarind_rasam_(
+pictured_above).png  used on input line 705.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--712
+
+ []
+
+[36 <./Recipe_Pictures/Roast_red_cabbage_and_tamarind_rasam_(pictured_above).pn
+g>] [37]
+<Recipe_Pictures/Ben_ben_noodles.png, id=1566, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Ben_ben_noodles.png Graphic file (type png)
+<use Recipe_Pictures/Ben_ben_noodles.png>
+Package pdftex.def Info: Recipe_Pictures/Ben_ben_noodles.png  used on input lin
+e 742.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--749
+
+ []
+
+[38 <./Recipe_Pictures/Ben_ben_noodles.png>] [39]
+File: Recipe_Pictures/Most_popular.png Graphic file (type png)
+<use Recipe_Pictures/Most_popular.png>
+Package pdftex.def Info: Recipe_Pictures/Most_popular.png  used on input line 7
+82.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 785--789
+
+ []
+
+[40] [41]
+<Recipe_Pictures/Sweet_potato_and_aubergine_massaman_curry.png, id=1595, 933.48
+75pt x 560.0925pt>
+File: Recipe_Pictures/Sweet_potato_and_aubergine_massaman_curry.png Graphic fil
+e (type png)
+<use Recipe_Pictures/Sweet_potato_and_aubergine_massaman_curry.png>
+Package pdftex.def Info: Recipe_Pictures/Sweet_potato_and_aubergine_massaman_cu
+rry.png  used on input line 818.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 824--825
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 824--825
+
+ []
+
+[42 <./Recipe_Pictures/Sweet_potato_and_aubergine_massaman_curry.png>] [43]
+<Recipe_Pictures/Aloo_paratha_with_quick_lemon_pickle.png, id=1608, 933.4875pt 
+x 560.0925pt>
+File: Recipe_Pictures/Aloo_paratha_with_quick_lemon_pickle.png Graphic file (ty
+pe png)
+<use Recipe_Pictures/Aloo_paratha_with_quick_lemon_pickle.png>
+Package pdftex.def Info: Recipe_Pictures/Aloo_paratha_with_quick_lemon_pickle.p
+ng  used on input line 861.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 865--866
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 865--866
+
+ []
+
+[44 <./Recipe_Pictures/Aloo_paratha_with_quick_lemon_pickle.png>] [45] [46
+
+]
+Chapter 2.
+<Recipe_Pictures/Tagliatelle_with_charred_red_pepper_sauce_and_salsa_verde.png,
+ id=1629, 933.4875pt x 915.42pt>
+File: Recipe_Pictures/Tagliatelle_with_charred_red_pepper_sauce_and_salsa_verde
+.png Graphic file (type png)
+<use Recipe_Pictures/Tagliatelle_with_charred_red_pepper_sauce_and_salsa_verde.
+png>
+Package pdftex.def Info: Recipe_Pictures/Tagliatelle_with_charred_red_pepper_sa
+uce_and_salsa_verde.png  used on input line 901.
+(pdftex.def)             Requested size: 284.52098pt x 279.01411pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 904--908
+
+ []
+
+[47] [48 <./Recipe_Pictures/Tagliatelle_with_charred_red_pepper_sauce_and_salsa
+_verde.png>] [49]
+<Recipe_Pictures/Oyster_mushrooms_with_tomato_chipotle_butter_sauce_and_creamy_
+polenta.png, id=1649, 933.4875pt x 1096.095pt>
+File: Recipe_Pictures/Oyster_mushrooms_with_tomato_chipotle_butter_sauce_and_cr
+eamy_polenta.png Graphic file (type png)
+<use Recipe_Pictures/Oyster_mushrooms_with_tomato_chipotle_butter_sauce_and_cre
+amy_polenta.png>
+Package pdftex.def Info: Recipe_Pictures/Oyster_mushrooms_with_tomato_chipotle_
+butter_sauce_and_creamy_polenta.png  used on input line 948.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 951--955
+
+ []
+
+[50 <./Recipe_Pictures/Oyster_mushrooms_with_tomato_chipotle_butter_sauce_and_c
+reamy_polenta.png>]
+Overfull \hbox (49.61168pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 2.2.  OYSTER MUSHROOMS WITH TOMATO CHIPOTLE BUTTER SAUCE AND C
+REAMY POLENTA \OT1/cmr/m/n/10 51
+ []
+
+[51] [52]
+<Recipe_Pictures/Sticky_rice-stuffed_aubergines.png, id=1666, 933.4875pt x 1035
+.87pt>
+File: Recipe_Pictures/Sticky_rice-stuffed_aubergines.png Graphic file (type png
+)
+<use Recipe_Pictures/Sticky_rice-stuffed_aubergines.png>
+Package pdftex.def Info: Recipe_Pictures/Sticky_rice-stuffed_aubergines.png  us
+ed on input line 1001.
+(pdftex.def)             Requested size: 256.40361pt x 284.5253pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1004--1009
+
+ []
+
+[53 <./Recipe_Pictures/Sticky_rice-stuffed_aubergines.png>] [54] [55]
+<Recipe_Pictures/Creamy_saffron_orzo_with_roast_butternut_and_scotch_bonnet.png
+, id=1688, 933.4875pt x 1096.095pt>
+File: Recipe_Pictures/Creamy_saffron_orzo_with_roast_butternut_and_scotch_bonne
+t.png Graphic file (type png)
+<use Recipe_Pictures/Creamy_saffron_orzo_with_roast_butternut_and_scotch_bonnet
+.png>
+Package pdftex.def Info: Recipe_Pictures/Creamy_saffron_orzo_with_roast_buttern
+ut_and_scotch_bonnet.png  used on input line 1055.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1058--1062
+
+ []
+
+[56 <./Recipe_Pictures/Creamy_saffron_orzo_with_roast_butternut_and_scotch_bonn
+et.png>] [57] [58]
+<Recipe_Pictures/Rhubarb_and_pistachio_tart.png, id=1706, 933.4875pt x 933.4875
+pt>
+File: Recipe_Pictures/Rhubarb_and_pistachio_tart.png Graphic file (type png)
+<use Recipe_Pictures/Rhubarb_and_pistachio_tart.png>
+Package pdftex.def Info: Recipe_Pictures/Rhubarb_and_pistachio_tart.png  used o
+n input line 1105.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1108--1113
+
+ []
+
+[59 <./Recipe_Pictures/Rhubarb_and_pistachio_tart.png>] [60]
+<Recipe_Pictures/Hasselback_celeriac_with_miso_and_red_onion.png, id=1721, 933.
+4875pt x 1096.095pt>
+File: Recipe_Pictures/Hasselback_celeriac_with_miso_and_red_onion.png Graphic f
+ile (type png)
+<use Recipe_Pictures/Hasselback_celeriac_with_miso_and_red_onion.png>
+Package pdftex.def Info: Recipe_Pictures/Hasselback_celeriac_with_miso_and_red_
+onion.png  used on input line 1148.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1150--1154
+
+ []
+
+[61 <./Recipe_Pictures/Hasselback_celeriac_with_miso_and_red_onion.png>]
+[62] [63]
+<Recipe_Pictures/Spring_onion_pancakes_with_sesame_sauce.png, id=1741, 933.4875
+pt x 1096.095pt>
+File: Recipe_Pictures/Spring_onion_pancakes_with_sesame_sauce.png Graphic file 
+(type png)
+<use Recipe_Pictures/Spring_onion_pancakes_with_sesame_sauce.png>
+Package pdftex.def Info: Recipe_Pictures/Spring_onion_pancakes_with_sesame_sauc
+e.png  used on input line 1207.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1209--1214
+
+ []
+
+[64 <./Recipe_Pictures/Spring_onion_pancakes_with_sesame_sauce.png>] [65]
+<Recipe_Pictures/Mahams_dal.png, id=1758, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Mahams_dal.png Graphic file (type png)
+<use Recipe_Pictures/Mahams_dal.png>
+Package pdftex.def Info: Recipe_Pictures/Mahams_dal.png  used on input line 124
+7.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1255
+
+ []
+
+[66 <./Recipe_Pictures/Mahams_dal.png>] [67]
+<Recipe_Pictures/Chocolate_chip_cookies.png, id=1769, 933.4875pt x 794.97pt>
+File: Recipe_Pictures/Chocolate_chip_cookies.png Graphic file (type png)
+<use Recipe_Pictures/Chocolate_chip_cookies.png>
+Package pdftex.def Info: Recipe_Pictures/Chocolate_chip_cookies.png  used on in
+put line 1281.
+(pdftex.def)             Requested size: 284.52098pt x 242.30174pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1284--1289
+
+ []
+
+[68 <./Recipe_Pictures/Chocolate_chip_cookies.png>] [69]
+<Recipe_Pictures/Miso_mushrooms_on_toast.png, id=1782, 933.4875pt x 794.97pt>
+File: Recipe_Pictures/Miso_mushrooms_on_toast.png Graphic file (type png)
+<use Recipe_Pictures/Miso_mushrooms_on_toast.png>
+Package pdftex.def Info: Recipe_Pictures/Miso_mushrooms_on_toast.png  used on i
+nput line 1312.
+(pdftex.def)             Requested size: 284.52098pt x 242.30174pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1315--1319
+
+ []
+
+[70 <./Recipe_Pictures/Miso_mushrooms_on_toast.png>] [71]
+<Recipe_Pictures/Rose_harissa_chickpea_stew_with_burnt_chard.png, id=1796, 933.
+4875pt x 999.735pt>
+File: Recipe_Pictures/Rose_harissa_chickpea_stew_with_burnt_chard.png Graphic f
+ile (type png)
+<use Recipe_Pictures/Rose_harissa_chickpea_stew_with_burnt_chard.png>
+Package pdftex.def Info: Recipe_Pictures/Rose_harissa_chickpea_stew_with_burnt_
+chard.png  used on input line 1341.
+(pdftex.def)             Requested size: 265.67636pt x 284.5308pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1344--1348
+
+ []
+
+[72 <./Recipe_Pictures/Rose_harissa_chickpea_stew_with_burnt_chard.png>]
+[73]
+<Recipe_Pictures/Soba_noodle_soup_with_caramelised_cabbage_and_pickles.png, id=
+1809, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Soba_noodle_soup_with_caramelised_cabbage_and_pickles.png
+ Graphic file (type png)
+<use Recipe_Pictures/Soba_noodle_soup_with_caramelised_cabbage_and_pickles.png>
+
+Package pdftex.def Info: Recipe_Pictures/Soba_noodle_soup_with_caramelised_cabb
+age_and_pickles.png  used on input line 1382.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1386--1390
+
+ []
+
+[74 <./Recipe_Pictures/Soba_noodle_soup_with_caramelised_cabbage_and_pickles.pn
+g>] [75]
+<Recipe_Pictures/Pistachio,_chilli_and_lemon_spaghetti.png, id=1825, 933.4875pt
+ x 794.97pt>
+File: Recipe_Pictures/Pistachio,_chilli_and_lemon_spaghetti.png Graphic file (t
+ype png)
+<use Recipe_Pictures/Pistachio,_chilli_and_lemon_spaghetti.png>
+Package pdftex.def Info: Recipe_Pictures/Pistachio,_chilli_and_lemon_spaghetti.
+png  used on input line 1432.
+(pdftex.def)             Requested size: 284.52098pt x 242.30174pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1435--1439
+
+ []
+
+[76 <./Recipe_Pictures/Pistachio,_chilli_and_lemon_spaghetti.png>] [77]
+<Recipe_Pictures/Potato,_aubergine_and_spinach_curry.png, id=1837, 933.4875pt x
+ 939.51pt>
+File: Recipe_Pictures/Potato,_aubergine_and_spinach_curry.png Graphic file (typ
+e png)
+<use Recipe_Pictures/Potato,_aubergine_and_spinach_curry.png>
+Package pdftex.def Info: Recipe_Pictures/Potato,_aubergine_and_spinach_curry.pn
+g  used on input line 1460.
+(pdftex.def)             Requested size: 282.69777pt x 284.52162pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1463--1467
+
+ []
+
+[78 <./Recipe_Pictures/Potato,_aubergine_and_spinach_curry.png>] [79]
+<Recipe_Pictures/Aubergine_fesenjan.png, id=1851, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Aubergine_fesenjan.png Graphic file (type png)
+<use Recipe_Pictures/Aubergine_fesenjan.png>
+Package pdftex.def Info: Recipe_Pictures/Aubergine_fesenjan.png  used on input 
+line 1497.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1500--1504
+
+ []
+
+[80 <./Recipe_Pictures/Aubergine_fesenjan.png>] [81]
+<Recipe_Pictures/Iraqi_white_bean_stew_(fasoulia).png, id=1865, 933.4875pt x 93
+3.4875pt>
+File: Recipe_Pictures/Iraqi_white_bean_stew_(fasoulia).png Graphic file (type p
+ng)
+<use Recipe_Pictures/Iraqi_white_bean_stew_(fasoulia).png>
+Package pdftex.def Info: Recipe_Pictures/Iraqi_white_bean_stew_(fasoulia).png  
+used on input line 1533.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1536--1540
+
+ []
+
+[82 <./Recipe_Pictures/Iraqi_white_bean_stew_(fasoulia).png>] [83]
+<Recipe_Pictures/Wild_rice_kitchari_with_baked_yoghurt_and_chilli_seeds.png, id
+=1879, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Wild_rice_kitchari_with_baked_yoghurt_and_chilli_seeds.pn
+g Graphic file (type png)
+<use Recipe_Pictures/Wild_rice_kitchari_with_baked_yoghurt_and_chilli_seeds.png
+>
+Package pdftex.def Info: Recipe_Pictures/Wild_rice_kitchari_with_baked_yoghurt_
+and_chilli_seeds.png  used on input line 1566.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1568--1572
+
+ []
+
+[84 <./Recipe_Pictures/Wild_rice_kitchari_with_baked_yoghurt_and_chilli_seeds.p
+ng>] [85]
+<Recipe_Pictures/Blood_orange_and_polenta_cakes.png, id=1893, 933.4875pt x 560.
+0925pt>
+File: Recipe_Pictures/Blood_orange_and_polenta_cakes.png Graphic file (type png
+)
+<use Recipe_Pictures/Blood_orange_and_polenta_cakes.png>
+Package pdftex.def Info: Recipe_Pictures/Blood_orange_and_polenta_cakes.png  us
+ed on input line 1611.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
+
+ []
+
+[86 <./Recipe_Pictures/Blood_orange_and_polenta_cakes.png>] [87]
+<Recipe_Pictures/Kimchi_pancakes_with_spinach_salad.png, id=1908, 933.4875pt x 
+560.0925pt>
+File: Recipe_Pictures/Kimchi_pancakes_with_spinach_salad.png Graphic file (type
+ png)
+<use Recipe_Pictures/Kimchi_pancakes_with_spinach_salad.png>
+Package pdftex.def Info: Recipe_Pictures/Kimchi_pancakes_with_spinach_salad.png
+  used on input line 1644.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1647--1651
+
+ []
+
+[88 <./Recipe_Pictures/Kimchi_pancakes_with_spinach_salad.png>] [89]
+<Recipe_Pictures/Gujarati_potato_and_cabbage_curry.png, id=1924, 933.4875pt x 5
+60.0925pt>
+File: Recipe_Pictures/Gujarati_potato_and_cabbage_curry.png Graphic file (type 
+png)
+<use Recipe_Pictures/Gujarati_potato_and_cabbage_curry.png>
+Package pdftex.def Info: Recipe_Pictures/Gujarati_potato_and_cabbage_curry.png 
+ used on input line 1686.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1689--1693
+
+ []
+
+[90 <./Recipe_Pictures/Gujarati_potato_and_cabbage_curry.png>] [91] [92
+
+]
+Chapter 3.
+<Recipe_Pictures/Creamy_butter_bean_gratin_with_roast_tomatoes_and_salsa_fresca
+.png, id=1943, 933.4875pt x 1098.1025pt>
+File: Recipe_Pictures/Creamy_butter_bean_gratin_with_roast_tomatoes_and_salsa_f
+resca.png Graphic file (type png)
+<use Recipe_Pictures/Creamy_butter_bean_gratin_with_roast_tomatoes_and_salsa_fr
+esca.png>
+Package pdftex.def Info: Recipe_Pictures/Creamy_butter_bean_gratin_with_roast_t
+omatoes_and_salsa_fresca.png  used on input line 1731.
+(pdftex.def)             Requested size: 241.87488pt x 284.52808pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1734--1738
+
+ []
+
+[93] [94 <./Recipe_Pictures/Creamy_butter_bean_gratin_with_roast_tomatoes_and_s
+alsa_fresca.png>] [95]
+<Recipe_Pictures/Curried_caramelised_onion_galette.png, id=1962, 933.4875pt x 1
+096.095pt>
+File: Recipe_Pictures/Curried_caramelised_onion_galette.png Graphic file (type 
+png)
+<use Recipe_Pictures/Curried_caramelised_onion_galette.png>
+Package pdftex.def Info: Recipe_Pictures/Curried_caramelised_onion_galette.png 
+ used on input line 1785.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1787--1791
+
+ []
+
+[96 <./Recipe_Pictures/Curried_caramelised_onion_galette.png>] [97] [98]
+<Recipe_Pictures/Cassava,_coconut_and_passion_fruit_cake.png, id=1982, 933.4875
+pt x 1027.84pt>
+File: Recipe_Pictures/Cassava,_coconut_and_passion_fruit_cake.png Graphic file 
+(type png)
+<use Recipe_Pictures/Cassava,_coconut_and_passion_fruit_cake.png>
+Package pdftex.def Info: Recipe_Pictures/Cassava,_coconut_and_passion_fruit_cak
+e.png  used on input line 1834.
+(pdftex.def)             Requested size: 258.412pt x 284.53105pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1837--1842
+
+ []
+
+[99 <./Recipe_Pictures/Cassava,_coconut_and_passion_fruit_cake.png>] [100]
+<Recipe_Pictures/Tomato_and_blood_orange_salad_with_ginger_tahini_sauce.png, id
+=1996, 933.4875pt x 939.51pt>
+File: Recipe_Pictures/Tomato_and_blood_orange_salad_with_ginger_tahini_sauce.pn
+g Graphic file (type png)
+<use Recipe_Pictures/Tomato_and_blood_orange_salad_with_ginger_tahini_sauce.png
+>
+Package pdftex.def Info: Recipe_Pictures/Tomato_and_blood_orange_salad_with_gin
+ger_tahini_sauce.png  used on input line 1871.
+(pdftex.def)             Requested size: 282.69777pt x 284.52162pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1873--1877
+
+ []
+
+[101 <./Recipe_Pictures/Tomato_and_blood_orange_salad_with_ginger_tahini_sauce.
+png>] [102]
+<Recipe_Pictures/Oat,_spice_and_currant_cookies.png, id=2012, 933.4875pt x 1096
+.095pt>
+File: Recipe_Pictures/Oat,_spice_and_currant_cookies.png Graphic file (type png
+)
+<use Recipe_Pictures/Oat,_spice_and_currant_cookies.png>
+Package pdftex.def Info: Recipe_Pictures/Oat,_spice_and_currant_cookies.png  us
+ed on input line 1919.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1922--1926
+
+ []
+
+[103 <./Recipe_Pictures/Oat,_spice_and_currant_cookies.png>] [104]
+<Recipe_Pictures/Swede_and_mushroom_tacos_with_peanut_salsa.png, id=2026, 933.4
+875pt x 1096.095pt>
+File: Recipe_Pictures/Swede_and_mushroom_tacos_with_peanut_salsa.png Graphic fi
+le (type png)
+<use Recipe_Pictures/Swede_and_mushroom_tacos_with_peanut_salsa.png>
+Package pdftex.def Info: Recipe_Pictures/Swede_and_mushroom_tacos_with_peanut_s
+alsa.png  used on input line 1952.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1954--1958
+
+ []
+
+[105 <./Recipe_Pictures/Swede_and_mushroom_tacos_with_peanut_salsa.png>]
+[106]
+<Recipe_Pictures/Aubergine_donburi.png, id=2039, 933.4875pt x 1096.095pt>
+File: Recipe_Pictures/Aubergine_donburi.png Graphic file (type png)
+<use Recipe_Pictures/Aubergine_donburi.png>
+Package pdftex.def Info: Recipe_Pictures/Aubergine_donburi.png  used on input l
+ine 1987.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1990--1994
+
+ []
+
+[107 <./Recipe_Pictures/Aubergine_donburi.png>] [108]
+<Recipe_Pictures/Whole_broccoli_and_zhoug_spaghetti.png, id=2055, 933.4875pt x 
+1096.095pt>
+File: Recipe_Pictures/Whole_broccoli_and_zhoug_spaghetti.png Graphic file (type
+ png)
+<use Recipe_Pictures/Whole_broccoli_and_zhoug_spaghetti.png>
+Package pdftex.def Info: Recipe_Pictures/Whole_broccoli_and_zhoug_spaghetti.png
+  used on input line 2028.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2031--2035
+
+ []
+
+[109 <./Recipe_Pictures/Whole_broccoli_and_zhoug_spaghetti.png>] [110]
+<Recipe_Pictures/Portobello_mushroom_and_hoisin_sauce_pancakes.png, id=2070, 93
+3.4875pt x 931.48pt>
+File: Recipe_Pictures/Portobello_mushroom_and_hoisin_sauce_pancakes.png Graphic
+ file (type png)
+<use Recipe_Pictures/Portobello_mushroom_and_hoisin_sauce_pancakes.png>
+Package pdftex.def Info: Recipe_Pictures/Portobello_mushroom_and_hoisin_sauce_p
+ancakes.png  used on input line 2062.
+(pdftex.def)             Requested size: 284.52098pt x 283.9091pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2066--2070
+
+ []
+
+[111 <./Recipe_Pictures/Portobello_mushroom_and_hoisin_sauce_pancakes.png>]
+[112]
+<Recipe_Pictures/Butternut_squash_and_sweetcorn_erriseri.png, id=2084, 933.4875
+pt x 957.5775pt>
+File: Recipe_Pictures/Butternut_squash_and_sweetcorn_erriseri.png Graphic file 
+(type png)
+<use Recipe_Pictures/Butternut_squash_and_sweetcorn_erriseri.png>
+Package pdftex.def Info: Recipe_Pictures/Butternut_squash_and_sweetcorn_erriser
+i.png  used on input line 2098.
+(pdftex.def)             Requested size: 277.37056pt x 284.52852pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2102--2106
+
+ []
+
+[113 <./Recipe_Pictures/Butternut_squash_and_sweetcorn_erriseri.png>] [114]
+<Recipe_Pictures/Polenta_with_balsamic_fried_radicchio,_mushrooms_and_sage.png,
+ id=2098, 933.4875pt x 973.6375pt>
+File: Recipe_Pictures/Polenta_with_balsamic_fried_radicchio,_mushrooms_and_sage
+.png Graphic file (type png)
+<use Recipe_Pictures/Polenta_with_balsamic_fried_radicchio,_mushrooms_and_sage.
+png>
+Package pdftex.def Info: Recipe_Pictures/Polenta_with_balsamic_fried_radicchio,
+_mushrooms_and_sage.png  used on input line 2134.
+(pdftex.def)             Requested size: 272.78404pt x 284.5167pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2139--2143
+
+ []
+
+[115 <./Recipe_Pictures/Polenta_with_balsamic_fried_radicchio,_mushrooms_and_sa
+ge.png>] [116]
+<Recipe_Pictures/Broccoli,_fennel_and_chickpea_stew.png, id=2111, 933.4875pt x 
+933.4875pt>
+File: Recipe_Pictures/Broccoli,_fennel_and_chickpea_stew.png Graphic file (type
+ png)
+<use Recipe_Pictures/Broccoli,_fennel_and_chickpea_stew.png>
+Package pdftex.def Info: Recipe_Pictures/Broccoli,_fennel_and_chickpea_stew.png
+  used on input line 2170.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2173--2177
+
+ []
+
+[117 <./Recipe_Pictures/Broccoli,_fennel_and_chickpea_stew.png>] [118]
+<Recipe_Pictures/Puy_lentil_and_roast_vegetable_salad.png, id=2123, 933.4875pt 
+x 933.4875pt>
+File: Recipe_Pictures/Puy_lentil_and_roast_vegetable_salad.png Graphic file (ty
+pe png)
+<use Recipe_Pictures/Puy_lentil_and_roast_vegetable_salad.png>
+Package pdftex.def Info: Recipe_Pictures/Puy_lentil_and_roast_vegetable_salad.p
+ng  used on input line 2203.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2206--2210
+
+ []
+
+[119 <./Recipe_Pictures/Puy_lentil_and_roast_vegetable_salad.png>] [120]
+<Recipe_Pictures/Burnt_garlic,_cavolo_nero_and_black_bean_noodles.png, id=2138,
+ 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Burnt_garlic,_cavolo_nero_and_black_bean_noodles.png Grap
+hic file (type png)
+<use Recipe_Pictures/Burnt_garlic,_cavolo_nero_and_black_bean_noodles.png>
+Package pdftex.def Info: Recipe_Pictures/Burnt_garlic,_cavolo_nero_and_black_be
+an_noodles.png  used on input line 2238.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2241--2245
+
+ []
+
+[121 <./Recipe_Pictures/Burnt_garlic,_cavolo_nero_and_black_bean_noodles.png>]
+[122]
+<Recipe_Pictures/Creole_rice_with_burnt_peppers.png, id=2152, 933.4875pt x 933.
+4875pt>
+File: Recipe_Pictures/Creole_rice_with_burnt_peppers.png Graphic file (type png
+)
+<use Recipe_Pictures/Creole_rice_with_burnt_peppers.png>
+Package pdftex.def Info: Recipe_Pictures/Creole_rice_with_burnt_peppers.png  us
+ed on input line 2272.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2275--2279
+
+ []
+
+[123 <./Recipe_Pictures/Creole_rice_with_burnt_peppers.png>] [124]
+<Recipe_Pictures/Basbousa_with_orange_and_rose_syrup.png, id=2164, 933.4875pt x
+ 933.4875pt>
+File: Recipe_Pictures/Basbousa_with_orange_and_rose_syrup.png Graphic file (typ
+e png)
+<use Recipe_Pictures/Basbousa_with_orange_and_rose_syrup.png>
+Package pdftex.def Info: Recipe_Pictures/Basbousa_with_orange_and_rose_syrup.pn
+g  used on input line 2306.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2309--2313
+
+ []
+
+[125 <./Recipe_Pictures/Basbousa_with_orange_and_rose_syrup.png>] [126]
+<Recipe_Pictures/Katsu_curry_with_panko_aubergines_and_pickled_radishes.png, id
+=2179, 933.4875pt x 817.0525pt>
+File: Recipe_Pictures/Katsu_curry_with_panko_aubergines_and_pickled_radishes.pn
+g Graphic file (type png)
+<use Recipe_Pictures/Katsu_curry_with_panko_aubergines_and_pickled_radishes.png
+>
+Package pdftex.def Info: Recipe_Pictures/Katsu_curry_with_panko_aubergines_and_
+pickled_radishes.png  used on input line 2347.
+(pdftex.def)             Requested size: 284.52098pt x 249.03235pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2350--2354
+
+ []
+
+[127 <./Recipe_Pictures/Katsu_curry_with_panko_aubergines_and_pickled_radishes.
+png>] [128] [129]
+<Recipe_Pictures/Jamaican_Easter_buns.png, id=2198, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Jamaican_Easter_buns.png Graphic file (type png)
+<use Recipe_Pictures/Jamaican_Easter_buns.png>
+Package pdftex.def Info: Recipe_Pictures/Jamaican_Easter_buns.png  used on inpu
+t line 2401.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2403--2407
+
+ []
+
+[130 <./Recipe_Pictures/Jamaican_Easter_buns.png>] [131]
+<Recipe_Pictures/Butternut_squash_coconut_fry_with_seed_and_peel_chutney.png, i
+d=2213, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Butternut_squash_coconut_fry_with_seed_and_peel_chutney.p
+ng Graphic file (type png)
+<use Recipe_Pictures/Butternut_squash_coconut_fry_with_seed_and_peel_chutney.pn
+g>
+Package pdftex.def Info: Recipe_Pictures/Butternut_squash_coconut_fry_with_seed
+_and_peel_chutney.png  used on input line 2445.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2448--2452
+
+ []
+
+[132 <./Recipe_Pictures/Butternut_squash_coconut_fry_with_seed_and_peel_chutney
+.png>] [133]
+<Recipe_Pictures/Peanut_butter_and_purple_sprouting_broccoli_pad_thai.png, id=2
+226, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Peanut_butter_and_purple_sprouting_broccoli_pad_thai.png 
+Graphic file (type png)
+<use Recipe_Pictures/Peanut_butter_and_purple_sprouting_broccoli_pad_thai.png>
+Package pdftex.def Info: Recipe_Pictures/Peanut_butter_and_purple_sprouting_bro
+ccoli_pad_thai.png  used on input line 2489.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2492--2496
+
+ []
+
+[134 <./Recipe_Pictures/Peanut_butter_and_purple_sprouting_broccoli_pad_thai.pn
+g>] [135]
+<Recipe_Pictures/Leek,_mushroom,_kale_and_pea_subji.png, id=2241, 933.4875pt x 
+560.0925pt>
+File: Recipe_Pictures/Leek,_mushroom,_kale_and_pea_subji.png Graphic file (type
+ png)
+<use Recipe_Pictures/Leek,_mushroom,_kale_and_pea_subji.png>
+Package pdftex.def Info: Recipe_Pictures/Leek,_mushroom,_kale_and_pea_subji.png
+  used on input line 2536.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2538--2542
+
+ []
+
+[136 <./Recipe_Pictures/Leek,_mushroom,_kale_and_pea_subji.png>] [137] [138
+
+]
+Chapter 4.
+<Recipe_Pictures/Rigatoni_with_crema_di_rucola.png, id=2260, 933.4875pt x 1078.
+0275pt>
+File: Recipe_Pictures/Rigatoni_with_crema_di_rucola.png Graphic file (type png)
+
+<use Recipe_Pictures/Rigatoni_with_crema_di_rucola.png>
+Package pdftex.def Info: Recipe_Pictures/Rigatoni_with_crema_di_rucola.png  use
+d on input line 2572.
+(pdftex.def)             Requested size: 246.37595pt x 284.52448pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2575--2579
+
+ []
+
+[139] [140 <./Recipe_Pictures/Rigatoni_with_crema_di_rucola.png>] [141]
+<Recipe_Pictures/Chocolate_and_tahini_cream_tart.png, id=2278, 933.4875pt x 104
+5.9075pt>
+File: Recipe_Pictures/Chocolate_and_tahini_cream_tart.png Graphic file (type pn
+g)
+<use Recipe_Pictures/Chocolate_and_tahini_cream_tart.png>
+Package pdftex.def Info: Recipe_Pictures/Chocolate_and_tahini_cream_tart.png  u
+sed on input line 2623.
+(pdftex.def)             Requested size: 253.93942pt x 284.52138pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2626--2631
+
+ []
+
+[142 <./Recipe_Pictures/Chocolate_and_tahini_cream_tart.png>] [143] [144]
+<Recipe_Pictures/Miso_caesar_salad_with_sesame-maple_croutons.png, id=2296, 933
+.4875pt x 1017.8025pt>
+File: Recipe_Pictures/Miso_caesar_salad_with_sesame-maple_croutons.png Graphic 
+file (type png)
+<use Recipe_Pictures/Miso_caesar_salad_with_sesame-maple_croutons.png>
+Package pdftex.def Info: Recipe_Pictures/Miso_caesar_salad_with_sesame-maple_cr
+outons.png  used on input line 2671.
+(pdftex.def)             Requested size: 260.96164pt x 284.53238pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2674--2678
+
+ []
+
+[145 <./Recipe_Pictures/Miso_caesar_salad_with_sesame-maple_croutons.png>]
+[146] [147]
+<Recipe_Pictures/Spinach_and_butter_bean_stew_with_toasted_pine_nuts.png, id=23
+14, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Spinach_and_butter_bean_stew_with_toasted_pine_nuts.png G
+raphic file (type png)
+<use Recipe_Pictures/Spinach_and_butter_bean_stew_with_toasted_pine_nuts.png>
+Package pdftex.def Info: Recipe_Pictures/Spinach_and_butter_bean_stew_with_toas
+ted_pine_nuts.png  used on input line 2727.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2730--2734
+
+ []
+
+[148 <./Recipe_Pictures/Spinach_and_butter_bean_stew_with_toasted_pine_nuts.png
+>] [149]
+<Recipe_Pictures/Mango_and_coconut_yoghurt_curry.png, id=2327, 933.4875pt x 109
+6.095pt>
+File: Recipe_Pictures/Mango_and_coconut_yoghurt_curry.png Graphic file (type pn
+g)
+<use Recipe_Pictures/Mango_and_coconut_yoghurt_curry.png>
+Package pdftex.def Info: Recipe_Pictures/Mango_and_coconut_yoghurt_curry.png  u
+sed on input line 2760.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2763--2767
+
+ []
+
+[150 <./Recipe_Pictures/Mango_and_coconut_yoghurt_curry.png>] [151]
+<Recipe_Pictures/Farinata_with_balsamic_onions_and_asparagus.png, id=2338, 933.
+4875pt x 1096.095pt>
+File: Recipe_Pictures/Farinata_with_balsamic_onions_and_asparagus.png Graphic f
+ile (type png)
+<use Recipe_Pictures/Farinata_with_balsamic_onions_and_asparagus.png>
+Package pdftex.def Info: Recipe_Pictures/Farinata_with_balsamic_onions_and_aspa
+ragus.png  used on input line 2791.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2794--2799
+
+ []
+
+[152 <./Recipe_Pictures/Farinata_with_balsamic_onions_and_asparagus.png>]
+[153]
+<Recipe_Pictures/Leek,_almond_and_herb_tabbouleh.png, id=2351, 933.4875pt x 109
+6.095pt>
+File: Recipe_Pictures/Leek,_almond_and_herb_tabbouleh.png Graphic file (type pn
+g)
+<use Recipe_Pictures/Leek,_almond_and_herb_tabbouleh.png>
+Package pdftex.def Info: Recipe_Pictures/Leek,_almond_and_herb_tabbouleh.png  u
+sed on input line 2824.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2826--2830
+
+ []
+
+[154 <./Recipe_Pictures/Leek,_almond_and_herb_tabbouleh.png>] [155]
+<Recipe_Pictures/Asparagus_and_cashew_thoran.png, id=2365, 933.4875pt x 933.487
+5pt>
+File: Recipe_Pictures/Asparagus_and_cashew_thoran.png Graphic file (type png)
+<use Recipe_Pictures/Asparagus_and_cashew_thoran.png>
+Package pdftex.def Info: Recipe_Pictures/Asparagus_and_cashew_thoran.png  used 
+on input line 2857.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2859--2863
+
+ []
+
+[156 <./Recipe_Pictures/Asparagus_and_cashew_thoran.png>] [157]
+<Recipe_Pictures/Rojak_salad_with_avocado,_tofu_and_tamarind.png, id=2376, 933.
+4875pt x 933.4875pt>
+File: Recipe_Pictures/Rojak_salad_with_avocado,_tofu_and_tamarind.png Graphic f
+ile (type png)
+<use Recipe_Pictures/Rojak_salad_with_avocado,_tofu_and_tamarind.png>
+Package pdftex.def Info: Recipe_Pictures/Rojak_salad_with_avocado,_tofu_and_tam
+arind.png  used on input line 2889.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2892--2896
+
+ []
+
+[158 <./Recipe_Pictures/Rojak_salad_with_avocado,_tofu_and_tamarind.png>]
+[159]
+<Recipe_Pictures/Tofu_with_tomatoes,_sweet_soy_and_greens.png, id=2388, 933.487
+5pt x 933.4875pt>
+File: Recipe_Pictures/Tofu_with_tomatoes,_sweet_soy_and_greens.png Graphic file
+ (type png)
+<use Recipe_Pictures/Tofu_with_tomatoes,_sweet_soy_and_greens.png>
+Package pdftex.def Info: Recipe_Pictures/Tofu_with_tomatoes,_sweet_soy_and_gree
+ns.png  used on input line 2924.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2927--2931
+
+ []
+
+[160 <./Recipe_Pictures/Tofu_with_tomatoes,_sweet_soy_and_greens.png>] [161]
+<Recipe_Pictures/Ethiopian_Easter_bread_with_fennel_and_orange.png, id=2401, 93
+3.4875pt x 933.4875pt>
+File: Recipe_Pictures/Ethiopian_Easter_bread_with_fennel_and_orange.png Graphic
+ file (type png)
+<use Recipe_Pictures/Ethiopian_Easter_bread_with_fennel_and_orange.png>
+Package pdftex.def Info: Recipe_Pictures/Ethiopian_Easter_bread_with_fennel_and
+_orange.png  used on input line 2955.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2958--2962
+
+ []
+
+[162 <./Recipe_Pictures/Ethiopian_Easter_bread_with_fennel_and_orange.png>]
+[163]
+<Recipe_Pictures/Caramelised_onion_ramen.png, id=2414, 933.4875pt x 933.4875pt>
+
+File: Recipe_Pictures/Caramelised_onion_ramen.png Graphic file (type png)
+<use Recipe_Pictures/Caramelised_onion_ramen.png>
+Package pdftex.def Info: Recipe_Pictures/Caramelised_onion_ramen.png  used on i
+nput line 2986.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2989--2993
+
+ []
+
+[164 <./Recipe_Pictures/Caramelised_onion_ramen.png>] [165]
+<Recipe_Pictures/White_miso_and_tofu_ramen_with_chilli_garlic_asparagus.png, id
+=2428, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/White_miso_and_tofu_ramen_with_chilli_garlic_asparagus.pn
+g Graphic file (type png)
+<use Recipe_Pictures/White_miso_and_tofu_ramen_with_chilli_garlic_asparagus.png
+>
+Package pdftex.def Info: Recipe_Pictures/White_miso_and_tofu_ramen_with_chilli_
+garlic_asparagus.png  used on input line 3022.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3025--3029
+
+ []
+
+[166 <./Recipe_Pictures/White_miso_and_tofu_ramen_with_chilli_garlic_asparagus.
+png>] [167]
+<Recipe_Pictures/Jackfruit_tacos_with_fried_corn_and_hot_cashew_sauce.png, id=2
+445, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Jackfruit_tacos_with_fried_corn_and_hot_cashew_sauce.png 
+Graphic file (type png)
+<use Recipe_Pictures/Jackfruit_tacos_with_fried_corn_and_hot_cashew_sauce.png>
+Package pdftex.def Info: Recipe_Pictures/Jackfruit_tacos_with_fried_corn_and_ho
+t_cashew_sauce.png  used on input line 3072.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3075--3079
+
+ []
+
+[168 <./Recipe_Pictures/Jackfruit_tacos_with_fried_corn_and_hot_cashew_sauce.pn
+g>] [169] [170]
+<Recipe_Pictures/Chocolate,_date_and_coffee_cake.png, id=2463, 933.4875pt x 933
+.4875pt>
+File: Recipe_Pictures/Chocolate,_date_and_coffee_cake.png Graphic file (type pn
+g)
+<use Recipe_Pictures/Chocolate,_date_and_coffee_cake.png>
+Package pdftex.def Info: Recipe_Pictures/Chocolate,_date_and_coffee_cake.png  u
+sed on input line 3133.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3136--3140
+
+ []
+
+[171 <./Recipe_Pictures/Chocolate,_date_and_coffee_cake.png>] [172]
+<Recipe_Pictures/Spring_vegetable_bun_cha_with_tofu_and_soy-pickled_cabbage.png
+, id=2477, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Spring_vegetable_bun_cha_with_tofu_and_soy-pickled_cabbag
+e.png Graphic file (type png)
+<use Recipe_Pictures/Spring_vegetable_bun_cha_with_tofu_and_soy-pickled_cabbage
+.png>
+Package pdftex.def Info: Recipe_Pictures/Spring_vegetable_bun_cha_with_tofu_and
+_soy-pickled_cabbage.png  used on input line 3171.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3174--3178
+
+ []
+
+[173 <./Recipe_Pictures/Spring_vegetable_bun_cha_with_tofu_and_soy-pickled_cabb
+age.png>] [174] [175] [176
+
+]
+Chapter 5.
+<Recipe_Pictures/Spaghetti_with_roast_almond_and_tomato_pesto.png, id=2500, 933
+.4875pt x 1096.095pt>
+File: Recipe_Pictures/Spaghetti_with_roast_almond_and_tomato_pesto.png Graphic 
+file (type png)
+<use Recipe_Pictures/Spaghetti_with_roast_almond_and_tomato_pesto.png>
+Package pdftex.def Info: Recipe_Pictures/Spaghetti_with_roast_almond_and_tomato
+_pesto.png  used on input line 3232.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3235--3239
+
+ []
+
+[177] [178 <./Recipe_Pictures/Spaghetti_with_roast_almond_and_tomato_pesto.png>
+]
+<Recipe_Pictures/Walnut-stuffed_aubergines.png, id=2513, 933.4875pt x 1096.095p
+t>
+File: Recipe_Pictures/Walnut-stuffed_aubergines.png Graphic file (type png)
+<use Recipe_Pictures/Walnut-stuffed_aubergines.png>
+Package pdftex.def Info: Recipe_Pictures/Walnut-stuffed_aubergines.png  used on
+ input line 3262.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3265--3269
+
+ []
+
+[179 <./Recipe_Pictures/Walnut-stuffed_aubergines.png>] [180]
+<Recipe_Pictures/Granny_Jeans_date_slices.png, id=2527, 933.4875pt x 1096.095pt
+>
+File: Recipe_Pictures/Granny_Jeans_date_slices.png Graphic file (type png)
+<use Recipe_Pictures/Granny_Jeans_date_slices.png>
+Package pdftex.def Info: Recipe_Pictures/Granny_Jeans_date_slices.png  used on 
+input line 3297.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3300--3305
+
+ []
+
+[181 <./Recipe_Pictures/Granny_Jeans_date_slices.png>] [182]
+<Recipe_Pictures/Tofu_and_mushroom_bulgogi.png, id=2540, 933.4875pt x 1094.0875
+pt>
+File: Recipe_Pictures/Tofu_and_mushroom_bulgogi.png Graphic file (type png)
+<use Recipe_Pictures/Tofu_and_mushroom_bulgogi.png>
+Package pdftex.def Info: Recipe_Pictures/Tofu_and_mushroom_bulgogi.png  used on
+ input line 3327.
+(pdftex.def)             Requested size: 242.758pt x 284.52281pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3329--3333
+
+ []
+
+
+! Package inputenc Error: Unicode character ﬁ (U+FB01)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3335 \item 280g extra-ﬁ
+                           rm tofu
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[183 <./Recipe_Pictures/Tofu_and_mushroom_bulgogi.png>] [184]
+<Recipe_Pictures/Green_tea_rice_with_sake_vegetables.png, id=2555, 933.4875pt x
+ 1096.095pt>
+File: Recipe_Pictures/Green_tea_rice_with_sake_vegetables.png Graphic file (typ
+e png)
+<use Recipe_Pictures/Green_tea_rice_with_sake_vegetables.png>
+Package pdftex.def Info: Recipe_Pictures/Green_tea_rice_with_sake_vegetables.pn
+g  used on input line 3361.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3363--3367
+
+ []
+
+[185 <./Recipe_Pictures/Green_tea_rice_with_sake_vegetables.png>] [186]
+<Recipe_Pictures/No-cook_salad_with_tomatoes,_chickpeas_and_rose_harissa.png, i
+d=2568, 933.4875pt x 734.745pt>
+File: Recipe_Pictures/No-cook_salad_with_tomatoes,_chickpeas_and_rose_harissa.p
+ng Graphic file (type png)
+<use Recipe_Pictures/No-cook_salad_with_tomatoes,_chickpeas_and_rose_harissa.pn
+g>
+Package pdftex.def Info: Recipe_Pictures/No-cook_salad_with_tomatoes,_chickpeas
+_and_rose_harissa.png  used on input line 3393.
+(pdftex.def)             Requested size: 284.52098pt x 223.94554pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3396--3399
+
+ []
+
+[187 <./Recipe_Pictures/No-cook_salad_with_tomatoes,_chickpeas_and_rose_harissa
+.png>] [188]
+<Recipe_Pictures/Sticky_Assam_malt_loaf.png, id=2579, 933.4875pt x 698.61pt>
+File: Recipe_Pictures/Sticky_Assam_malt_loaf.png Graphic file (type png)
+<use Recipe_Pictures/Sticky_Assam_malt_loaf.png>
+Package pdftex.def Info: Recipe_Pictures/Sticky_Assam_malt_loaf.png  used on in
+put line 3429.
+(pdftex.def)             Requested size: 284.52098pt x 212.93182pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3431--3435
+
+ []
+
+[189 <./Recipe_Pictures/Sticky_Assam_malt_loaf.png>] [190]
+<Recipe_Pictures/Potato,_coconut_and_peanut_tikkis_with_pea_chutney.png, id=259
+2, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Potato,_coconut_and_peanut_tikkis_with_pea_chutney.png Gr
+aphic file (type png)
+<use Recipe_Pictures/Potato,_coconut_and_peanut_tikkis_with_pea_chutney.png>
+Package pdftex.def Info: Recipe_Pictures/Potato,_coconut_and_peanut_tikkis_with
+_pea_chutney.png  used on input line 3461.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3463--3464
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3463--3464
+
+ []
+
+[191 <./Recipe_Pictures/Potato,_coconut_and_peanut_tikkis_with_pea_chutney.png>
+] [192]
+<Recipe_Pictures/Cauliflower,_beetroot_and_asparagus_salad_with_mustard-miso_dr
+essing.png, id=2608, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Cauliflower,_beetroot_and_asparagus_salad_with_mustard-mi
+so_dressing.png Graphic file (type png)
+<use Recipe_Pictures/Cauliflower,_beetroot_and_asparagus_salad_with_mustard-mis
+o_dressing.png>
+Package pdftex.def Info: Recipe_Pictures/Cauliflower,_beetroot_and_asparagus_sa
+lad_with_mustard-miso_dressing.png  used on input line 3506.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3509--3513
+
+ []
+
+
+Overfull \hbox (36.00385pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 5.9.  CAULIFLOWER, BEETROOT AND ASPARAGUS SALAD WITH MUSTARD-M
+ISO DRESSING \OT1/cmr/m/n/10 193
+ []
+
+[193 <./Recipe_Pictures/Cauliflower,_beetroot_and_asparagus_salad_with_mustard-
+miso_dressing.png>] [194]
+<Recipe_Pictures/Chocolate,_olive_oil_and_passion_fruit_cake.png, id=2622, 933.
+4875pt x 933.4875pt>
+File: Recipe_Pictures/Chocolate,_olive_oil_and_passion_fruit_cake.png Graphic f
+ile (type png)
+<use Recipe_Pictures/Chocolate,_olive_oil_and_passion_fruit_cake.png>
+Package pdftex.def Info: Recipe_Pictures/Chocolate,_olive_oil_and_passion_fruit
+_cake.png  used on input line 3547.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3550--3554
+
+ []
+
+[195 <./Recipe_Pictures/Chocolate,_olive_oil_and_passion_fruit_cake.png>]
+[196]
+<Recipe_Pictures/Pondicherry_toast.png, id=2635, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Pondicherry_toast.png Graphic file (type png)
+<use Recipe_Pictures/Pondicherry_toast.png>
+Package pdftex.def Info: Recipe_Pictures/Pondicherry_toast.png  used on input l
+ine 3578.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3581--3585
+
+ []
+
+[197 <./Recipe_Pictures/Pondicherry_toast.png>] [198]
+<Recipe_Pictures/Banana_bread_with_toasted_coconut.png, id=2648, 933.4875pt x 5
+60.0925pt>
+File: Recipe_Pictures/Banana_bread_with_toasted_coconut.png Graphic file (type 
+png)
+<use Recipe_Pictures/Banana_bread_with_toasted_coconut.png>
+Package pdftex.def Info: Recipe_Pictures/Banana_bread_with_toasted_coconut.png 
+ used on input line 3609.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3612--3616
+
+ []
+
+[199 <./Recipe_Pictures/Banana_bread_with_toasted_coconut.png>] [200]
+<Recipe_Pictures/Vegetarian_chilli_burger_with_garlic_mayo.png, id=2664, 933.48
+75pt x 933.4875pt>
+File: Recipe_Pictures/Vegetarian_chilli_burger_with_garlic_mayo.png Graphic fil
+e (type png)
+<use Recipe_Pictures/Vegetarian_chilli_burger_with_garlic_mayo.png>
+Package pdftex.def Info: Recipe_Pictures/Vegetarian_chilli_burger_with_garlic_m
+ayo.png  used on input line 3645.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3648--3652
+
+ []
+
+[201 <./Recipe_Pictures/Vegetarian_chilli_burger_with_garlic_mayo.png>]
+[202] [203]
+<Recipe_Pictures/Aubergine_larb_with_sticky_rice_and_shallot_and_peanut_salad.p
+ng, id=2684, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Aubergine_larb_with_sticky_rice_and_shallot_and_peanut_sa
+lad.png Graphic file (type png)
+<use Recipe_Pictures/Aubergine_larb_with_sticky_rice_and_shallot_and_peanut_sal
+ad.png>
+Package pdftex.def Info: Recipe_Pictures/Aubergine_larb_with_sticky_rice_and_sh
+allot_and_peanut_salad.png  used on input line 3700.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3703--3708
+
+ []
+
+[204 <./Recipe_Pictures/Aubergine_larb_with_sticky_rice_and_shallot_and_peanut_
+salad.png>] [205]
+<Recipe_Pictures/Green_pea,_black-eyed_bean_and_chickpea_usal.png, id=2699, 933
+.4875pt x 933.4875pt>
+File: Recipe_Pictures/Green_pea,_black-eyed_bean_and_chickpea_usal.png Graphic 
+file (type png)
+<use Recipe_Pictures/Green_pea,_black-eyed_bean_and_chickpea_usal.png>
+Package pdftex.def Info: Recipe_Pictures/Green_pea,_black-eyed_bean_and_chickpe
+a_usal.png  used on input line 3747.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3750--3754
+
+ []
+
+[206 <./Recipe_Pictures/Green_pea,_black-eyed_bean_and_chickpea_usal.png>]
+[207] [208
+
+]
+Chapter 6.
+<Recipe_Pictures/Dry-fried_beans_with_minced_tofu.png, id=2716, 933.4875pt x 10
+96.095pt>
+File: Recipe_Pictures/Dry-fried_beans_with_minced_tofu.png Graphic file (type p
+ng)
+<use Recipe_Pictures/Dry-fried_beans_with_minced_tofu.png>
+Package pdftex.def Info: Recipe_Pictures/Dry-fried_beans_with_minced_tofu.png  
+used on input line 3786.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3789--3793
+
+ []
+
+[209] [210 <./Recipe_Pictures/Dry-fried_beans_with_minced_tofu.png>]
+<Recipe_Pictures/Courgette,_pea_and_asparagus_soup.png, id=2731, 933.4875pt x 1
+096.095pt>
+File: Recipe_Pictures/Courgette,_pea_and_asparagus_soup.png Graphic file (type 
+png)
+<use Recipe_Pictures/Courgette,_pea_and_asparagus_soup.png>
+Package pdftex.def Info: Recipe_Pictures/Courgette,_pea_and_asparagus_soup.png 
+ used on input line 3821.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3824--3828
+
+ []
+
+[211 <./Recipe_Pictures/Courgette,_pea_and_asparagus_soup.png>] [212]
+<Recipe_Pictures/Potato_salad_with_tamarind,_coconut_and_cashews.png, id=2742, 
+933.4875pt x 1096.095pt>
+File: Recipe_Pictures/Potato_salad_with_tamarind,_coconut_and_cashews.png Graph
+ic file (type png)
+<use Recipe_Pictures/Potato_salad_with_tamarind,_coconut_and_cashews.png>
+Package pdftex.def Info: Recipe_Pictures/Potato_salad_with_tamarind,_coconut_an
+d_cashews.png  used on input line 3851.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3853--3857
+
+ []
+
+[213 <./Recipe_Pictures/Potato_salad_with_tamarind,_coconut_and_cashews.png>]
+[214]
+<Recipe_Pictures/Fennel_and_dill_dal.png, id=2755, 933.4875pt x 1029.8475pt>
+File: Recipe_Pictures/Fennel_and_dill_dal.png Graphic file (type png)
+<use Recipe_Pictures/Fennel_and_dill_dal.png>
+Package pdftex.def Info: Recipe_Pictures/Fennel_and_dill_dal.png  used on input
+ line 3885.
+(pdftex.def)             Requested size: 257.89922pt x 284.52107pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3888--3892
+
+ []
+
+[215 <./Recipe_Pictures/Fennel_and_dill_dal.png>] [216]
+<Recipe_Pictures/Cold_sesame_noodles_with_smacked_courgette.png, id=2769, 933.4
+875pt x 933.4875pt>
+File: Recipe_Pictures/Cold_sesame_noodles_with_smacked_courgette.png Graphic fi
+le (type png)
+<use Recipe_Pictures/Cold_sesame_noodles_with_smacked_courgette.png>
+Package pdftex.def Info: Recipe_Pictures/Cold_sesame_noodles_with_smacked_courg
+ette.png  used on input line 3921.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3924--3928
+
+ []
+
+[217 <./Recipe_Pictures/Cold_sesame_noodles_with_smacked_courgette.png>]
+[218]
+Overfull \hbox (0.76114pt too wide) in paragraph at lines 3954--3954
+|[]\OT1/cmr/bx/n/14.4 Summer galette with new pota-toes, rocket and ar-ti-choke
+s| 
+ []
+
+<Recipe_Pictures/Summer_galette_with_new_potatoes,_rocket_and_artichokes.png, i
+d=2782, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Summer_galette_with_new_potatoes,_rocket_and_artichokes.p
+ng Graphic file (type png)
+<use Recipe_Pictures/Summer_galette_with_new_potatoes,_rocket_and_artichokes.pn
+g>
+Package pdftex.def Info: Recipe_Pictures/Summer_galette_with_new_potatoes,_rock
+et_and_artichokes.png  used on input line 3956.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3958--3962
+
+ []
+
+[219 <./Recipe_Pictures/Summer_galette_with_new_potatoes,_rocket_and_artichokes
+.png>] [220]
+<Recipe_Pictures/Cereal_milk_ice-cream_sandwiches.png, id=2798, 933.4875pt x 93
+3.4875pt>
+File: Recipe_Pictures/Cereal_milk_ice-cream_sandwiches.png Graphic file (type p
+ng)
+<use Recipe_Pictures/Cereal_milk_ice-cream_sandwiches.png>
+Package pdftex.def Info: Recipe_Pictures/Cereal_milk_ice-cream_sandwiches.png  
+used on input line 3999.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4002--4006
+
+ []
+
+[221 <./Recipe_Pictures/Cereal_milk_ice-cream_sandwiches.png>] [222]
+<Recipe_Pictures/Crispy_fried_rice_with_cucumber,_peanut_and_herb_salad.png, id
+=2816, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Crispy_fried_rice_with_cucumber,_peanut_and_herb_salad.pn
+g Graphic file (type png)
+<use Recipe_Pictures/Crispy_fried_rice_with_cucumber,_peanut_and_herb_salad.png
+>
+Package pdftex.def Info: Recipe_Pictures/Crispy_fried_rice_with_cucumber,_peanu
+t_and_herb_salad.png  used on input line 4042.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4045--4049
+
+ []
+
+[223 <./Recipe_Pictures/Crispy_fried_rice_with_cucumber,_peanut_and_herb_salad.
+png>] [224]
+<Recipe_Pictures/Mango_sticky_rice.png, id=2830, 933.4875pt x 975.645pt>
+File: Recipe_Pictures/Mango_sticky_rice.png Graphic file (type png)
+<use Recipe_Pictures/Mango_sticky_rice.png>
+Package pdftex.def Info: Recipe_Pictures/Mango_sticky_rice.png  used on input l
+ine 4084.
+(pdftex.def)             Requested size: 272.22853pt x 284.52272pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4089--4094
+
+ []
+
+[225 <./Recipe_Pictures/Mango_sticky_rice.png>] [226]
+<Recipe_Pictures/Charred_broccoli_and_bean_soba_noodle_salad.png, id=2844, 933.
+4875pt x 985.6825pt>
+File: Recipe_Pictures/Charred_broccoli_and_bean_soba_noodle_salad.png Graphic f
+ile (type png)
+<use Recipe_Pictures/Charred_broccoli_and_bean_soba_noodle_salad.png>
+Package pdftex.def Info: Recipe_Pictures/Charred_broccoli_and_bean_soba_noodle_
+salad.png  used on input line 4116.
+(pdftex.def)             Requested size: 269.46523pt x 284.53209pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4122--4126
+
+ []
+
+[227 <./Recipe_Pictures/Charred_broccoli_and_bean_soba_noodle_salad.png>]
+[228]
+<Recipe_Pictures/Bread_salad_with_kale,_pine_nuts_and_roasted_lemon.png, id=285
+8, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Bread_salad_with_kale,_pine_nuts_and_roasted_lemon.png Gr
+aphic file (type png)
+<use Recipe_Pictures/Bread_salad_with_kale,_pine_nuts_and_roasted_lemon.png>
+Package pdftex.def Info: Recipe_Pictures/Bread_salad_with_kale,_pine_nuts_and_r
+oasted_lemon.png  used on input line 4160.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4164--4168
+
+ []
+
+[229 <./Recipe_Pictures/Bread_salad_with_kale,_pine_nuts_and_roasted_lemon.png>
+] [230]
+<Recipe_Pictures/Baked_pasta_with_miso,_sweet_potato_and_spinach.png, id=2871, 
+933.4875pt x 1096.095pt>
+File: Recipe_Pictures/Baked_pasta_with_miso,_sweet_potato_and_spinach.png Graph
+ic file (type png)
+<use Recipe_Pictures/Baked_pasta_with_miso,_sweet_potato_and_spinach.png>
+Package pdftex.def Info: Recipe_Pictures/Baked_pasta_with_miso,_sweet_potato_an
+d_spinach.png  used on input line 4193.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4196--4200
+
+ []
+
+[231 <./Recipe_Pictures/Baked_pasta_with_miso,_sweet_potato_and_spinach.png>]
+[232]
+<Recipe_Pictures/Tofu_banh_mi.png, id=2885, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Tofu_banh_mi.png Graphic file (type png)
+<use Recipe_Pictures/Tofu_banh_mi.png>
+Package pdftex.def Info: Recipe_Pictures/Tofu_banh_mi.png  used on input line 4
+229.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4232--4236
+
+ []
+
+[233 <./Recipe_Pictures/Tofu_banh_mi.png>] [234]
+<Recipe_Pictures/Jersey_royal_and_green_bean_istoo_with_tamarind_shallots.png, 
+id=2898, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Jersey_royal_and_green_bean_istoo_with_tamarind_shallots.
+png Graphic file (type png)
+<use Recipe_Pictures/Jersey_royal_and_green_bean_istoo_with_tamarind_shallots.p
+ng>
+Package pdftex.def Info: Recipe_Pictures/Jersey_royal_and_green_bean_istoo_with
+_tamarind_shallots.png  used on input line 4275.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4277--4281
+
+ []
+
+[235 <./Recipe_Pictures/Jersey_royal_and_green_bean_istoo_with_tamarind_shallot
+s.png>] [236]
+<Recipe_Pictures/Salted_date_caramel_slices.png, id=2911, 933.4875pt x 718.685p
+t>
+File: Recipe_Pictures/Salted_date_caramel_slices.png Graphic file (type png)
+<use Recipe_Pictures/Salted_date_caramel_slices.png>
+Package pdftex.def Info: Recipe_Pictures/Salted_date_caramel_slices.png  used o
+n input line 4311.
+(pdftex.def)             Requested size: 284.52098pt x 219.05055pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4313--4316
+
+ []
+
+[237 <./Recipe_Pictures/Salted_date_caramel_slices.png>] [238]
+Overfull \hbox (0.62944pt too wide) in paragraph at lines 4342--4342
+|[]\OT1/cmr/bx/n/14.4 Wild rice, chick-pea and aubergine salad with a tamarind
+ []
+
+<Recipe_Pictures/Wild_rice,_chickpea_and_aubergine_salad_with_a_tamarind_and_yo
+ghurt_dressing.png, id=2928, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Wild_rice,_chickpea_and_aubergine_salad_with_a_tamarind_a
+nd_yoghurt_dressing.png Graphic file (type png)
+<use Recipe_Pictures/Wild_rice,_chickpea_and_aubergine_salad_with_a_tamarind_an
+d_yoghurt_dressing.png>
+Package pdftex.def Info: Recipe_Pictures/Wild_rice,_chickpea_and_aubergine_sala
+d_with_a_tamarind_and_yoghurt_dressing.png  used on input line 4344.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4346--4351
+
+ []
+
+
+Overfull \hbox (85.93001pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 6.16.  WILD RICE, CHICKPEA AND AUBERGINE SALAD WITH A TAMARIND
+ AND `YOGHURT' DRESSING \OT1/cmr/m/n/10 239
+ []
+
+[239 <./Recipe_Pictures/Wild_rice,_chickpea_and_aubergine_salad_with_a_tamarind
+_and_yoghurt_dressing.png>] [240]
+<Recipe_Pictures/Tomato,_pistachio_and_saffron_tart.png, id=2945, 933.4875pt x 
+706.64pt>
+File: Recipe_Pictures/Tomato,_pistachio_and_saffron_tart.png Graphic file (type
+ png)
+<use Recipe_Pictures/Tomato,_pistachio_and_saffron_tart.png>
+Package pdftex.def Info: Recipe_Pictures/Tomato,_pistachio_and_saffron_tart.png
+  used on input line 4396.
+(pdftex.def)             Requested size: 284.52098pt x 215.37932pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4399--4403
+
+ []
+
+[241 <./Recipe_Pictures/Tomato,_pistachio_and_saffron_tart.png>] [242]
+<Recipe_Pictures/Asparagus,_fennel_and_pea_pilau.png, id=2959, 933.4875pt x 560
+.0925pt>
+File: Recipe_Pictures/Asparagus,_fennel_and_pea_pilau.png Graphic file (type pn
+g)
+<use Recipe_Pictures/Asparagus,_fennel_and_pea_pilau.png>
+Package pdftex.def Info: Recipe_Pictures/Asparagus,_fennel_and_pea_pilau.png  u
+sed on input line 4433.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4436--4441
+
+ []
+
+[243 <./Recipe_Pictures/Asparagus,_fennel_and_pea_pilau.png>] [244]
+Chapter 7.
+<Recipe_Pictures/Blueberry_cake_with_elderflower_cream.png, id=2971, 933.4875pt
+ x 999.735pt>
+File: Recipe_Pictures/Blueberry_cake_with_elderflower_cream.png Graphic file (t
+ype png)
+<use Recipe_Pictures/Blueberry_cake_with_elderflower_cream.png>
+Package pdftex.def Info: Recipe_Pictures/Blueberry_cake_with_elderflower_cream.
+png  used on input line 4472.
+(pdftex.def)             Requested size: 265.67636pt x 284.5308pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4475--4479
+
+ []
+
+[245
+
+] [246 <./Recipe_Pictures/Blueberry_cake_with_elderflower_cream.png>]
+[247]
+<Recipe_Pictures/Sweet_potato,_spring_onion_and_miso_salad.png, id=2991, 933.48
+75pt x 1096.095pt>
+File: Recipe_Pictures/Sweet_potato,_spring_onion_and_miso_salad.png Graphic fil
+e (type png)
+<use Recipe_Pictures/Sweet_potato,_spring_onion_and_miso_salad.png>
+Package pdftex.def Info: Recipe_Pictures/Sweet_potato,_spring_onion_and_miso_sa
+lad.png  used on input line 4516.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4519--4523
+
+ []
+
+[248 <./Recipe_Pictures/Sweet_potato,_spring_onion_and_miso_salad.png>]
+[249]
+<Recipe_Pictures/Tomato_and_turmeric_kitchari.png, id=3003, 933.4875pt x 1096.0
+95pt>
+File: Recipe_Pictures/Tomato_and_turmeric_kitchari.png Graphic file (type png)
+<use Recipe_Pictures/Tomato_and_turmeric_kitchari.png>
+Package pdftex.def Info: Recipe_Pictures/Tomato_and_turmeric_kitchari.png  used
+ on input line 4552.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+
+! Package inputenc Error: Unicode character ½ (U+BD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4564 \textbf{½ tsp ground cinnamon}
+                                      :  tsp ground cinnamon
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ½ (U+BD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4566 \textbf{½ tsp fine sea salt}
+                                    :  tsp fine sea salt
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ⅓ (U+2153)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4567 \textbf{⅓ tsp ground black pepper}
+                                           :  tsp ground black pepper
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4555--4568
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [250 <./Recipe_Pictures/Tomato_and_turmeric_kitchari.png>] [251]
+<Recipe_Pictures/10-clove_garlic_focaccia.png, id=3016, 933.4875pt x 1096.095pt
+>
+File: Recipe_Pictures/10-clove_garlic_focaccia.png Graphic file (type png)
+<use Recipe_Pictures/10-clove_garlic_focaccia.png>
+Package pdftex.def Info: Recipe_Pictures/10-clove_garlic_focaccia.png  used on 
+input line 4579.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4582--4586
+
+ []
+
+[252 <./Recipe_Pictures/10-clove_garlic_focaccia.png>] [253]
+<Recipe_Pictures/Sweet_potato_yaki_mochi_with_black_sesame_sauce.png, id=3031, 
+933.4875pt x 899.36pt>
+File: Recipe_Pictures/Sweet_potato_yaki_mochi_with_black_sesame_sauce.png Graph
+ic file (type png)
+<use Recipe_Pictures/Sweet_potato_yaki_mochi_with_black_sesame_sauce.png>
+Package pdftex.def Info: Recipe_Pictures/Sweet_potato_yaki_mochi_with_black_ses
+ame_sauce.png  used on input line 4612.
+(pdftex.def)             Requested size: 284.52098pt x 274.11914pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4614--4618
+
+ []
+
+[254 <./Recipe_Pictures/Sweet_potato_yaki_mochi_with_black_sesame_sauce.png>]
+[255]
+<Recipe_Pictures/Crushed_borlotti_beans_with_chopped_salad_and_tahini.png, id=3
+045, 933.4875pt x 1094.0875pt>
+File: Recipe_Pictures/Crushed_borlotti_beans_with_chopped_salad_and_tahini.png 
+Graphic file (type png)
+<use Recipe_Pictures/Crushed_borlotti_beans_with_chopped_salad_and_tahini.png>
+Package pdftex.def Info: Recipe_Pictures/Crushed_borlotti_beans_with_chopped_sa
+lad_and_tahini.png  used on input line 4649.
+(pdftex.def)             Requested size: 242.758pt x 284.52281pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4652--4656
+
+ []
+
+[256 <./Recipe_Pictures/Crushed_borlotti_beans_with_chopped_salad_and_tahini.pn
+g>] [257]
+<Recipe_Pictures/Butter_beans_in_salsa_verde.png, id=3059, 933.4875pt x 1029.84
+75pt>
+File: Recipe_Pictures/Butter_beans_in_salsa_verde.png Graphic file (type png)
+<use Recipe_Pictures/Butter_beans_in_salsa_verde.png>
+Package pdftex.def Info: Recipe_Pictures/Butter_beans_in_salsa_verde.png  used 
+on input line 4690.
+(pdftex.def)             Requested size: 257.89922pt x 284.52107pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4694--4698
+
+ []
+
+[258 <./Recipe_Pictures/Butter_beans_in_salsa_verde.png>] [259]
+<Recipe_Pictures/Sri_Lankan_cucumber_and_cashew_curry.png, id=3069, 933.4875pt 
+x 1096.095pt>
+File: Recipe_Pictures/Sri_Lankan_cucumber_and_cashew_curry.png Graphic file (ty
+pe png)
+<use Recipe_Pictures/Sri_Lankan_cucumber_and_cashew_curry.png>
+Package pdftex.def Info: Recipe_Pictures/Sri_Lankan_cucumber_and_cashew_curry.p
+ng  used on input line 4725.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4728--4732
+
+ []
+
+[260 <./Recipe_Pictures/Sri_Lankan_cucumber_and_cashew_curry.png>] [261]
+<Recipe_Pictures/Summer_succotash.png, id=3080, 933.4875pt x 1003.75pt>
+File: Recipe_Pictures/Summer_succotash.png Graphic file (type png)
+<use Recipe_Pictures/Summer_succotash.png>
+Package pdftex.def Info: Recipe_Pictures/Summer_succotash.png  used on input li
+ne 4758.
+(pdftex.def)             Requested size: 264.60808pt x 284.52481pt.
+
+
+! Package inputenc Error: Unicode character ¾ (U+BE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4774 ...0g, or 1 handful, finely chopped chives}
+                                                  :  tsp salt10g, or 1 handf...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4761--4776
+
+ []
+
+
+Underfull \vbox (badness 1622) has occurred while \output is active []
+
+ [262 <./Recipe_Pictures/Summer_succotash.png>] [263]
+<Recipe_Pictures/Avocado,_coconut_and_matcha_ice-cream.png, id=3093, 933.4875pt
+ x 933.4875pt>
+File: Recipe_Pictures/Avocado,_coconut_and_matcha_ice-cream.png Graphic file (t
+ype png)
+<use Recipe_Pictures/Avocado,_coconut_and_matcha_ice-cream.png>
+Package pdftex.def Info: Recipe_Pictures/Avocado,_coconut_and_matcha_ice-cream.
+png  used on input line 4793.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4799--4803
+
+ []
+
+[264 <./Recipe_Pictures/Avocado,_coconut_and_matcha_ice-cream.png>] [265]
+<Recipe_Pictures/Aubergine,_green_bean,_tofu_and_Thai_holy_basil_stir-fry.png, 
+id=3105, 933.4875pt x 1096.095pt>
+File: Recipe_Pictures/Aubergine,_green_bean,_tofu_and_Thai_holy_basil_stir-fry.
+png Graphic file (type png)
+<use Recipe_Pictures/Aubergine,_green_bean,_tofu_and_Thai_holy_basil_stir-fry.p
+ng>
+Package pdftex.def Info: Recipe_Pictures/Aubergine,_green_bean,_tofu_and_Thai_h
+oly_basil_stir-fry.png  used on input line 4827.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4832--4836
+
+ []
+
+[266 <./Recipe_Pictures/Aubergine,_green_bean,_tofu_and_Thai_holy_basil_stir-fr
+y.png>] [267]
+<Recipe_Pictures/Buckwheat_dosa_with_coconut_chutney_and_greens.png, id=3118, 9
+33.4875pt x 933.4875pt>
+File: Recipe_Pictures/Buckwheat_dosa_with_coconut_chutney_and_greens.png Graphi
+c file (type png)
+<use Recipe_Pictures/Buckwheat_dosa_with_coconut_chutney_and_greens.png>
+Package pdftex.def Info: Recipe_Pictures/Buckwheat_dosa_with_coconut_chutney_an
+d_greens.png  used on input line 4867.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4873--4877
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [268 <./Recipe_Pictures/Buckwheat_dosa_with_coconut_chutney_and_greens.png>] [
+269]
+Overfull \hbox (16.71611pt too wide) in paragraph at lines 4905--4905
+|[]\OT1/cmr/bx/n/14.4 Thai-style tomato and cour-gette salad with peanut crumbs
+| 
+ []
+
+<Recipe_Pictures/Thai-style_tomato_and_courgette_salad_with_peanut_crumbs.png, 
+id=3135, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Thai-style_tomato_and_courgette_salad_with_peanut_crumbs.
+png Graphic file (type png)
+<use Recipe_Pictures/Thai-style_tomato_and_courgette_salad_with_peanut_crumbs.p
+ng>
+Package pdftex.def Info: Recipe_Pictures/Thai-style_tomato_and_courgette_salad_
+with_peanut_crumbs.png  used on input line 4907.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4911--4915
+
+ []
+
+[270 <./Recipe_Pictures/Thai-style_tomato_and_courgette_salad_with_peanut_crumb
+s.png>] [271]
+<Recipe_Pictures/Sunken_plum,_spelt_and_ginger_cake.png, id=3148, 933.4875pt x 
+692.5875pt>
+File: Recipe_Pictures/Sunken_plum,_spelt_and_ginger_cake.png Graphic file (type
+ png)
+<use Recipe_Pictures/Sunken_plum,_spelt_and_ginger_cake.png>
+Package pdftex.def Info: Recipe_Pictures/Sunken_plum,_spelt_and_ginger_cake.png
+  used on input line 4947.
+(pdftex.def)             Requested size: 284.52098pt x 211.0962pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4950--4954
+
+ []
+
+[272 <./Recipe_Pictures/Sunken_plum,_spelt_and_ginger_cake.png>] [273]
+<Recipe_Pictures/Clay_pot_noodles_with_beetroot,_walnut_and_smoked_tofu.png, id
+=3161, 933.4875pt x 959.585pt>
+File: Recipe_Pictures/Clay_pot_noodles_with_beetroot,_walnut_and_smoked_tofu.pn
+g Graphic file (type png)
+<use Recipe_Pictures/Clay_pot_noodles_with_beetroot,_walnut_and_smoked_tofu.png
+>
+Package pdftex.def Info: Recipe_Pictures/Clay_pot_noodles_with_beetroot,_walnut
+_and_smoked_tofu.png  used on input line 4976.
+(pdftex.def)             Requested size: 276.78656pt x 284.52469pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4979--4983
+
+ []
+
+[274 <./Recipe_Pictures/Clay_pot_noodles_with_beetroot,_walnut_and_smoked_tofu.
+png>] [275]
+<Recipe_Pictures/Tomato_farro_with_summer_greens_and_fresh_oregano.png, id=3177
+, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Tomato_farro_with_summer_greens_and_fresh_oregano.png Gra
+phic file (type png)
+<use Recipe_Pictures/Tomato_farro_with_summer_greens_and_fresh_oregano.png>
+Package pdftex.def Info: Recipe_Pictures/Tomato_farro_with_summer_greens_and_fr
+esh_oregano.png  used on input line 5011.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5014--5018
+
+ []
+
+[276 <./Recipe_Pictures/Tomato_farro_with_summer_greens_and_fresh_oregano.png>]
+[277]
+<Recipe_Pictures/Caramelised_fennel_and_carrot_salad_with_mung_beans_and_herbs.
+png, id=3190, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Caramelised_fennel_and_carrot_salad_with_mung_beans_and_h
+erbs.png Graphic file (type png)
+<use Recipe_Pictures/Caramelised_fennel_and_carrot_salad_with_mung_beans_and_he
+rbs.png>
+Package pdftex.def Info: Recipe_Pictures/Caramelised_fennel_and_carrot_salad_wi
+th_mung_beans_and_herbs.png  used on input line 5046.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5049--5053
+
+ []
+
+[278 <./Recipe_Pictures/Caramelised_fennel_and_carrot_salad_with_mung_beans_and
+_herbs.png>] [279]
+<Recipe_Pictures/Sri_Lankan_beetroot_curry_and_green_bean_mallum.png, id=3204, 
+933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Sri_Lankan_beetroot_curry_and_green_bean_mallum.png Graph
+ic file (type png)
+<use Recipe_Pictures/Sri_Lankan_beetroot_curry_and_green_bean_mallum.png>
+Package pdftex.def Info: Recipe_Pictures/Sri_Lankan_beetroot_curry_and_green_be
+an_mallum.png  used on input line 5087.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5092--5093
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5092--5093
+
+ []
+
+[280 <./Recipe_Pictures/Sri_Lankan_beetroot_curry_and_green_bean_mallum.png>]
+[281]
+<Recipe_Pictures/Maharastrian_tamarind_and_spinach_dal.png, id=3218, 933.4875pt
+ x 560.0925pt>
+File: Recipe_Pictures/Maharastrian_tamarind_and_spinach_dal.png Graphic file (t
+ype png)
+<use Recipe_Pictures/Maharastrian_tamarind_and_spinach_dal.png>
+Package pdftex.def Info: Recipe_Pictures/Maharastrian_tamarind_and_spinach_dal.
+png  used on input line 5135.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5142--5143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5142--5143
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [282 <./Recipe_Pictures/Maharastrian_tamarind_and_spinach_dal.png>] [283]
+
+LaTeX Warning: File `Recipe_Pictures/New_potato,_chard_and_coconut\IeC {\nobrea
+kspace }curry.png' not found on input line 5167.
+
+
+! Package pdftex.def Error: File `Recipe_Pictures/New_potato,_chard_and_coconut
+\unhbox\voidb@x \penalty \@M \ curry.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5167 ...ew_potato,_chard_and_coconut curry.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5174--5175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5174--5175
+
+ []
+
+[284] [285] [286
+
+]
+Chapter 8.
+<Recipe_Pictures/No-churn_cherry_and_marzipan_ice-cream.png, id=3247, 933.4875p
+t x 1096.095pt>
+File: Recipe_Pictures/No-churn_cherry_and_marzipan_ice-cream.png Graphic file (
+type png)
+<use Recipe_Pictures/No-churn_cherry_and_marzipan_ice-cream.png>
+Package pdftex.def Info: Recipe_Pictures/No-churn_cherry_and_marzipan_ice-cream
+.png  used on input line 5205.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+! Package inputenc Error: Unicode character ½ (U+BD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5211 \textbf{Makes}: About 1½
+                                 litres
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5208--5212
+
+ []
+
+[287] [288 <./Recipe_Pictures/No-churn_cherry_and_marzipan_ice-cream.png>]
+<Recipe_Pictures/Fennel_and_courgette_pistou_soup.png, id=3260, 933.4875pt x 10
+98.1025pt>
+File: Recipe_Pictures/Fennel_and_courgette_pistou_soup.png Graphic file (type p
+ng)
+<use Recipe_Pictures/Fennel_and_courgette_pistou_soup.png>
+Package pdftex.def Info: Recipe_Pictures/Fennel_and_courgette_pistou_soup.png  
+used on input line 5232.
+(pdftex.def)             Requested size: 241.87488pt x 284.52808pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5234--5238
+
+ []
+
+[289 <./Recipe_Pictures/Fennel_and_courgette_pistou_soup.png>] [290]
+<Recipe_Pictures/Sweetcorn,_chipotle_and_avocado_black_rice_salad.png, id=3275,
+ 933.4875pt x 1096.095pt>
+File: Recipe_Pictures/Sweetcorn,_chipotle_and_avocado_black_rice_salad.png Grap
+hic file (type png)
+<use Recipe_Pictures/Sweetcorn,_chipotle_and_avocado_black_rice_salad.png>
+Package pdftex.def Info: Recipe_Pictures/Sweetcorn,_chipotle_and_avocado_black_
+rice_salad.png  used on input line 5266.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5269--5273
+
+ []
+
+[291 <./Recipe_Pictures/Sweetcorn,_chipotle_and_avocado_black_rice_salad.png>]
+[292]
+<Recipe_Pictures/Onion_and_potato_bhaji_burgers.png, id=3290, 933.4875pt x 959.
+585pt>
+File: Recipe_Pictures/Onion_and_potato_bhaji_burgers.png Graphic file (type png
+)
+<use Recipe_Pictures/Onion_and_potato_bhaji_burgers.png>
+Package pdftex.def Info: Recipe_Pictures/Onion_and_potato_bhaji_burgers.png  us
+ed on input line 5301.
+(pdftex.def)             Requested size: 276.78656pt x 284.52469pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5304--5308
+
+ []
+
+[293 <./Recipe_Pictures/Onion_and_potato_bhaji_burgers.png>] [294]
+<Recipe_Pictures/Ugandan_rolex.png, id=3304, 933.4875pt x 1096.095pt>
+File: Recipe_Pictures/Ugandan_rolex.png Graphic file (type png)
+<use Recipe_Pictures/Ugandan_rolex.png>
+Package pdftex.def Info: Recipe_Pictures/Ugandan_rolex.png  used on input line 
+5344.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5347--5351
+
+ []
+
+[295 <./Recipe_Pictures/Ugandan_rolex.png>] [296]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.5377 ...ctures/Hugh’s_oven-baked_caponata.png}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: File `Recipe_Pictures/Hugh\IeC {\textquoteright }s_oven-baked_ca
+ponata.png' not found on input line 5377.
+
+
+! Package pdftex.def Error: File `Recipe_Pictures/Hugh\OT1\textquoteright s_ove
+n-baked_caponata.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5377 ...ctures/Hugh’s_oven-baked_caponata.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.5377 ...ctures/Hugh’s_oven-baked_caponata.png}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5380--5384
+
+ []
+
+[297] [298]
+<Recipe_Pictures/One-pot_tomato,_lemongrass_and_coconut_soba_noodles.png, id=33
+30, 933.4875pt x 1096.095pt>
+File: Recipe_Pictures/One-pot_tomato,_lemongrass_and_coconut_soba_noodles.png G
+raphic file (type png)
+<use Recipe_Pictures/One-pot_tomato,_lemongrass_and_coconut_soba_noodles.png>
+Package pdftex.def Info: Recipe_Pictures/One-pot_tomato,_lemongrass_and_coconut
+_soba_noodles.png  used on input line 5410.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5413--5417
+
+ []
+
+[299 <./Recipe_Pictures/One-pot_tomato,_lemongrass_and_coconut_soba_noodles.png
+>] [300]
+<Recipe_Pictures/Strawberry_and_peach_hand_pies.png, id=3343, 933.4875pt x 933.
+4875pt>
+File: Recipe_Pictures/Strawberry_and_peach_hand_pies.png Graphic file (type png
+)
+<use Recipe_Pictures/Strawberry_and_peach_hand_pies.png>
+Package pdftex.def Info: Recipe_Pictures/Strawberry_and_peach_hand_pies.png  us
+ed on input line 5442.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5445--5449
+
+ []
+
+[301 <./Recipe_Pictures/Strawberry_and_peach_hand_pies.png>] [302]
+<Recipe_Pictures/Aubergine_koftas_in_tomato_and_spinach_sauce.png, id=3357, 933
+.4875pt x 933.4875pt>
+File: Recipe_Pictures/Aubergine_koftas_in_tomato_and_spinach_sauce.png Graphic 
+file (type png)
+<use Recipe_Pictures/Aubergine_koftas_in_tomato_and_spinach_sauce.png>
+Package pdftex.def Info: Recipe_Pictures/Aubergine_koftas_in_tomato_and_spinach
+_sauce.png  used on input line 5484.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5487--5491
+
+ []
+
+[303 <./Recipe_Pictures/Aubergine_koftas_in_tomato_and_spinach_sauce.png>]
+[304]
+<Recipe_Pictures/Mushroom_XO_sauce_with_noodles.png, id=3371, 933.4875pt x 794.
+97pt>
+File: Recipe_Pictures/Mushroom_XO_sauce_with_noodles.png Graphic file (type png
+)
+<use Recipe_Pictures/Mushroom_XO_sauce_with_noodles.png>
+Package pdftex.def Info: Recipe_Pictures/Mushroom_XO_sauce_with_noodles.png  us
+ed on input line 5521.
+(pdftex.def)             Requested size: 284.52098pt x 242.30174pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5525--5529
+
+ []
+
+[305 <./Recipe_Pictures/Mushroom_XO_sauce_with_noodles.png>] [306]
+<Recipe_Pictures/Barbecue_beans_and_corn_fritters.png, id=3387, 933.4875pt x 96
+5.6075pt>
+File: Recipe_Pictures/Barbecue_beans_and_corn_fritters.png Graphic file (type p
+ng)
+<use Recipe_Pictures/Barbecue_beans_and_corn_fritters.png>
+Package pdftex.def Info: Recipe_Pictures/Barbecue_beans_and_corn_fritters.png  
+used on input line 5557.
+(pdftex.def)             Requested size: 275.06306pt x 284.5276pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5562--5566
+
+ []
+
+[307 <./Recipe_Pictures/Barbecue_beans_and_corn_fritters.png>] [308] [309]
+<Recipe_Pictures/Simple_courgette_and_chickpea_dal.png, id=3407, 933.4875pt x 9
+33.4875pt>
+File: Recipe_Pictures/Simple_courgette_and_chickpea_dal.png Graphic file (type 
+png)
+<use Recipe_Pictures/Simple_courgette_and_chickpea_dal.png>
+Package pdftex.def Info: Recipe_Pictures/Simple_courgette_and_chickpea_dal.png 
+ used on input line 5607.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5610--5614
+
+ []
+
+[310 <./Recipe_Pictures/Simple_courgette_and_chickpea_dal.png>] [311]
+<Recipe_Pictures/Lebanese_green_beans_and_vermicelli_rice.png, id=3423, 933.487
+5pt x 933.4875pt>
+File: Recipe_Pictures/Lebanese_green_beans_and_vermicelli_rice.png Graphic file
+ (type png)
+<use Recipe_Pictures/Lebanese_green_beans_and_vermicelli_rice.png>
+Package pdftex.def Info: Recipe_Pictures/Lebanese_green_beans_and_vermicelli_ri
+ce.png  used on input line 5649.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5655--5659
+
+ []
+
+[312 <./Recipe_Pictures/Lebanese_green_beans_and_vermicelli_rice.png>] [313]
+<Recipe_Pictures/Chipotle_tomatoes_with_butter_beans_and_quinoa.png, id=3437, 9
+33.4875pt x 933.4875pt>
+File: Recipe_Pictures/Chipotle_tomatoes_with_butter_beans_and_quinoa.png Graphi
+c file (type png)
+<use Recipe_Pictures/Chipotle_tomatoes_with_butter_beans_and_quinoa.png>
+Package pdftex.def Info: Recipe_Pictures/Chipotle_tomatoes_with_butter_beans_an
+d_quinoa.png  used on input line 5695.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5700--5704
+
+ []
+
+[314 <./Recipe_Pictures/Chipotle_tomatoes_with_butter_beans_and_quinoa.png>]
+[315]
+<Recipe_Pictures/Burmese_mango,_peanut_and_lime_salad_(Tayat_thi_toke).png, id=
+3451, 933.4875pt x 664.4825pt>
+File: Recipe_Pictures/Burmese_mango,_peanut_and_lime_salad_(Tayat_thi_toke).png
+ Graphic file (type png)
+<use Recipe_Pictures/Burmese_mango,_peanut_and_lime_salad_(Tayat_thi_toke).png>
+
+Package pdftex.def Info: Recipe_Pictures/Burmese_mango,_peanut_and_lime_salad_(
+Tayat_thi_toke).png  used on input line 5731.
+(pdftex.def)             Requested size: 284.52098pt x 202.52998pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5734--5738
+
+ []
+
+[316 <./Recipe_Pictures/Burmese_mango,_peanut_and_lime_salad_(Tayat_thi_toke).p
+ng>] [317]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.5769 ...ctures/Mum’s_failsafe_ratatouille.png}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: File `Recipe_Pictures/Mum\IeC {\textquoteright }s_failsafe_ratat
+ouille.png' not found on input line 5769.
+
+
+! Package pdftex.def Error: File `Recipe_Pictures/Mum\OT1\textquoteright s_fail
+safe_ratatouille.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5769 ...ctures/Mum’s_failsafe_ratatouille.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.5769 ...ctures/Mum’s_failsafe_ratatouille.png}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5772--5776
+
+ []
+
+[318] [319]
+<Recipe_Pictures/Piccalilli_spiced_rice.png, id=3478, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Piccalilli_spiced_rice.png Graphic file (type png)
+<use Recipe_Pictures/Piccalilli_spiced_rice.png>
+Package pdftex.def Info: Recipe_Pictures/Piccalilli_spiced_rice.png  used on in
+put line 5812.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5815--5819
+
+ []
+
+[320 <./Recipe_Pictures/Piccalilli_spiced_rice.png>] [321]
+Overfull \hbox (3.22287pt too wide) in paragraph at lines 5839--5839
+|[]\OT1/cmr/bx/n/14.4 Forbidden rice salad with blis-tered Ten-der-stem and mis
+o
+ []
+
+<Recipe_Pictures/Forbidden_rice_salad_with_blistered_Tenderstem_and_miso_dressi
+ng.png, id=3491, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Forbidden_rice_salad_with_blistered_Tenderstem_and_miso_d
+ressing.png Graphic file (type png)
+<use Recipe_Pictures/Forbidden_rice_salad_with_blistered_Tenderstem_and_miso_dr
+essing.png>
+Package pdftex.def Info: Recipe_Pictures/Forbidden_rice_salad_with_blistered_Te
+nderstem_and_miso_dressing.png  used on input line 5841.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5844--5848
+
+ []
+
+[322 <./Recipe_Pictures/Forbidden_rice_salad_with_blistered_Tenderstem_and_miso
+_dressing.png>]
+Overfull \hbox (6.7655pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 8.18.  FORBIDDEN RICE SALAD WITH BLISTERED TENDERSTEM AND MISO
+ DRESSING \OT1/cmr/m/n/10 323
+ []
+
+[323]
+<Recipe_Pictures/Sweet_potato_momos.png, id=3505, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Sweet_potato_momos.png Graphic file (type png)
+<use Recipe_Pictures/Sweet_potato_momos.png>
+Package pdftex.def Info: Recipe_Pictures/Sweet_potato_momos.png  used on input 
+line 5883.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5888--5889
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5888--5889
+
+ []
+
+[324 <./Recipe_Pictures/Sweet_potato_momos.png>] [325]
+<Recipe_Pictures/Tomato_curry.png, id=3518, 933.4875pt x 794.97pt>
+File: Recipe_Pictures/Tomato_curry.png Graphic file (type png)
+<use Recipe_Pictures/Tomato_curry.png>
+Package pdftex.def Info: Recipe_Pictures/Tomato_curry.png  used on input line 5
+922.
+(pdftex.def)             Requested size: 284.52098pt x 242.30174pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5927--5928
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5927--5928
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [326 <./Recipe_Pictures/Tomato_curry.png>] [327]
+<Recipe_Pictures/Chargrilled_summer_vegetables_with_dhana-jeera_dressing.png, i
+d=3533, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Chargrilled_summer_vegetables_with_dhana-jeera_dressing.p
+ng Graphic file (type png)
+<use Recipe_Pictures/Chargrilled_summer_vegetables_with_dhana-jeera_dressing.pn
+g>
+Package pdftex.def Info: Recipe_Pictures/Chargrilled_summer_vegetables_with_dha
+na-jeera_dressing.png  used on input line 5957.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5963--5964
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5963--5964
+
+ []
+
+[328 <./Recipe_Pictures/Chargrilled_summer_vegetables_with_dhana-jeera_dressing
+.png>] [329]
+<Recipe_Pictures/Samphire,_potato_and_chickpea_chaat.png, id=3549, 933.4875pt x
+ 560.0925pt>
+File: Recipe_Pictures/Samphire,_potato_and_chickpea_chaat.png Graphic file (typ
+e png)
+<use Recipe_Pictures/Samphire,_potato_and_chickpea_chaat.png>
+Package pdftex.def Info: Recipe_Pictures/Samphire,_potato_and_chickpea_chaat.pn
+g  used on input line 5991.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5998--5999
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5998--5999
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [330 <./Recipe_Pictures/Samphire,_potato_and_chickpea_chaat.png>] [331] [332
+
+]
+Chapter 9.
+<Recipe_Pictures/Black_rice_congee.png, id=3567, 933.4875pt x 1063.975pt>
+File: Recipe_Pictures/Black_rice_congee.png Graphic file (type png)
+<use Recipe_Pictures/Black_rice_congee.png>
+Package pdftex.def Info: Recipe_Pictures/Black_rice_congee.png  used on input l
+ine 6032.
+(pdftex.def)             Requested size: 249.62354pt x 284.51715pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6034--6038
+
+ []
+
+[333] [334 <./Recipe_Pictures/Black_rice_congee.png>]
+<Recipe_Pictures/Braised_squash_and_borlotti_beans_with_tomatoes_and_sage.png, 
+id=3580, 933.4875pt x 1098.1025pt>
+File: Recipe_Pictures/Braised_squash_and_borlotti_beans_with_tomatoes_and_sage.
+png Graphic file (type png)
+<use Recipe_Pictures/Braised_squash_and_borlotti_beans_with_tomatoes_and_sage.p
+ng>
+Package pdftex.def Info: Recipe_Pictures/Braised_squash_and_borlotti_beans_with
+_tomatoes_and_sage.png  used on input line 6068.
+(pdftex.def)             Requested size: 241.87488pt x 284.52808pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6071--6075
+
+ []
+
+[335 <./Recipe_Pictures/Braised_squash_and_borlotti_beans_with_tomatoes_and_sag
+e.png>] [336]
+<Recipe_Pictures/Tahini_banana_bread.png, id=3593, 933.4875pt x 1096.095pt>
+File: Recipe_Pictures/Tahini_banana_bread.png Graphic file (type png)
+<use Recipe_Pictures/Tahini_banana_bread.png>
+Package pdftex.def Info: Recipe_Pictures/Tahini_banana_bread.png  used on input
+ line 6097.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6100--6104
+
+ []
+
+[337 <./Recipe_Pictures/Tahini_banana_bread.png>] [338]
+<Recipe_Pictures/Satay_sauce_roast_aubergine.png, id=3607, 933.4875pt x 1096.09
+5pt>
+File: Recipe_Pictures/Satay_sauce_roast_aubergine.png Graphic file (type png)
+<use Recipe_Pictures/Satay_sauce_roast_aubergine.png>
+Package pdftex.def Info: Recipe_Pictures/Satay_sauce_roast_aubergine.png  used 
+on input line 6133.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6135--6139
+
+ []
+
+[339 <./Recipe_Pictures/Satay_sauce_roast_aubergine.png>] [340]
+<Recipe_Pictures/Toasted_hazelnut_baci.png, id=3622, 933.4875pt x 991.705pt>
+File: Recipe_Pictures/Toasted_hazelnut_baci.png Graphic file (type png)
+<use Recipe_Pictures/Toasted_hazelnut_baci.png>
+Package pdftex.def Info: Recipe_Pictures/Toasted_hazelnut_baci.png  used on inp
+ut line 6175.
+(pdftex.def)             Requested size: 267.82718pt x 284.53038pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6178--6182
+
+ []
+
+[341 <./Recipe_Pictures/Toasted_hazelnut_baci.png>] [342]
+<Recipe_Pictures/Slow-cooked_marrow_and_tomato_borani.png, id=3636, 933.4875pt 
+x 1029.8475pt>
+File: Recipe_Pictures/Slow-cooked_marrow_and_tomato_borani.png Graphic file (ty
+pe png)
+<use Recipe_Pictures/Slow-cooked_marrow_and_tomato_borani.png>
+Package pdftex.def Info: Recipe_Pictures/Slow-cooked_marrow_and_tomato_borani.p
+ng  used on input line 6205.
+(pdftex.def)             Requested size: 257.89922pt x 284.52107pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6208--6212
+
+ []
+
+[343 <./Recipe_Pictures/Slow-cooked_marrow_and_tomato_borani.png>] [344]
+<Recipe_Pictures/Shaoxing_and_soy_braised_tofu_with_pak_choi.png, id=3652, 933.
+4875pt x 1013.7875pt>
+File: Recipe_Pictures/Shaoxing_and_soy_braised_tofu_with_pak_choi.png Graphic f
+ile (type png)
+<use Recipe_Pictures/Shaoxing_and_soy_braised_tofu_with_pak_choi.png>
+Package pdftex.def Info: Recipe_Pictures/Shaoxing_and_soy_braised_tofu_with_pak
+_choi.png  used on input line 6239.
+(pdftex.def)             Requested size: 261.9872pt x 284.52374pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6242--6246
+
+ []
+
+[345 <./Recipe_Pictures/Shaoxing_and_soy_braised_tofu_with_pak_choi.png>]
+[346]
+<Recipe_Pictures/Chilli_cornbread_with_Tenderstem_broccoli.png, id=3665, 933.48
+75pt x 1096.095pt>
+File: Recipe_Pictures/Chilli_cornbread_with_Tenderstem_broccoli.png Graphic fil
+e (type png)
+<use Recipe_Pictures/Chilli_cornbread_with_Tenderstem_broccoli.png>
+Package pdftex.def Info: Recipe_Pictures/Chilli_cornbread_with_Tenderstem_brocc
+oli.png  used on input line 6275.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6278--6282
+
+ []
+
+[347 <./Recipe_Pictures/Chilli_cornbread_with_Tenderstem_broccoli.png>]
+[348]
+<Recipe_Pictures/Celeriac_risotto_with_sage,_caper_and_lemon_oil.png, id=3681, 
+933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Celeriac_risotto_with_sage,_caper_and_lemon_oil.png Graph
+ic file (type png)
+<use Recipe_Pictures/Celeriac_risotto_with_sage,_caper_and_lemon_oil.png>
+Package pdftex.def Info: Recipe_Pictures/Celeriac_risotto_with_sage,_caper_and_
+lemon_oil.png  used on input line 6312.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6316--6320
+
+ []
+
+[349 <./Recipe_Pictures/Celeriac_risotto_with_sage,_caper_and_lemon_oil.png>]
+[350]
+<Recipe_Pictures/Wild_mushroom_miso_broth.png, id=3695, 933.4875pt x 933.4875pt
+>
+File: Recipe_Pictures/Wild_mushroom_miso_broth.png Graphic file (type png)
+<use Recipe_Pictures/Wild_mushroom_miso_broth.png>
+Package pdftex.def Info: Recipe_Pictures/Wild_mushroom_miso_broth.png  used on 
+input line 6352.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6355--6359
+
+ []
+
+[351 <./Recipe_Pictures/Wild_mushroom_miso_broth.png>] [352]
+<Recipe_Pictures/Pistachio_and_cherry_croissants.png, id=3708, 933.4875pt x 110
+0.11pt>
+File: Recipe_Pictures/Pistachio_and_cherry_croissants.png Graphic file (type pn
+g)
+<use Recipe_Pictures/Pistachio_and_cherry_croissants.png>
+Package pdftex.def Info: Recipe_Pictures/Pistachio_and_cherry_croissants.png  u
+sed on input line 6382.
+(pdftex.def)             Requested size: 241.43332pt x 284.52788pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6384--6385
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6384--6385
+
+ []
+
+[353 <./Recipe_Pictures/Pistachio_and_cherry_croissants.png>] [354]
+<Recipe_Pictures/Roast_fennel,_sun-dried_tomato_and_spelt_salad.png, id=3725, 9
+33.4875pt x 933.4875pt>
+File: Recipe_Pictures/Roast_fennel,_sun-dried_tomato_and_spelt_salad.png Graphi
+c file (type png)
+<use Recipe_Pictures/Roast_fennel,_sun-dried_tomato_and_spelt_salad.png>
+Package pdftex.def Info: Recipe_Pictures/Roast_fennel,_sun-dried_tomato_and_spe
+lt_salad.png  used on input line 6421.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6425--6429
+
+ []
+
+[355 <./Recipe_Pictures/Roast_fennel,_sun-dried_tomato_and_spelt_salad.png>]
+[356]
+<Recipe_Pictures/Ribollita_with_celeriac_and_kale.png, id=3740, 933.4875pt x 93
+3.4875pt>
+File: Recipe_Pictures/Ribollita_with_celeriac_and_kale.png Graphic file (type p
+ng)
+<use Recipe_Pictures/Ribollita_with_celeriac_and_kale.png>
+Package pdftex.def Info: Recipe_Pictures/Ribollita_with_celeriac_and_kale.png  
+used on input line 6462.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6464--6468
+
+ []
+
+[357 <./Recipe_Pictures/Ribollita_with_celeriac_and_kale.png>] [358]
+<Recipe_Pictures/Squash_and_courgette_salad_with_pitta,_pomegranate_and_tahini.
+png, id=3753, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Squash_and_courgette_salad_with_pitta,_pomegranate_and_ta
+hini.png Graphic file (type png)
+<use Recipe_Pictures/Squash_and_courgette_salad_with_pitta,_pomegranate_and_tah
+ini.png>
+Package pdftex.def Info: Recipe_Pictures/Squash_and_courgette_salad_with_pitta,
+_pomegranate_and_tahini.png  used on input line 6494.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6496--6500
+
+ []
+
+[359 <./Recipe_Pictures/Squash_and_courgette_salad_with_pitta,_pomegranate_and_
+tahini.png>] [360]
+<Recipe_Pictures/Leeks,_saffron_and_haricot_beans.png, id=3771, 933.4875pt x 93
+3.4875pt>
+File: Recipe_Pictures/Leeks,_saffron_and_haricot_beans.png Graphic file (type p
+ng)
+<use Recipe_Pictures/Leeks,_saffron_and_haricot_beans.png>
+Package pdftex.def Info: Recipe_Pictures/Leeks,_saffron_and_haricot_beans.png  
+used on input line 6532.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6534--6538
+
+ []
+
+[361 <./Recipe_Pictures/Leeks,_saffron_and_haricot_beans.png>] [362]
+Overfull \hbox (4.45947pt too wide) in paragraph at lines 6573--6573
+|[]\OT1/cmr/bx/n/14.4 Gorditas with drunken beans, pick-les and av-o-cado cream
+| 
+ []
+
+<Recipe_Pictures/Gorditas_with_drunken_beans,_pickles_and_avocado_cream.png, id
+=3785, 933.4875pt x 794.97pt>
+File: Recipe_Pictures/Gorditas_with_drunken_beans,_pickles_and_avocado_cream.pn
+g Graphic file (type png)
+<use Recipe_Pictures/Gorditas_with_drunken_beans,_pickles_and_avocado_cream.png
+>
+Package pdftex.def Info: Recipe_Pictures/Gorditas_with_drunken_beans,_pickles_a
+nd_avocado_cream.png  used on input line 6575.
+(pdftex.def)             Requested size: 284.52098pt x 242.30174pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6578--6582
+
+ []
+
+[363 <./Recipe_Pictures/Gorditas_with_drunken_beans,_pickles_and_avocado_cream.
+png>] [364] [365]
+<Recipe_Pictures/Aubergine_pollichattu.png, id=3804, 933.4875pt x 668.4975pt>
+File: Recipe_Pictures/Aubergine_pollichattu.png Graphic file (type png)
+<use Recipe_Pictures/Aubergine_pollichattu.png>
+Package pdftex.def Info: Recipe_Pictures/Aubergine_pollichattu.png  used on inp
+ut line 6633.
+(pdftex.def)             Requested size: 284.52098pt x 203.75372pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6636--6640
+
+ []
+
+[366 <./Recipe_Pictures/Aubergine_pollichattu.png>] [367]
+<Recipe_Pictures/Mouth-numbing_noodles_with_chilli_oil_and_red_cabbage.png, id=
+3818, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Mouth-numbing_noodles_with_chilli_oil_and_red_cabbage.png
+ Graphic file (type png)
+<use Recipe_Pictures/Mouth-numbing_noodles_with_chilli_oil_and_red_cabbage.png>
+
+Package pdftex.def Info: Recipe_Pictures/Mouth-numbing_noodles_with_chilli_oil_
+and_red_cabbage.png  used on input line 6668.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6674--6675
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6674--6675
+
+ []
+
+[368 <./Recipe_Pictures/Mouth-numbing_noodles_with_chilli_oil_and_red_cabbage.p
+ng>] [369]
+<Recipe_Pictures/Bunny_chow.png, id=3833, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Bunny_chow.png Graphic file (type png)
+<use Recipe_Pictures/Bunny_chow.png>
+Package pdftex.def Info: Recipe_Pictures/Bunny_chow.png  used on input line 671
+5.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6721--6722
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6721--6722
+
+ []
+
+[370 <./Recipe_Pictures/Bunny_chow.png>] [371]
+
+LaTeX Warning: File `Recipe_Pictures/Courgette_and_mint_g\IeC {\"o}zleme.png' n
+ot found on input line 6754.
+
+
+! Package pdftex.def Error: File `Recipe_Pictures/Courgette_and_mint_g\unhbox \
+voidb@x \bgroup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {o\global \mathc
+hardef \accent@spacefactor \spacefactor }\accent 127 o\egroup \spacefactor \acc
+ent@spacefactor zleme.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6754 ...ictures/Courgette_and_mint_gözleme.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6759--6760
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6759--6760
+
+ []
+
+[372] [373]
+<Recipe_Pictures/Coconut_rice_with_aubergines_and_pickled_cucumber_.png, id=386
+1, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Coconut_rice_with_aubergines_and_pickled_cucumber_.png Gr
+aphic file (type png)
+<use Recipe_Pictures/Coconut_rice_with_aubergines_and_pickled_cucumber_.png>
+Package pdftex.def Info: Recipe_Pictures/Coconut_rice_with_aubergines_and_pickl
+ed_cucumber_.png  used on input line 6790.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6796--6797
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6796--6797
+
+ []
+
+[374 <./Recipe_Pictures/Coconut_rice_with_aubergines_and_pickled_cucumber_.png>
+] [375] [376
+
+]
+Chapter 10.
+<Recipe_Pictures/Soy-pickled_pumpkin_maze_gohan.png, id=3879, 933.4875pt x 933.
+4875pt>
+File: Recipe_Pictures/Soy-pickled_pumpkin_maze_gohan.png Graphic file (type png
+)
+<use Recipe_Pictures/Soy-pickled_pumpkin_maze_gohan.png>
+Package pdftex.def Info: Recipe_Pictures/Soy-pickled_pumpkin_maze_gohan.png  us
+ed on input line 6840.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6843--6847
+
+ []
+
+[377] [378 <./Recipe_Pictures/Soy-pickled_pumpkin_maze_gohan.png>]
+<Recipe_Pictures/Chocolate_scones_with_quick_fig_jam.png, id=3895, 933.4875pt x
+ 933.4875pt>
+File: Recipe_Pictures/Chocolate_scones_with_quick_fig_jam.png Graphic file (typ
+e png)
+<use Recipe_Pictures/Chocolate_scones_with_quick_fig_jam.png>
+Package pdftex.def Info: Recipe_Pictures/Chocolate_scones_with_quick_fig_jam.pn
+g  used on input line 6874.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6877--6881
+
+ []
+
+[379 <./Recipe_Pictures/Chocolate_scones_with_quick_fig_jam.png>] [380]
+<Recipe_Pictures/Cavolo_nero_with_spelt_and_walnuts.png, id=3910, 933.4875pt x 
+1096.095pt>
+File: Recipe_Pictures/Cavolo_nero_with_spelt_and_walnuts.png Graphic file (type
+ png)
+<use Recipe_Pictures/Cavolo_nero_with_spelt_and_walnuts.png>
+Package pdftex.def Info: Recipe_Pictures/Cavolo_nero_with_spelt_and_walnuts.png
+  used on input line 6914.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6917--6921
+
+ []
+
+[381 <./Recipe_Pictures/Cavolo_nero_with_spelt_and_walnuts.png>] [382]
+<Recipe_Pictures/Celeriac,_leek_and_miso_dumplings.png, id=3924, 933.4875pt x 1
+168.365pt>
+File: Recipe_Pictures/Celeriac,_leek_and_miso_dumplings.png Graphic file (type 
+png)
+<use Recipe_Pictures/Celeriac,_leek_and_miso_dumplings.png>
+Package pdftex.def Info: Recipe_Pictures/Celeriac,_leek_and_miso_dumplings.png 
+ used on input line 6948.
+(pdftex.def)             Requested size: 227.33191pt x 284.53154pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6951--6955
+
+ []
+
+[383 <./Recipe_Pictures/Celeriac,_leek_and_miso_dumplings.png>] [384]
+<Recipe_Pictures/Mushroom_and_tempeh_rendang.png, id=3939, 933.4875pt x 1088.06
+5pt>
+File: Recipe_Pictures/Mushroom_and_tempeh_rendang.png Graphic file (type png)
+<use Recipe_Pictures/Mushroom_and_tempeh_rendang.png>
+Package pdftex.def Info: Recipe_Pictures/Mushroom_and_tempeh_rendang.png  used 
+on input line 6988.
+(pdftex.def)             Requested size: 244.11116pt x 284.53387pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6990--6994
+
+ []
+
+[385 <./Recipe_Pictures/Mushroom_and_tempeh_rendang.png>] [386]
+<Recipe_Pictures/Hot-and-sour_noodles_with_pak_choi.png, id=3953, 933.4875pt x 
+919.435pt>
+File: Recipe_Pictures/Hot-and-sour_noodles_with_pak_choi.png Graphic file (type
+ png)
+<use Recipe_Pictures/Hot-and-sour_noodles_with_pak_choi.png>
+Package pdftex.def Info: Recipe_Pictures/Hot-and-sour_noodles_with_pak_choi.png
+  used on input line 7023.
+(pdftex.def)             Requested size: 284.52098pt x 280.23787pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7026--7030
+
+ []
+
+[387 <./Recipe_Pictures/Hot-and-sour_noodles_with_pak_choi.png>] [388]
+<Recipe_Pictures/Banana_pancakes_with_maple_and_tahini_yoghurt.png, id=3969, 93
+3.4875pt x 1096.095pt>
+File: Recipe_Pictures/Banana_pancakes_with_maple_and_tahini_yoghurt.png Graphic
+ file (type png)
+<use Recipe_Pictures/Banana_pancakes_with_maple_and_tahini_yoghurt.png>
+Package pdftex.def Info: Recipe_Pictures/Banana_pancakes_with_maple_and_tahini_
+yoghurt.png  used on input line 7064.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7066--7070
+
+ []
+
+[389 <./Recipe_Pictures/Banana_pancakes_with_maple_and_tahini_yoghurt.png>]
+[390]
+<Recipe_Pictures/Leek,_white_cabbage_and_spinach_pie.png, id=3985, 933.4875pt x
+ 1027.84pt>
+File: Recipe_Pictures/Leek,_white_cabbage_and_spinach_pie.png Graphic file (typ
+e png)
+<use Recipe_Pictures/Leek,_white_cabbage_and_spinach_pie.png>
+Package pdftex.def Info: Recipe_Pictures/Leek,_white_cabbage_and_spinach_pie.pn
+g  used on input line 7103.
+(pdftex.def)             Requested size: 258.412pt x 284.53105pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7106--7110
+
+ []
+
+[391 <./Recipe_Pictures/Leek,_white_cabbage_and_spinach_pie.png>] [392]
+<Recipe_Pictures/Baked_carrot_falafel_with_pickled_onions.png, id=3999, 933.487
+5pt x 933.4875pt>
+File: Recipe_Pictures/Baked_carrot_falafel_with_pickled_onions.png Graphic file
+ (type png)
+<use Recipe_Pictures/Baked_carrot_falafel_with_pickled_onions.png>
+Package pdftex.def Info: Recipe_Pictures/Baked_carrot_falafel_with_pickled_onio
+ns.png  used on input line 7142.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7145--7150
+
+ []
+
+[393 <./Recipe_Pictures/Baked_carrot_falafel_with_pickled_onions.png>] [394]
+<Recipe_Pictures/Oven-baked_veggie_chilli_with_butternut_squash.png, id=4016, 9
+33.4875pt x 1047.915pt>
+File: Recipe_Pictures/Oven-baked_veggie_chilli_with_butternut_squash.png Graphi
+c file (type png)
+<use Recipe_Pictures/Oven-baked_veggie_chilli_with_butternut_squash.png>
+Package pdftex.def Info: Recipe_Pictures/Oven-baked_veggie_chilli_with_butternu
+t_squash.png  used on input line 7194.
+(pdftex.def)             Requested size: 253.45514pt x 284.52382pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7197--7201
+
+ []
+
+[395 <./Recipe_Pictures/Oven-baked_veggie_chilli_with_butternut_squash.png>]
+[396]
+<Recipe_Pictures/Coconut_yoghurt_flatbreads_with_garlic_pepper_mushrooms.png, i
+d=4029, 933.4875pt x 794.97pt>
+File: Recipe_Pictures/Coconut_yoghurt_flatbreads_with_garlic_pepper_mushrooms.p
+ng Graphic file (type png)
+<use Recipe_Pictures/Coconut_yoghurt_flatbreads_with_garlic_pepper_mushrooms.pn
+g>
+Package pdftex.def Info: Recipe_Pictures/Coconut_yoghurt_flatbreads_with_garlic
+_pepper_mushrooms.png  used on input line 7236.
+(pdftex.def)             Requested size: 284.52098pt x 242.30174pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7238--7242
+
+ []
+
+[397 <./Recipe_Pictures/Coconut_yoghurt_flatbreads_with_garlic_pepper_mushrooms
+.png>] [398]
+<Recipe_Pictures/Gujarati_tomato_and_sev_curry.png, id=4043, 933.4875pt x 933.4
+875pt>
+File: Recipe_Pictures/Gujarati_tomato_and_sev_curry.png Graphic file (type png)
+
+<use Recipe_Pictures/Gujarati_tomato_and_sev_curry.png>
+Package pdftex.def Info: Recipe_Pictures/Gujarati_tomato_and_sev_curry.png  use
+d on input line 7268.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7275--7279
+
+ []
+
+[399 <./Recipe_Pictures/Gujarati_tomato_and_sev_curry.png>] [400]
+<Recipe_Pictures/Blondies_with_peanut_butter,_jam_and_chocolate.png, id=4054, 9
+33.4875pt x 933.4875pt>
+File: Recipe_Pictures/Blondies_with_peanut_butter,_jam_and_chocolate.png Graphi
+c file (type png)
+<use Recipe_Pictures/Blondies_with_peanut_butter,_jam_and_chocolate.png>
+Package pdftex.def Info: Recipe_Pictures/Blondies_with_peanut_butter,_jam_and_c
+hocolate.png  used on input line 7305.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7307--7311
+
+ []
+
+[401 <./Recipe_Pictures/Blondies_with_peanut_butter,_jam_and_chocolate.png>]
+[402]
+<Recipe_Pictures/Tenderstem_broccoli,_tofu_and_kimchi_stew.png, id=4068, 933.48
+75pt x 933.4875pt>
+File: Recipe_Pictures/Tenderstem_broccoli,_tofu_and_kimchi_stew.png Graphic fil
+e (type png)
+<use Recipe_Pictures/Tenderstem_broccoli,_tofu_and_kimchi_stew.png>
+Package pdftex.def Info: Recipe_Pictures/Tenderstem_broccoli,_tofu_and_kimchi_s
+tew.png  used on input line 7336.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7338--7339
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7338--7339
+
+ []
+
+[403 <./Recipe_Pictures/Tenderstem_broccoli,_tofu_and_kimchi_stew.png>]
+[404]
+<Recipe_Pictures/Mushroom_mapo_tofu.png, id=4081, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Mushroom_mapo_tofu.png Graphic file (type png)
+<use Recipe_Pictures/Mushroom_mapo_tofu.png>
+Package pdftex.def Info: Recipe_Pictures/Mushroom_mapo_tofu.png  used on input 
+line 7373.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7376--7380
+
+ []
+
+[405 <./Recipe_Pictures/Mushroom_mapo_tofu.png>] [406]
+<Recipe_Pictures/Courgette,_cashew_and_coconut_subji.png, id=4093, 933.4875pt x
+ 794.97pt>
+File: Recipe_Pictures/Courgette,_cashew_and_coconut_subji.png Graphic file (typ
+e png)
+<use Recipe_Pictures/Courgette,_cashew_and_coconut_subji.png>
+Package pdftex.def Info: Recipe_Pictures/Courgette,_cashew_and_coconut_subji.pn
+g  used on input line 7407.
+(pdftex.def)             Requested size: 284.52098pt x 242.30174pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7410--7414
+
+ []
+
+[407 <./Recipe_Pictures/Courgette,_cashew_and_coconut_subji.png>] [408]
+<Recipe_Pictures/Chocolate_and_date_mousse_with_rosewater_blackberries.png, id=
+4107, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Chocolate_and_date_mousse_with_rosewater_blackberries.png
+ Graphic file (type png)
+<use Recipe_Pictures/Chocolate_and_date_mousse_with_rosewater_blackberries.png>
+
+Package pdftex.def Info: Recipe_Pictures/Chocolate_and_date_mousse_with_rosewat
+er_blackberries.png  used on input line 7447.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7450--7455
+
+ []
+
+[409 <./Recipe_Pictures/Chocolate_and_date_mousse_with_rosewater_blackberries.p
+ng>] [410]
+Overfull \hbox (22.60936pt too wide) in paragraph at lines 7484--7484
+|[]\OT1/cmr/bx/n/14.4 Cauliflower ko-rma with black-ened raisins (pic-tured abo
+ve)| 
+ []
+
+<Recipe_Pictures/Cauliflower_korma_with_blackened_raisins_(pictured_above).png,
+ id=4121, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Cauliflower_korma_with_blackened_raisins_(pictured_above)
+.png Graphic file (type png)
+<use Recipe_Pictures/Cauliflower_korma_with_blackened_raisins_(pictured_above).
+png>
+Package pdftex.def Info: Recipe_Pictures/Cauliflower_korma_with_blackened_raisi
+ns_(pictured_above).png  used on input line 7486.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7489--7493
+
+ []
+
+[411 <./Recipe_Pictures/Cauliflower_korma_with_blackened_raisins_(pictured_abov
+e).png>] [412]
+<Recipe_Pictures/Autumn_pilau_with_squash,_cavolo_nero_and_smoked_garlic_.png, 
+id=4137, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Autumn_pilau_with_squash,_cavolo_nero_and_smoked_garlic_.
+png Graphic file (type png)
+<use Recipe_Pictures/Autumn_pilau_with_squash,_cavolo_nero_and_smoked_garlic_.p
+ng>
+Package pdftex.def Info: Recipe_Pictures/Autumn_pilau_with_squash,_cavolo_nero_
+and_smoked_garlic_.png  used on input line 7525.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7533--7534
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7533--7534
+
+ []
+
+[413 <./Recipe_Pictures/Autumn_pilau_with_squash,_cavolo_nero_and_smoked_garlic
+_.png>] [414]
+<Recipe_Pictures/Chilli_tofu.png, id=4152, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Chilli_tofu.png Graphic file (type png)
+<use Recipe_Pictures/Chilli_tofu.png>
+Package pdftex.def Info: Recipe_Pictures/Chilli_tofu.png  used on input line 75
+63.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7569--7570
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7569--7570
+
+ []
+
+[415 <./Recipe_Pictures/Chilli_tofu.png>] [416]
+<Recipe_Pictures/Mushroom_bao.png, id=4166, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Mushroom_bao.png Graphic file (type png)
+<use Recipe_Pictures/Mushroom_bao.png>
+Package pdftex.def Info: Recipe_Pictures/Mushroom_bao.png  used on input line 7
+600.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7605--7606
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7605--7606
+
+ []
+
+[417 <./Recipe_Pictures/Mushroom_bao.png>] [418]
+<Recipe_Pictures/Aubergine,_black-eyed_bean_and_dill_curry.png, id=4181, 933.48
+75pt x 560.0925pt>
+File: Recipe_Pictures/Aubergine,_black-eyed_bean_and_dill_curry.png Graphic fil
+e (type png)
+<use Recipe_Pictures/Aubergine,_black-eyed_bean_and_dill_curry.png>
+Package pdftex.def Info: Recipe_Pictures/Aubergine,_black-eyed_bean_and_dill_cu
+rry.png  used on input line 7649.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7657--7658
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7657--7658
+
+ []
+
+[419 <./Recipe_Pictures/Aubergine,_black-eyed_bean_and_dill_curry.png>]
+[420]
+Chapter 11.
+<Recipe_Pictures/Red_cabbage,_apple_and_pomegranate_salad.png, id=4194, 933.487
+5pt x 622.325pt>
+File: Recipe_Pictures/Red_cabbage,_apple_and_pomegranate_salad.png Graphic file
+ (type png)
+<use Recipe_Pictures/Red_cabbage,_apple_and_pomegranate_salad.png>
+Package pdftex.def Info: Recipe_Pictures/Red_cabbage,_apple_and_pomegranate_sal
+ad.png  used on input line 7682.
+(pdftex.def)             Requested size: 284.52098pt x 189.68065pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7684--7688
+
+ []
+
+[421
+
+] [422 <./Recipe_Pictures/Red_cabbage,_apple_and_pomegranate_salad.png>]
+<Recipe_Pictures/The_Christmas_pumpkin.png, id=4207, 933.4875pt x 622.325pt>
+File: Recipe_Pictures/The_Christmas_pumpkin.png Graphic file (type png)
+<use Recipe_Pictures/The_Christmas_pumpkin.png>
+Package pdftex.def Info: Recipe_Pictures/The_Christmas_pumpkin.png  used on inp
+ut line 7713.
+(pdftex.def)             Requested size: 284.52098pt x 189.68065pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7716--7720
+
+ []
+
+[423 <./Recipe_Pictures/The_Christmas_pumpkin.png>] [424]
+<Recipe_Pictures/Jewelled_florentines.png, id=4222, 933.4875pt x 1150.2975pt>
+File: Recipe_Pictures/Jewelled_florentines.png Graphic file (type png)
+<use Recipe_Pictures/Jewelled_florentines.png>
+Package pdftex.def Info: Recipe_Pictures/Jewelled_florentines.png  used on inpu
+t line 7754.
+(pdftex.def)             Requested size: 230.89287pt x 284.5196pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7756--7760
+
+ []
+
+[425 <./Recipe_Pictures/Jewelled_florentines.png>] [426]
+<Recipe_Pictures/Tofu_and_coconut_curry_with_turmeric_and_Thai_basil.png, id=42
+39, 933.4875pt x 1098.1025pt>
+File: Recipe_Pictures/Tofu_and_coconut_curry_with_turmeric_and_Thai_basil.png G
+raphic file (type png)
+<use Recipe_Pictures/Tofu_and_coconut_curry_with_turmeric_and_Thai_basil.png>
+Package pdftex.def Info: Recipe_Pictures/Tofu_and_coconut_curry_with_turmeric_a
+nd_Thai_basil.png  used on input line 7790.
+(pdftex.def)             Requested size: 241.87488pt x 284.52808pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7793--7797
+
+ []
+
+[427 <./Recipe_Pictures/Tofu_and_coconut_curry_with_turmeric_and_Thai_basil.png
+>] [428]
+<Recipe_Pictures/Persian_herb,_lime_and_kidney_bean_stew.png, id=4254, 933.4875
+pt x 1098.1025pt>
+File: Recipe_Pictures/Persian_herb,_lime_and_kidney_bean_stew.png Graphic file 
+(type png)
+<use Recipe_Pictures/Persian_herb,_lime_and_kidney_bean_stew.png>
+Package pdftex.def Info: Recipe_Pictures/Persian_herb,_lime_and_kidney_bean_ste
+w.png  used on input line 7826.
+(pdftex.def)             Requested size: 241.87488pt x 284.52808pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7829--7833
+
+ []
+
+[429 <./Recipe_Pictures/Persian_herb,_lime_and_kidney_bean_stew.png>] [430]
+<Recipe_Pictures/Thai_red_curry_with_aubergines,_rainbow_chard_and_tofu.png, id
+=4267, 933.4875pt x 1096.095pt>
+File: Recipe_Pictures/Thai_red_curry_with_aubergines,_rainbow_chard_and_tofu.pn
+g Graphic file (type png)
+<use Recipe_Pictures/Thai_red_curry_with_aubergines,_rainbow_chard_and_tofu.png
+>
+Package pdftex.def Info: Recipe_Pictures/Thai_red_curry_with_aubergines,_rainbo
+w_chard_and_tofu.png  used on input line 7863.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7865--7869
+
+ []
+
+[431 <./Recipe_Pictures/Thai_red_curry_with_aubergines,_rainbow_chard_and_tofu.
+png>] [432]
+<Recipe_Pictures/Spiced_chocolate_coins.png, id=4283, 933.4875pt x 1096.095pt>
+File: Recipe_Pictures/Spiced_chocolate_coins.png Graphic file (type png)
+<use Recipe_Pictures/Spiced_chocolate_coins.png>
+Package pdftex.def Info: Recipe_Pictures/Spiced_chocolate_coins.png  used on in
+put line 7907.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7910--7914
+
+ []
+
+[433 <./Recipe_Pictures/Spiced_chocolate_coins.png>] [434]
+<Recipe_Pictures/Kadhi_with_fried_chickpeas.png, id=4295, 933.4875pt x 1007.765
+pt>
+File: Recipe_Pictures/Kadhi_with_fried_chickpeas.png Graphic file (type png)
+<use Recipe_Pictures/Kadhi_with_fried_chickpeas.png>
+Package pdftex.def Info: Recipe_Pictures/Kadhi_with_fried_chickpeas.png  used o
+n input line 7941.
+(pdftex.def)             Requested size: 263.55403pt x 284.525pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7943--7947
+
+ []
+
+[435 <./Recipe_Pictures/Kadhi_with_fried_chickpeas.png>] [436]
+<Recipe_Pictures/Shiitake_rice_with_chilli_pecan_oil.png, id=4307, 933.4875pt x
+ 1090.0725pt>
+File: Recipe_Pictures/Shiitake_rice_with_chilli_pecan_oil.png Graphic file (typ
+e png)
+<use Recipe_Pictures/Shiitake_rice_with_chilli_pecan_oil.png>
+Package pdftex.def Info: Recipe_Pictures/Shiitake_rice_with_chilli_pecan_oil.pn
+g  used on input line 7974.
+(pdftex.def)             Requested size: 243.65536pt x 284.52658pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7977--7981
+
+ []
+
+[437 <./Recipe_Pictures/Shiitake_rice_with_chilli_pecan_oil.png>] [438]
+<Recipe_Pictures/Nam_jim_aubergine_salad_with_wild_rice.png, id=4322, 933.4875p
+t x 997.7275pt>
+File: Recipe_Pictures/Nam_jim_aubergine_salad_with_wild_rice.png Graphic file (
+type png)
+<use Recipe_Pictures/Nam_jim_aubergine_salad_with_wild_rice.png>
+Package pdftex.def Info: Recipe_Pictures/Nam_jim_aubergine_salad_with_wild_rice
+.png  used on input line 8012.
+(pdftex.def)             Requested size: 266.20338pt x 284.52275pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8015--8016
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8015--8016
+
+ []
+
+[439 <./Recipe_Pictures/Nam_jim_aubergine_salad_with_wild_rice.png>] [440]
+<Recipe_Pictures/Parsnip_and_potato_gnocchi_with_gochujang_and_hazelnuts.png, i
+d=4335, 933.4875pt x 969.6225pt>
+File: Recipe_Pictures/Parsnip_and_potato_gnocchi_with_gochujang_and_hazelnuts.p
+ng Graphic file (type png)
+<use Recipe_Pictures/Parsnip_and_potato_gnocchi_with_gochujang_and_hazelnuts.pn
+g>
+Package pdftex.def Info: Recipe_Pictures/Parsnip_and_potato_gnocchi_with_gochuj
+ang_and_hazelnuts.png  used on input line 8048.
+(pdftex.def)             Requested size: 273.92355pt x 284.52704pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8052--8056
+
+ []
+
+[441 <./Recipe_Pictures/Parsnip_and_potato_gnocchi_with_gochujang_and_hazelnuts
+.png>] [442]
+<Recipe_Pictures/Leek,_potato_and_cashew_nut_curry.png, id=4350, 933.4875pt x 1
+005.7575pt>
+File: Recipe_Pictures/Leek,_potato_and_cashew_nut_curry.png Graphic file (type 
+png)
+<use Recipe_Pictures/Leek,_potato_and_cashew_nut_curry.png>
+Package pdftex.def Info: Recipe_Pictures/Leek,_potato_and_cashew_nut_curry.png 
+ used on input line 8084.
+(pdftex.def)             Requested size: 264.08105pt x 284.52603pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8086--8090
+
+ []
+
+[443 <./Recipe_Pictures/Leek,_potato_and_cashew_nut_curry.png>] [444]
+<Recipe_Pictures/Mee_goreng_with_carrot,_red_cabbage_and_tofu.png, id=4363, 933
+.4875pt x 1080.035pt>
+File: Recipe_Pictures/Mee_goreng_with_carrot,_red_cabbage_and_tofu.png Graphic 
+file (type png)
+<use Recipe_Pictures/Mee_goreng_with_carrot,_red_cabbage_and_tofu.png>
+Package pdftex.def Info: Recipe_Pictures/Mee_goreng_with_carrot,_red_cabbage_an
+d_tofu.png  used on input line 8120.
+(pdftex.def)             Requested size: 245.92014pt x 284.52696pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8123--8127
+
+ []
+
+[445 <./Recipe_Pictures/Mee_goreng_with_carrot,_red_cabbage_and_tofu.png>]
+[446]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8161 ...es/Bhabi’s_potato_masala_toasties.png}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: File `Recipe_Pictures/Bhabi\IeC {\textquoteright }s_potato_masal
+a_toasties.png' not found on input line 8161.
+
+
+! Package pdftex.def Error: File `Recipe_Pictures/Bhabi\OT1\textquoteright s_po
+tato_masala_toasties.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8161 ...es/Bhabi’s_potato_masala_toasties.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8161 ...es/Bhabi’s_potato_masala_toasties.png}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8165--8169
+
+ []
+
+[447] [448]
+<Recipe_Pictures/Smoked_tofu,_mushroom_and_almond_kheema.png, id=4391, 933.4875
+pt x 933.4875pt>
+File: Recipe_Pictures/Smoked_tofu,_mushroom_and_almond_kheema.png Graphic file 
+(type png)
+<use Recipe_Pictures/Smoked_tofu,_mushroom_and_almond_kheema.png>
+Package pdftex.def Info: Recipe_Pictures/Smoked_tofu,_mushroom_and_almond_kheem
+a.png  used on input line 8199.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8201--8205
+
+ []
+
+[449 <./Recipe_Pictures/Smoked_tofu,_mushroom_and_almond_kheema.png>] [450]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8244 ...es/Mum’s_beetroot_and_ginger_soup.png}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: File `Recipe_Pictures/Mum\IeC {\textquoteright }s_beetroot_and_g
+inger_soup.png' not found on input line 8244.
+
+
+! Package pdftex.def Error: File `Recipe_Pictures/Mum\OT1\textquoteright s_beet
+root_and_ginger_soup.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8244 ...es/Mum’s_beetroot_and_ginger_soup.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8244 ...es/Mum’s_beetroot_and_ginger_soup.png}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8247--8251
+
+ []
+
+[451] [452]
+<Recipe_Pictures/Mixed_vegetable_Thai_green_curry.png, id=4415, 933.4875pt x 93
+3.4875pt>
+File: Recipe_Pictures/Mixed_vegetable_Thai_green_curry.png Graphic file (type p
+ng)
+<use Recipe_Pictures/Mixed_vegetable_Thai_green_curry.png>
+Package pdftex.def Info: Recipe_Pictures/Mixed_vegetable_Thai_green_curry.png  
+used on input line 8278.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8281--8285
+
+ []
+
+[453 <./Recipe_Pictures/Mixed_vegetable_Thai_green_curry.png>] [454]
+<Recipe_Pictures/Yorkshire_parkin_with_a_whisky_caramel_sauce.png, id=4428, 933
+.4875pt x 933.4875pt>
+File: Recipe_Pictures/Yorkshire_parkin_with_a_whisky_caramel_sauce.png Graphic 
+file (type png)
+<use Recipe_Pictures/Yorkshire_parkin_with_a_whisky_caramel_sauce.png>
+Package pdftex.def Info: Recipe_Pictures/Yorkshire_parkin_with_a_whisky_caramel
+_sauce.png  used on input line 8324.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8327--8331
+
+ []
+
+[455 <./Recipe_Pictures/Yorkshire_parkin_with_a_whisky_caramel_sauce.png>]
+[456] [457]
+<Recipe_Pictures/Pineapple_love_cake.png, id=4449, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Pineapple_love_cake.png Graphic file (type png)
+<use Recipe_Pictures/Pineapple_love_cake.png>
+Package pdftex.def Info: Recipe_Pictures/Pineapple_love_cake.png  used on input
+ line 8370.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8376--8377
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8376--8377
+
+ []
+
+[458 <./Recipe_Pictures/Pineapple_love_cake.png>] [459]
+<Recipe_Pictures/Parsnip_and_carrot_mulligatawny.png, id=4466, 933.4875pt x 560
+.0925pt>
+File: Recipe_Pictures/Parsnip_and_carrot_mulligatawny.png Graphic file (type pn
+g)
+<use Recipe_Pictures/Parsnip_and_carrot_mulligatawny.png>
+Package pdftex.def Info: Recipe_Pictures/Parsnip_and_carrot_mulligatawny.png  u
+sed on input line 8411.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8417--8418
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8417--8418
+
+ []
+
+[460 <./Recipe_Pictures/Parsnip_and_carrot_mulligatawny.png>] [461]
+<Recipe_Pictures/Celeriac,_tofu_and_crispy_kale_gado_gado.png, id=4479, 933.487
+5pt x 933.4875pt>
+File: Recipe_Pictures/Celeriac,_tofu_and_crispy_kale_gado_gado.png Graphic file
+ (type png)
+<use Recipe_Pictures/Celeriac,_tofu_and_crispy_kale_gado_gado.png>
+Package pdftex.def Info: Recipe_Pictures/Celeriac,_tofu_and_crispy_kale_gado_ga
+do.png  used on input line 8450.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8456--8457
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8456--8457
+
+ []
+
+
+Underfull \vbox (badness 1629) has occurred while \output is active []
+
+ [462 <./Recipe_Pictures/Celeriac,_tofu_and_crispy_kale_gado_gado.png>] [463]
+<Recipe_Pictures/Chickpea,_chard_and_sunflower_seed_egusi_with_polenta_dumpling
+s.png, id=4495, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Chickpea,_chard_and_sunflower_seed_egusi_with_polenta_dum
+plings.png Graphic file (type png)
+<use Recipe_Pictures/Chickpea,_chard_and_sunflower_seed_egusi_with_polenta_dump
+lings.png>
+Package pdftex.def Info: Recipe_Pictures/Chickpea,_chard_and_sunflower_seed_egu
+si_with_polenta_dumplings.png  used on input line 8490.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8495--8496
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8495--8496
+
+ []
+
+[464 <./Recipe_Pictures/Chickpea,_chard_and_sunflower_seed_egusi_with_polenta_d
+umplings.png>]
+Overfull \hbox (11.00275pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 11.22.  CHICKPEA, CHARD AND SUNFLOWER SEED EGUSI WITH POLENTA 
+DUMPLINGS \OT1/cmr/m/n/10 465
+ []
+
+[465] [466
+
+]
+Chapter 12.
+<Recipe_Pictures/Leftover_roast_veg_and_harissa_spiral_pie.png, id=4514, 933.48
+75pt x 1098.1025pt>
+File: Recipe_Pictures/Leftover_roast_veg_and_harissa_spiral_pie.png Graphic fil
+e (type png)
+<use Recipe_Pictures/Leftover_roast_veg_and_harissa_spiral_pie.png>
+Package pdftex.def Info: Recipe_Pictures/Leftover_roast_veg_and_harissa_spiral_
+pie.png  used on input line 8526.
+(pdftex.def)             Requested size: 241.87488pt x 284.52808pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8529--8533
+
+ []
+
+[467] [468 <./Recipe_Pictures/Leftover_roast_veg_and_harissa_spiral_pie.png>]
+<Recipe_Pictures/Thai_yellow_curry_with_green_beans_and_potatoes.png, id=4529, 
+933.4875pt x 1049.9225pt>
+File: Recipe_Pictures/Thai_yellow_curry_with_green_beans_and_potatoes.png Graph
+ic file (type png)
+<use Recipe_Pictures/Thai_yellow_curry_with_green_beans_and_potatoes.png>
+Package pdftex.def Info: Recipe_Pictures/Thai_yellow_curry_with_green_beans_and
+_potatoes.png  used on input line 8557.
+(pdftex.def)             Requested size: 252.97084pt x 284.5242pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8560--8564
+
+ []
+
+[469 <./Recipe_Pictures/Thai_yellow_curry_with_green_beans_and_potatoes.png>]
+[470]
+<Recipe_Pictures/Indonesian-style_salted_peanut_and_chocolate_pancakes.png, id=
+4542, 933.4875pt x 1098.1025pt>
+File: Recipe_Pictures/Indonesian-style_salted_peanut_and_chocolate_pancakes.png
+ Graphic file (type png)
+<use Recipe_Pictures/Indonesian-style_salted_peanut_and_chocolate_pancakes.png>
+
+Package pdftex.def Info: Recipe_Pictures/Indonesian-style_salted_peanut_and_cho
+colate_pancakes.png  used on input line 8594.
+(pdftex.def)             Requested size: 241.87488pt x 284.52808pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8597--8601
+
+ []
+
+[471 <./Recipe_Pictures/Indonesian-style_salted_peanut_and_chocolate_pancakes.p
+ng>] [472]
+<Recipe_Pictures/Root_vegetable_and_sprout_pachadi.png, id=4555, 933.4875pt x 1
+096.095pt>
+File: Recipe_Pictures/Root_vegetable_and_sprout_pachadi.png Graphic file (type 
+png)
+<use Recipe_Pictures/Root_vegetable_and_sprout_pachadi.png>
+Package pdftex.def Info: Recipe_Pictures/Root_vegetable_and_sprout_pachadi.png 
+ used on input line 8632.
+(pdftex.def)             Requested size: 242.31644pt x 284.5264pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8635--8639
+
+ []
+
+[473 <./Recipe_Pictures/Root_vegetable_and_sprout_pachadi.png>] [474]
+<Recipe_Pictures/Fried_tofu_with_tomato_sambal_and_spinach.png, id=4568, 933.48
+75pt x 1047.915pt>
+File: Recipe_Pictures/Fried_tofu_with_tomato_sambal_and_spinach.png Graphic fil
+e (type png)
+<use Recipe_Pictures/Fried_tofu_with_tomato_sambal_and_spinach.png>
+Package pdftex.def Info: Recipe_Pictures/Fried_tofu_with_tomato_sambal_and_spin
+ach.png  used on input line 8666.
+(pdftex.def)             Requested size: 253.45514pt x 284.52382pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8669--8673
+
+ []
+
+[475 <./Recipe_Pictures/Fried_tofu_with_tomato_sambal_and_spinach.png>]
+[476]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8700 ...ures/Fiona_Beckett’s_drinks_match.png}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: File `Recipe_Pictures/Fiona_Beckett\IeC {\textquoteright }s_drin
+ks_match.png' not found on input line 8700.
+
+
+! Package pdftex.def Error: File `Recipe_Pictures/Fiona_Beckett\OT1\textquoteri
+ght s_drinks_match.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8700 ...ures/Fiona_Beckett’s_drinks_match.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8700 ...ures/Fiona_Beckett’s_drinks_match.png}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8702--8706
+
+ []
+
+[477] [478]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8748 ...ures/Fiona_Beckett’s_drinks_match.png}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: File `Recipe_Pictures/Fiona_Beckett\IeC {\textquoteright }s_drin
+ks_match.png' not found on input line 8748.
+
+
+! Package pdftex.def Error: File `Recipe_Pictures/Fiona_Beckett\OT1\textquoteri
+ght s_drinks_match.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8748 ...ures/Fiona_Beckett’s_drinks_match.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8748 ...ures/Fiona_Beckett’s_drinks_match.png}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8750--8754
+
+ []
+
+[479] [480]
+<Recipe_Pictures/Drunken_noodles_with_radicchio,_Tenderstem_and_tofu.png, id=46
+09, 933.4875pt x 1009.7725pt>
+File: Recipe_Pictures/Drunken_noodles_with_radicchio,_Tenderstem_and_tofu.png G
+raphic file (type png)
+<use Recipe_Pictures/Drunken_noodles_with_radicchio,_Tenderstem_and_tofu.png>
+Package pdftex.def Info: Recipe_Pictures/Drunken_noodles_with_radicchio,_Tender
+stem_and_tofu.png  used on input line 8796.
+(pdftex.def)             Requested size: 263.02701pt x 284.52168pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8798--8799
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8798--8799
+
+ []
+
+[481 <./Recipe_Pictures/Drunken_noodles_with_radicchio,_Tenderstem_and_tofu.png
+>] [482]
+<Recipe_Pictures/Achari_brussels_sprout_curry.png, id=4623, 933.4875pt x 622.32
+5pt>
+File: Recipe_Pictures/Achari_brussels_sprout_curry.png Graphic file (type png)
+<use Recipe_Pictures/Achari_brussels_sprout_curry.png>
+Package pdftex.def Info: Recipe_Pictures/Achari_brussels_sprout_curry.png  used
+ on input line 8834.
+(pdftex.def)             Requested size: 284.52098pt x 189.68065pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8836--8837
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8836--8837
+
+ []
+
+[483 <./Recipe_Pictures/Achari_brussels_sprout_curry.png>] [484]
+<Recipe_Pictures/Chocolate_panforte.png, id=4637, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Chocolate_panforte.png Graphic file (type png)
+<use Recipe_Pictures/Chocolate_panforte.png>
+Package pdftex.def Info: Recipe_Pictures/Chocolate_panforte.png  used on input 
+line 8874.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8877--8881
+
+ []
+
+[485 <./Recipe_Pictures/Chocolate_panforte.png>] [486]
+<Recipe_Pictures/Kimchi_and_tofu_dumplings_with_dipping_sauce.png, id=4652, 933
+.4875pt x 560.0925pt>
+File: Recipe_Pictures/Kimchi_and_tofu_dumplings_with_dipping_sauce.png Graphic 
+file (type png)
+<use Recipe_Pictures/Kimchi_and_tofu_dumplings_with_dipping_sauce.png>
+Package pdftex.def Info: Recipe_Pictures/Kimchi_and_tofu_dumplings_with_dipping
+_sauce.png  used on input line 8910.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8915--8919
+
+ []
+
+[487 <./Recipe_Pictures/Kimchi_and_tofu_dumplings_with_dipping_sauce.png>]
+[488]
+<Recipe_Pictures/Koshari.png, id=4667, 933.4875pt x 933.4875pt>
+File: Recipe_Pictures/Koshari.png Graphic file (type png)
+<use Recipe_Pictures/Koshari.png>
+Package pdftex.def Info: Recipe_Pictures/Koshari.png  used on input line 8956.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8959--8963
+
+ []
+
+[489 <./Recipe_Pictures/Koshari.png>] [490]
+<Recipe_Pictures/Leftover_roast_vegetable_chaat.png, id=4682, 933.4875pt x 933.
+4875pt>
+File: Recipe_Pictures/Leftover_roast_vegetable_chaat.png Graphic file (type png
+)
+<use Recipe_Pictures/Leftover_roast_vegetable_chaat.png>
+Package pdftex.def Info: Recipe_Pictures/Leftover_roast_vegetable_chaat.png  us
+ed on input line 8993.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8996--9000
+
+ []
+
+[491 <./Recipe_Pictures/Leftover_roast_vegetable_chaat.png>]
+! Misplaced alignment tab character &.
+l.9021 ...\%) which is on offer at £10 at Marks &
+                                                  amp; Spencer.”
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[492]
+<Recipe_Pictures/Pear,_chocolate_and_almond_galette.png, id=4697, 933.4875pt x 
+933.4875pt>
+File: Recipe_Pictures/Pear,_chocolate_and_almond_galette.png Graphic file (type
+ png)
+<use Recipe_Pictures/Pear,_chocolate_and_almond_galette.png>
+Package pdftex.def Info: Recipe_Pictures/Pear,_chocolate_and_almond_galette.png
+  used on input line 9036.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9039--9044
+
+ []
+
+[493 <./Recipe_Pictures/Pear,_chocolate_and_almond_galette.png>] [494]
+<Recipe_Pictures/Whole_pumpkin_and_walnut_biryani.png, id=4714, 933.4875pt x 93
+3.4875pt>
+File: Recipe_Pictures/Whole_pumpkin_and_walnut_biryani.png Graphic file (type p
+ng)
+<use Recipe_Pictures/Whole_pumpkin_and_walnut_biryani.png>
+Package pdftex.def Info: Recipe_Pictures/Whole_pumpkin_and_walnut_biryani.png  
+used on input line 9082.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9085--9089
+
+ []
+
+[495 <./Recipe_Pictures/Whole_pumpkin_and_walnut_biryani.png>] [496]
+<Recipe_Pictures/Udon_noodles_with_red_cabbage_and_cauliflower.png, id=4730, 93
+3.4875pt x 933.4875pt>
+File: Recipe_Pictures/Udon_noodles_with_red_cabbage_and_cauliflower.png Graphic
+ file (type png)
+<use Recipe_Pictures/Udon_noodles_with_red_cabbage_and_cauliflower.png>
+Package pdftex.def Info: Recipe_Pictures/Udon_noodles_with_red_cabbage_and_caul
+iflower.png  used on input line 9125.
+(pdftex.def)             Requested size: 284.52098pt x 284.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9128--9132
+
+ []
+
+[497 <./Recipe_Pictures/Udon_noodles_with_red_cabbage_and_cauliflower.png>]
+[498]
+<Recipe_Pictures/Shiitake_pho_with_crispy_leeks_.png, id=4746, 933.4875pt x 560
+.0925pt>
+File: Recipe_Pictures/Shiitake_pho_with_crispy_leeks_.png Graphic file (type pn
+g)
+<use Recipe_Pictures/Shiitake_pho_with_crispy_leeks_.png>
+Package pdftex.def Info: Recipe_Pictures/Shiitake_pho_with_crispy_leeks_.png  u
+sed on input line 9174.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9180--9181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9180--9181
+
+ []
+
+[499 <./Recipe_Pictures/Shiitake_pho_with_crispy_leeks_.png>] [500]
+<Recipe_Pictures/Festive_pilau_with_beetroot,_cauliflower_and_coriander_chutney
+.png, id=4759, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Festive_pilau_with_beetroot,_cauliflower_and_coriander_ch
+utney.png Graphic file (type png)
+<use Recipe_Pictures/Festive_pilau_with_beetroot,_cauliflower_and_coriander_chu
+tney.png>
+Package pdftex.def Info: Recipe_Pictures/Festive_pilau_with_beetroot,_cauliflow
+er_and_coriander_chutney.png  used on input line 9211.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9217--9218
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9217--9218
+
+ []
+
+
+Overfull \hbox (6.55937pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 12.18.  FESTIVE PILAU WITH BEETROOT, CAULIFLOWER AND CORIANDER
+ CHUTNEY \OT1/cmr/m/n/10 501
+ []
+
+[501 <./Recipe_Pictures/Festive_pilau_with_beetroot,_cauliflower_and_coriander_
+chutney.png>] [502]
+<Recipe_Pictures/Christmas_veg_Penang_curry.png, id=4775, 933.4875pt x 560.0925
+pt>
+File: Recipe_Pictures/Christmas_veg_Penang_curry.png Graphic file (type png)
+<use Recipe_Pictures/Christmas_veg_Penang_curry.png>
+Package pdftex.def Info: Recipe_Pictures/Christmas_veg_Penang_curry.png  used o
+n input line 9254.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9260--9261
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9260--9261
+
+ []
+
+[503 <./Recipe_Pictures/Christmas_veg_Penang_curry.png>] [504]
+<Recipe_Pictures/Pickled_squash,_sage_and_cannellini_beans_on_crisp_rye.png, id
+=4789, 933.4875pt x 1166.3575pt>
+File: Recipe_Pictures/Pickled_squash,_sage_and_cannellini_beans_on_crisp_rye.pn
+g Graphic file (type png)
+<use Recipe_Pictures/Pickled_squash,_sage_and_cannellini_beans_on_crisp_rye.png
+>
+Package pdftex.def Info: Recipe_Pictures/Pickled_squash,_sage_and_cannellini_be
+ans_on_crisp_rye.png  used on input line 9297.
+(pdftex.def)             Requested size: 227.71649pt x 284.52318pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9301--9302
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9301--9302
+
+ []
+
+[505 <./Recipe_Pictures/Pickled_squash,_sage_and_cannellini_beans_on_crisp_rye.
+png>] [506] [507] [508] [509] [510]
+Overfull \hbox (9.10109pt too wide) in paragraph at lines 9398--9398
+|[]\OT1/cmr/bx/n/14.4 Butternut squash and black bean mole with lime-pickled
+ []
+
+<Recipe_Pictures/Butternut_squash_and_black_bean_mole_with_lime-pickled_onions.
+png, id=4845, 933.4875pt x 560.0925pt>
+File: Recipe_Pictures/Butternut_squash_and_black_bean_mole_with_lime-pickled_on
+ions.png Graphic file (type png)
+<use Recipe_Pictures/Butternut_squash_and_black_bean_mole_with_lime-pickled_oni
+ons.png>
+Package pdftex.def Info: Recipe_Pictures/Butternut_squash_and_black_bean_mole_w
+ith_lime-pickled_onions.png  used on input line 9400.
+(pdftex.def)             Requested size: 284.52098pt x 170.71259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9406--9407
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9406--9407
+
+ []
+
+[511 <./Recipe_Pictures/Butternut_squash_and_black_bean_mole_with_lime-pickled_
+onions.png>] [512]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 9437.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 9437.
+ (./New_Vegan_Cookbook.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 9437.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 9437.
+
+Package rerunfilecheck Info: File `New_Vegan_Cookbook.out' has not changed.
+(rerunfilecheck)             Checksum: 75B58155BE9E0CF59413C7CA8551B45D;21231.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 9437.
+ ) 
+Here is how much of TeX's memory you used:
+ 9564 strings out of 492649
+ 178696 string characters out of 6129621
+ 206953 words of memory out of 5000000
+ 11229 multiletter control sequences out of 15000+600000
+ 9364 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,6n,31p,1110b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></u
+sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
+texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/t
+exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
+xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/tex
+live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texl
+ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmu10.pfb>
+Output written on New_Vegan_Cookbook.pdf (520 pages, 16814215 bytes).
+PDF statistics:
+ 5316 PDF objects out of 6186 (max. 8388607)
+ 4504 compressed objects within 46 object streams
+ 1920 named destinations out of 2073 (max. 500000)
+ 3172 words of extra memory for PDF output out of 10000 (max. 10000000)
+

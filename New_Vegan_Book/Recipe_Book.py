@@ -9,6 +9,8 @@ NEW_VEGAN_URL = "https://www.theguardian.com/food/series/the-new-vegan"
 
 class Recipe_Book():
 	
+	## Scraping, Reading and Writing Methods ##
+	## ------------------------------------- ##
 	def scrape_recipes_from_page(self, first_page = True, page_url = NEW_VEGAN_URL):
 		if page_url == None: # this is a way to exit the recurive scraping 
 			return None
@@ -51,26 +53,77 @@ class Recipe_Book():
 
 
 	def save_recipe_cards(self, file_path_for_Index = "Recipe_Cards/Index.txt"):
-		with open(file_path_for_Index, 'w') as f:
+		pass 
+		'''with open(file_path_for_Index, 'w') as f:
 			for recipe in self.recipes:
 				if recipe.title != "DONT USE":
 					if (recipe != None):
 						recipe.save_recipe_card()
 						f.writelines(recipe.recipe_card_filename() + '\n')
-			f.close()
+			f.close()'''
 
 	def list_of_recipies(self):
 		[print(recipe.title) for recipe in self.recipes]
 		print(len(self.recipes))
 		
 
+	## Methods to Create tex file ##
+	## -------------------------- ##
+
+	def save_text_cookbook(self, file_name = "New_Vegan_Cookbook.tex"):
+		self.read_recipes_from_file()
+		string =""
+		recipe_book.sort_by_month()
+		with open(file_name, 'w') as f:
+			f.writelines(self.read_in_tex_preamble())
+			f.writelines(self.generate_recipes_tex())
+			f.writelines("\\end{document}")
+			f.close()
+
+	def read_in_tex_preamble(self, preamble_file = "tex_preamble.tex"):
+		string = ""
+
+		with open(preamble_file, 'r') as f:
+			line = f.readline()
+			while ("\\mainmatter" not in line):
+				string += line
+				line = f.readline()
+		return string + "\\mainmatter\n"
+
+	def generate_recipes_tex(self):
+		string, month = "\\chapter{January}\n", 1
+		for recipe in self.recipes:
+			if recipe.date.month != month:
+				month = recipe.date.month
+				string += f"\\chapter{{{recipe.date.strftime('%B')}}}\n"
+
+			string += recipe.get_recipe_tex_string()
+		return string
+
+
+	## Misc functions ##
+	## -------------- ##
+
+	def dates(self):
+		[print(recipe.date.month) for recipe in self.recipes]
+
+	def sort_by_month(self):
+		self.recipes.sort(key = lambda x: x.date.month)
+				
+
+
 
 recipe_book = Recipe_Book()
 #recipe_book.scrape_recipes_from_page()
+recipe_book.save_text_cookbook()
+
+#recipe_book.dates()
+#recipe_book.save_text_cookbook()
+#recipe_book.scrape_recipes_from_page()
 #recipe_book.save_recipe_cards()
 # function to order the recipies 
-recipe_book.read_recipes_from_file()
-recipe_book.list_of_recipies()
+#recipe_book.read_recipes_from_file()
+#recipe_book.list_of_recipies()
 #recipe_book.list_of_recipies()
 
 
@@ -78,3 +131,8 @@ recipe_book.list_of_recipies()
 #recipe = Recipe("https://www.theguardian.com/food/2022/mar/19/ixta-belfrages-vegan-recipe-for-curried-caramelised-onion-galette")
 #recipe.save_recipe_card()
 #print(recipe.preamble)
+
+
+'''with open("test.tex", 'w') as f:
+	f.writelines(recipe.get_recipe_tex_string())
+	f.close()'''
